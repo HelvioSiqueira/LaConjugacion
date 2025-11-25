@@ -2,17 +2,18 @@ package com.helvio.laconjugacion.datasource.model
 
 import com.google.gson.annotations.SerializedName
 
-data class Conjugaciones(
+data class Conjugations(
     @SerializedName("él/ella/usted")
-    val ellosEllasUstedes: Ellosellasustedes,
+    val heSheYouFormal: HeSheYouFormalConjugation,
     @SerializedName("nosotros/nosotras")
-    val nosotrosNosotras: Nosotrosnosotras,
+    val we: WeConjugation,
     @SerializedName("tú")
-    val tu: Tu,
+    val youInformal: YouInformalConjugation,
     @SerializedName("vosotros/vosotras")
-    val vosotrosVosotras: Vosotrosvosotras,
+    val youPluralInformal: YouPluralInformalConjugation,
     @SerializedName("yo")
-    val yo: Yo,
+    val i: IConjugation,
     @SerializedName("ellos/ellas/ustedes")
-    val elEllaUsted: Elellausted
+    val theyYouPlural: TheyYouPluralConjugation
 )
+

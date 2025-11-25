@@ -2,9 +2,10 @@ package com.helvio.laconjugacion.datasource.model
 
 import com.google.gson.annotations.SerializedName
 
-data class Elellausted(
+data class YouInformalConjugation(
     @SerializedName("ejemplo")
-    val ejemplo: String,
+    val example: String?,
     @SerializedName("forma")
-    val forma: String
+    val form: String
 )
+

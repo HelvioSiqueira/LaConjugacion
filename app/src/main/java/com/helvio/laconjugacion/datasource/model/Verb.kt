@@ -2,15 +2,16 @@ package com.helvio.laconjugacion.datasource.model
 
 import com.google.gson.annotations.SerializedName
 
-data class Verbo(
+data class Verb(
     @SerializedName("numero")
-    val numero: Int,
+    val number: Int,
     @SerializedName("conjugaciones")
-    val conjugaciones: Conjugaciones,
+    val conjugations: Conjugations,
     @SerializedName("infinitivo")
-    val infinitivo: String,
+    val infinitive: String,
     @SerializedName("tipo")
-    val tipo: String,
+    val type: String,
     @SerializedName("traducao")
-    val traducao: String
+    val translation: String
 )
+
