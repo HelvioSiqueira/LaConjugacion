@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.helvio.myapplication"
+    namespace = "com.helvio.laconjugacion"
     compileSdk = 36
 
     defaultConfig {

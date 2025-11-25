@@ -1,6 +1,5 @@
-package com.helvio.myapplication.ui.theme
+package com.helvio.laconjugacion.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

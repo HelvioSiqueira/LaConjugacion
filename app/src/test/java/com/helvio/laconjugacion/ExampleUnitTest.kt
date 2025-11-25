@@ -1,4 +1,4 @@
-package com.helvio.myapplication
+package com.helvio.laconjugacion
 
 import org.junit.Test
 
