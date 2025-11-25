@@ -4,11 +4,11 @@ import com.google.gson.annotations.SerializedName
 
 data class ConjugationsModel(
     @SerializedName("descripcion")
-    val description: String,
+    val description: String = "",
     @SerializedName("tiempo_verbal")
-    val verbTense: String,
+    val verbTense: VerbTenseEnum = VerbTenseEnum.PRESENT_INDICATIVE,
     @SerializedName("titulo")
-    val title: String,
+    val title: String = "",
     @SerializedName("verbos")
-    val verbs: List<Verb>
+    val verbs: List<Verb> = emptyList()
 )
