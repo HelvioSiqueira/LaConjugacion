@@ -1,0 +1,808 @@
+{
+  "titulo": "100 Verbos Mais Usados em Espanhol - Parte 1 (Verbos 1-25)",
+  "tiempo_verbal": "preterito_indefinido",
+  "descripcion": "Conjugações no Pretérito Indefinido com exemplos de uso",
+  "verbos": [
+    {
+      "numero": 1,
+      "infinitivo": "ser",
+      "traducao": "ser",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "fui",
+          "ejemplo": "Yo fui el mejor alumno de la clase."
+        },
+        "tú": {
+          "forma": "fuiste",
+          "ejemplo": "Tú fuiste muy amable conmigo."
+        },
+        "él/ella/usted": {
+          "forma": "fue",
+          "ejemplo": "Ella fue mi profesora de español."
+        },
+        "nosotros/nosotras": {
+          "forma": "fuimos",
+          "ejemplo": "Nosotros fuimos compañeros de trabajo."
+        },
+        "vosotros/vosotras": {
+          "forma": "fuisteis",
+          "ejemplo": "Vosotros fuisteis muy generosos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "fueron",
+          "ejemplo": "Ellos fueron los ganadores del concurso."
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "infinitivo": "estar",
+      "traducao": "estar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "estuve",
+          "ejemplo": "Yo estuve en París el año pasado."
+        },
+        "tú": {
+          "forma": "estuviste",
+          "ejemplo": "Tú estuviste enfermo toda la semana."
+        },
+        "él/ella/usted": {
+          "forma": "estuvo",
+          "ejemplo": "Mi hermano estuvo en el hospital."
+        },
+        "nosotros/nosotras": {
+          "forma": "estuvimos",
+          "ejemplo": "Nosotros estuvimos esperando dos horas."
+        },
+        "vosotros/vosotras": {
+          "forma": "estuvisteis",
+          "ejemplo": "Vosotros estuvisteis de vacaciones en julio."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "estuvieron",
+          "ejemplo": "Mis padres estuvieron de viaje todo el mes."
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "infinitivo": "haber",
+      "traducao": "haver",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "hube",
+          "ejemplo": "Yo hube terminado cuando llegaste."
+        },
+        "tú": {
+          "forma": "hubiste",
+          "ejemplo": "Tú hubiste de salir temprano."
+        },
+        "él/ella/usted": {
+          "forma": "hubo",
+          "ejemplo": "Hubo mucha gente en el concierto."
+        },
+        "nosotros/nosotras": {
+          "forma": "hubimos",
+          "ejemplo": "Nosotros hubimos de esperar."
+        },
+        "vosotros/vosotras": {
+          "forma": "hubisteis",
+          "ejemplo": "Vosotros hubisteis llegado tarde."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "hubieron",
+          "ejemplo": "Hubieron varios problemas ayer."
+        }
+      }
+    },
+    {
+      "numero": 4,
+      "infinitivo": "tener",
+      "traducao": "ter",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tuve",
+          "ejemplo": "Yo tuve mucha suerte en el examen."
+        },
+        "tú": {
+          "forma": "tuviste",
+          "ejemplo": "Tú tuviste razón desde el principio."
+        },
+        "él/ella/usted": {
+          "forma": "tuvo",
+          "ejemplo": "Ella tuvo un bebé en marzo."
+        },
+        "nosotros/nosotras": {
+          "forma": "tuvimos",
+          "ejemplo": "Nosotros tuvimos una reunión importante ayer."
+        },
+        "vosotros/vosotras": {
+          "forma": "tuvisteis",
+          "ejemplo": "Vosotros tuvisteis tiempo suficiente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tuvieron",
+          "ejemplo": "Ellos tuvieron muchos problemas."
+        }
+      }
+    },
+    {
+      "numero": 5,
+      "infinitivo": "hacer",
+      "traducao": "fazer",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "hice",
+          "ejemplo": "Yo hice mi tarea anoche."
+        },
+        "tú": {
+          "forma": "hiciste",
+          "ejemplo": "Tú hiciste un excelente trabajo."
+        },
+        "él/ella/usted": {
+          "forma": "hizo",
+          "ejemplo": "Hizo mucho frío ayer."
+        },
+        "nosotros/nosotras": {
+          "forma": "hicimos",
+          "ejemplo": "Nosotros hicimos una fiesta sorpresa."
+        },
+        "vosotros/vosotras": {
+          "forma": "hicisteis",
+          "ejemplo": "Vosotros hicisteis demasiado ruido."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "hicieron",
+          "ejemplo": "Ellos hicieron todo lo posible."
+        }
+      }
+    },
+    {
+      "numero": 6,
+      "infinitivo": "poder",
+      "traducao": "poder",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pude",
+          "ejemplo": "Yo pude terminar el proyecto a tiempo."
+        },
+        "tú": {
+          "forma": "pudiste",
+          "ejemplo": "Tú pudiste resolver el problema."
+        },
+        "él/ella/usted": {
+          "forma": "pudo",
+          "ejemplo": "Ella pudo llegar temprano."
+        },
+        "nosotros/nosotras": {
+          "forma": "pudimos",
+          "ejemplo": "Nosotros pudimos ver la película."
+        },
+        "vosotros/vosotras": {
+          "forma": "pudisteis",
+          "ejemplo": "Vosotros pudisteis entrar gratis."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pudieron",
+          "ejemplo": "Ellos pudieron ganar el partido."
+        }
+      }
+    },
+    {
+      "numero": 7,
+      "infinitivo": "decir",
+      "traducao": "dizer",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "dije",
+          "ejemplo": "Yo dije la verdad."
+        },
+        "tú": {
+          "forma": "dijiste",
+          "ejemplo": "Tú dijiste algo muy interesante."
+        },
+        "él/ella/usted": {
+          "forma": "dijo",
+          "ejemplo": "Mi profesor dijo que estudiáramos más."
+        },
+        "nosotros/nosotras": {
+          "forma": "dijimos",
+          "ejemplo": "Nosotros dijimos adiós a nuestros amigos."
+        },
+        "vosotros/vosotras": {
+          "forma": "dijisteis",
+          "ejemplo": "Vosotros dijisteis muchas tonterías."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "dijeron",
+          "ejemplo": "Ellos dijeron que vendrían."
+        }
+      }
+    },
+    {
+      "numero": 8,
+      "infinitivo": "ir",
+      "traducao": "ir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "fui",
+          "ejemplo": "Yo fui al gimnasio ayer."
+        },
+        "tú": {
+          "forma": "fuiste",
+          "ejemplo": "Tú fuiste a la universidad en autobús."
+        },
+        "él/ella/usted": {
+          "forma": "fue",
+          "ejemplo": "Ella fue de compras el domingo."
+        },
+        "nosotros/nosotras": {
+          "forma": "fuimos",
+          "ejemplo": "Nosotros fuimos al cine anoche."
+        },
+        "vosotros/vosotras": {
+          "forma": "fuisteis",
+          "ejemplo": "Vosotros fuisteis muy rápido."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "fueron",
+          "ejemplo": "Mis amigos fueron a la playa."
+        }
+      }
+    },
+    {
+      "numero": 9,
+      "infinitivo": "ver",
+      "traducao": "ver",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vi",
+          "ejemplo": "Yo vi una película increíble anoche."
+        },
+        "tú": {
+          "forma": "viste",
+          "ejemplo": "Tú viste el accidente."
+        },
+        "él/ella/usted": {
+          "forma": "vio",
+          "ejemplo": "Mi abuelo vio muchas cosas en su vida."
+        },
+        "nosotros/nosotras": {
+          "forma": "vimos",
+          "ejemplo": "Nosotros vimos las noticias."
+        },
+        "vosotros/vosotras": {
+          "forma": "visteis",
+          "ejemplo": "Vosotros visteis el problema claramente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vieron",
+          "ejemplo": "Ellos vieron un ovni."
+        }
+      }
+    },
+    {
+      "numero": 10,
+      "infinitivo": "dar",
+      "traducao": "dar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "di",
+          "ejemplo": "Yo di una clase de español ayer."
+        },
+        "tú": {
+          "forma": "diste",
+          "ejemplo": "Tú diste muy buenos consejos."
+        },
+        "él/ella/usted": {
+          "forma": "dio",
+          "ejemplo": "Mi madre dio una fiesta sorpresa."
+        },
+        "nosotros/nosotras": {
+          "forma": "dimos",
+          "ejemplo": "Nosotros dimos un paseo por el parque."
+        },
+        "vosotros/vosotras": {
+          "forma": "disteis",
+          "ejemplo": "Vosotros disteis mucho trabajo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "dieron",
+          "ejemplo": "Ellos dieron una fiesta el sábado."
+        }
+      }
+    },
+    {
+      "numero": 11,
+      "infinitivo": "saber",
+      "traducao": "saber",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "supe",
+          "ejemplo": "Yo supe la noticia ayer."
+        },
+        "tú": {
+          "forma": "supiste",
+          "ejemplo": "Tú supiste resolver el problema."
+        },
+        "él/ella/usted": {
+          "forma": "supo",
+          "ejemplo": "Ella supo la verdad finalmente."
+        },
+        "nosotros/nosotras": {
+          "forma": "supimos",
+          "ejemplo": "Nosotros supimos que habías ganado."
+        },
+        "vosotros/vosotras": {
+          "forma": "supisteis",
+          "ejemplo": "Vosotros supisteis la respuesta."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "supieron",
+          "ejemplo": "Ellos supieron comportarse bien."
+        }
+      }
+    },
+    {
+      "numero": 12,
+      "infinitivo": "querer",
+      "traducao": "querer",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "quise",
+          "ejemplo": "Yo quise llamarte pero no pude."
+        },
+        "tú": {
+          "forma": "quisiste",
+          "ejemplo": "Tú quisiste ayudar pero fue tarde."
+        },
+        "él/ella/usted": {
+          "forma": "quiso",
+          "ejemplo": "Mi hermana quiso estudiar medicina."
+        },
+        "nosotros/nosotras": {
+          "forma": "quisimos",
+          "ejemplo": "Nosotros quisimos comprar esa casa."
+        },
+        "vosotros/vosotras": {
+          "forma": "quisisteis",
+          "ejemplo": "Vosotros quisisteis salir pero llovió."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "quisieron",
+          "ejemplo": "Ellos quisieron venir pero no pudieron."
+        }
+      }
+    },
+    {
+      "numero": 13,
+      "infinitivo": "llegar",
+      "traducao": "chegar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "llegué",
+          "ejemplo": "Yo llegué a la oficina a las ocho."
+        },
+        "tú": {
+          "forma": "llegaste",
+          "ejemplo": "Tú llegaste tarde como siempre."
+        },
+        "él/ella/usted": {
+          "forma": "llegó",
+          "ejemplo": "El tren llegó puntualmente."
+        },
+        "nosotros/nosotras": {
+          "forma": "llegamos",
+          "ejemplo": "Nosotros llegamos antes que todos."
+        },
+        "vosotros/vosotras": {
+          "forma": "llegasteis",
+          "ejemplo": "Vosotros llegasteis con mucha energía."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "llegaron",
+          "ejemplo": "Mis abuelos llegaron ayer de viaje."
+        }
+      }
+    },
+    {
+      "numero": 14,
+      "infinitivo": "pasar",
+      "traducao": "passar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pasé",
+          "ejemplo": "Yo pasé por tu casa ayer."
+        },
+        "tú": {
+          "forma": "pasaste",
+          "ejemplo": "Tú pasaste mucho tiempo estudiando."
+        },
+        "él/ella/usted": {
+          "forma": "pasó",
+          "ejemplo": "Pasó algo extraño anoche."
+        },
+        "nosotros/nosotras": {
+          "forma": "pasamos",
+          "ejemplo": "Nosotros pasamos las vacaciones en la playa."
+        },
+        "vosotros/vosotras": {
+          "forma": "pasasteis",
+          "ejemplo": "Vosotros pasasteis demasiado frío."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pasaron",
+          "ejemplo": "Ellos pasaron toda la noche juntos."
+        }
+      }
+    },
+    {
+      "numero": 15,
+      "infinitivo": "deber",
+      "traducao": "dever",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "debí",
+          "ejemplo": "Yo debí estudiar más para el examen."
+        },
+        "tú": {
+          "forma": "debiste",
+          "ejemplo": "Tú debiste ser más puntual."
+        },
+        "él/ella/usted": {
+          "forma": "debió",
+          "ejemplo": "Él debió pagar la deuda."
+        },
+        "nosotros/nosotras": {
+          "forma": "debimos",
+          "ejemplo": "Nosotros debimos terminar el proyecto ayer."
+        },
+        "vosotros/vosotras": {
+          "forma": "debisteis",
+          "ejemplo": "Vosotros debisteis llamar antes."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "debieron",
+          "ejemplo": "Ellos debieron llegar más temprano."
+        }
+      }
+    },
+    {
+      "numero": 16,
+      "infinitivo": "poner",
+      "traducao": "pôr/colocar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "puse",
+          "ejemplo": "Yo puse la mesa para cenar."
+        },
+        "tú": {
+          "forma": "pusiste",
+          "ejemplo": "Tú pusiste mucha atención en clase."
+        },
+        "él/ella/usted": {
+          "forma": "puso",
+          "ejemplo": "Mi madre puso la radio por la mañana."
+        },
+        "nosotros/nosotras": {
+          "forma": "pusimos",
+          "ejemplo": "Nosotros pusimos las llaves en el cajón."
+        },
+        "vosotros/vosotras": {
+          "forma": "pusisteis",
+          "ejemplo": "Vosotros pusisteis nervioso al profesor."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pusieron",
+          "ejemplo": "Ellos pusieron música alegre en la fiesta."
+        }
+      }
+    },
+    {
+      "numero": 17,
+      "infinitivo": "parecer",
+      "traducao": "parecer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "parecí",
+          "ejemplo": "Yo parecí más joven en la foto."
+        },
+        "tú": {
+          "forma": "pareciste",
+          "ejemplo": "Tú pareciste cansado ayer."
+        },
+        "él/ella/usted": {
+          "forma": "pareció",
+          "ejemplo": "Pareció que iba a llover."
+        },
+        "nosotros/nosotras": {
+          "forma": "parecimos",
+          "ejemplo": "Nosotros parecimos hermanos."
+        },
+        "vosotros/vosotras": {
+          "forma": "parecisteis",
+          "ejemplo": "Vosotros parecisteis muy contentos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "parecieron",
+          "ejemplo": "Ellos parecieron buenas personas."
+        }
+      }
+    },
+    {
+      "numero": 18,
+      "infinitivo": "quedar",
+      "traducao": "ficar/restar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "quedé",
+          "ejemplo": "Yo quedé con mis amigos el viernes."
+        },
+        "tú": {
+          "forma": "quedaste",
+          "ejemplo": "Tú quedaste muy bien en esa foto."
+        },
+        "él/ella/usted": {
+          "forma": "quedó",
+          "ejemplo": "La reunión quedó cancelada."
+        },
+        "nosotros/nosotras": {
+          "forma": "quedamos",
+          "ejemplo": "Nosotros quedamos a las siete en el café."
+        },
+        "vosotros/vosotras": {
+          "forma": "quedasteis",
+          "ejemplo": "Vosotros quedasteis en segundo lugar."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "quedaron",
+          "ejemplo": "Solo quedaron dos días para las vacaciones."
+        }
+      }
+    },
+    {
+      "numero": 19,
+      "infinitivo": "creer",
+      "traducao": "crer/acreditar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "creí",
+          "ejemplo": "Yo creí que tenías razón."
+        },
+        "tú": {
+          "forma": "creíste",
+          "ejemplo": "Tú creíste en los milagros."
+        },
+        "él/ella/usted": {
+          "forma": "creyó",
+          "ejemplo": "Ella creyó en sí misma."
+        },
+        "nosotros/nosotras": {
+          "forma": "creímos",
+          "ejemplo": "Nosotros creímos su historia."
+        },
+        "vosotros/vosotras": {
+          "forma": "creísteis",
+          "ejemplo": "Vosotros creísteis todo lo que os dijeron."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "creyeron",
+          "ejemplo": "Ellos creyeron que era una buena idea."
+        }
+      }
+    },
+    {
+      "numero": 20,
+      "infinitivo": "hablar",
+      "traducao": "falar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "hablé",
+          "ejemplo": "Yo hablé con el director ayer."
+        },
+        "tú": {
+          "forma": "hablaste",
+          "ejemplo": "Tú hablaste muy rápido."
+        },
+        "él/ella/usted": {
+          "forma": "habló",
+          "ejemplo": "Mi profesor habló sobre historia."
+        },
+        "nosotros/nosotras": {
+          "forma": "hablamos",
+          "ejemplo": "Nosotros hablamos por teléfono anoche."
+        },
+        "vosotros/vosotras": {
+          "forma": "hablasteis",
+          "ejemplo": "Vosotros hablasteis demasiado alto."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "hablaron",
+          "ejemplo": "Ellos hablaron de política."
+        }
+      }
+    },
+    {
+      "numero": 21,
+      "infinitivo": "llevar",
+      "traducao": "levar/carregar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "llevé",
+          "ejemplo": "Yo llevé mis libros a la escuela."
+        },
+        "tú": {
+          "forma": "llevaste",
+          "ejemplo": "Tú llevaste un vestido muy bonito."
+        },
+        "él/ella/usted": {
+          "forma": "llevó",
+          "ejemplo": "Mi hermano llevó gafas ese día."
+        },
+        "nosotros/nosotras": {
+          "forma": "llevamos",
+          "ejemplo": "Nosotros llevamos comida a la fiesta."
+        },
+        "vosotros/vosotras": {
+          "forma": "llevasteis",
+          "ejemplo": "Vosotros llevasteis el mismo corte de pelo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "llevaron",
+          "ejemplo": "Ellos llevaron una vida muy tranquila."
+        }
+      }
+    },
+    {
+      "numero": 22,
+      "infinitivo": "dejar",
+      "traducao": "deixar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "dejé",
+          "ejemplo": "Yo dejé las llaves sobre la mesa."
+        },
+        "tú": {
+          "forma": "dejaste",
+          "ejemplo": "Tú dejaste todo para el último momento."
+        },
+        "él/ella/usted": {
+          "forma": "dejó",
+          "ejemplo": "Ella dejó de fumar el mes pasado."
+        },
+        "nosotros/nosotras": {
+          "forma": "dejamos",
+          "ejemplo": "Nosotros dejamos propina en el restaurante."
+        },
+        "vosotros/vosotras": {
+          "forma": "dejasteis",
+          "ejemplo": "Vosotros dejasteis la puerta abierta."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "dejaron",
+          "ejemplo": "Ellos dejaron sus zapatos en la entrada."
+        }
+      }
+    },
+    {
+      "numero": 23,
+      "infinitivo": "seguir",
+      "traducao": "seguir/continuar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "seguí",
+          "ejemplo": "Yo seguí estudiando toda la noche."
+        },
+        "tú": {
+          "forma": "seguiste",
+          "ejemplo": "Tú seguiste mis consejos."
+        },
+        "él/ella/usted": {
+          "forma": "siguió",
+          "ejemplo": "Ella siguió trabajando hasta tarde."
+        },
+        "nosotros/nosotras": {
+          "forma": "seguimos",
+          "ejemplo": "Nosotros seguimos por ese camino."
+        },
+        "vosotros/vosotras": {
+          "forma": "seguisteis",
+          "ejemplo": "Vosotros seguisteis las instrucciones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "siguieron",
+          "ejemplo": "Ellos siguieron las noticias."
+        }
+      }
+    },
+    {
+      "numero": 24,
+      "infinitivo": "encontrar",
+      "traducao": "encontrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "encontré",
+          "ejemplo": "Yo encontré mis llaves debajo del sofá."
+        },
+        "tú": {
+          "forma": "encontraste",
+          "ejemplo": "Tú encontraste una buena oferta."
+        },
+        "él/ella/usted": {
+          "forma": "encontró",
+          "ejemplo": "Mi padre encontró trabajo rápidamente."
+        },
+        "nosotros/nosotras": {
+          "forma": "encontramos",
+          "ejemplo": "Nosotros encontramos un restaurante excelente."
+        },
+        "vosotros/vosotras": {
+          "forma": "encontrasteis",
+          "ejemplo": "Vosotros encontrasteis la solución."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "encontraron",
+          "ejemplo": "Ellos encontraron muchas dificultades."
+        }
+      }
+    },
+    {
+      "numero": 25,
+      "infinitivo": "llamar",
+      "traducao": "chamar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "llamé",
+          "ejemplo": "Yo llamé a mi madre ayer."
+        },
+        "tú": {
+          "forma": "llamaste",
+          "ejemplo": "Tú llamaste mucho la atención."
+        },
+        "él/ella/usted": {
+          "forma": "llamó",
+          "ejemplo": "Mi jefe llamó varias veces."
+        },
+        "nosotros/nosotras": {
+          "forma": "llamamos",
+          "ejemplo": "Nosotros llamamos al médico."
+        },
+        "vosotros/vosotras": {
+          "forma": "llamasteis",
+          "ejemplo": "Vosotros llamasteis a la puerta."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "llamaron",
+          "ejemplo": "Ellos llamaron por teléfono anoche."
+        }
+      }
+    }
+  ]
+}
+

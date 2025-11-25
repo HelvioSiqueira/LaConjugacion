@@ -1,0 +1,607 @@
+{
+  "titulo": "Subjuntivo 76-100",
+  "tiempo_verbal": "presente_subjutivo",
+  "verbos": [
+    {
+      "numero": 76,
+      "infinitivo": "cambiar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cambie"
+        },
+        "tú": {
+          "forma": "cambies"
+        },
+        "él/ella/usted": {
+          "forma": "cambie"
+        },
+        "nosotros/nosotras": {
+          "forma": "cambiemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "cambiéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cambien"
+        }
+      }
+    },
+    {
+      "numero": 77,
+      "infinitivo": "presentar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "presente"
+        },
+        "tú": {
+          "forma": "presentes"
+        },
+        "él/ella/usted": {
+          "forma": "presente"
+        },
+        "nosotros/nosotras": {
+          "forma": "presentemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "presentéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "presenten"
+        }
+      }
+    },
+    {
+      "numero": 78,
+      "infinitivo": "considerar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "considere"
+        },
+        "tú": {
+          "forma": "consideres"
+        },
+        "él/ella/usted": {
+          "forma": "considere"
+        },
+        "nosotros/nosotras": {
+          "forma": "consideremos"
+        },
+        "vosotros/vosotras": {
+          "forma": "consideréis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "consideren"
+        }
+      }
+    },
+    {
+      "numero": 79,
+      "infinitivo": "resultar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "resulte"
+        },
+        "tú": {
+          "forma": "resultes"
+        },
+        "él/ella/usted": {
+          "forma": "resulte"
+        },
+        "nosotros/nosotras": {
+          "forma": "resultemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "resultéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "resulten"
+        }
+      }
+    },
+    {
+      "numero": 80,
+      "infinitivo": "aumentar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aumente"
+        },
+        "tú": {
+          "forma": "aumentes"
+        },
+        "él/ella/usted": {
+          "forma": "aumente"
+        },
+        "nosotros/nosotras": {
+          "forma": "aumentemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "aumentéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aumenten"
+        }
+      }
+    },
+    {
+      "numero": 81,
+      "infinitivo": "ganar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "gane"
+        },
+        "tú": {
+          "forma": "ganes"
+        },
+        "él/ella/usted": {
+          "forma": "gane"
+        },
+        "nosotros/nosotras": {
+          "forma": "ganemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "ganéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ganen"
+        }
+      }
+    },
+    {
+      "numero": 82,
+      "infinitivo": "mantener",
+      "conjugaciones": {
+        "yo": {
+          "forma": "mantenga"
+        },
+        "tú": {
+          "forma": "mantengas"
+        },
+        "él/ella/usted": {
+          "forma": "mantenga"
+        },
+        "nosotros/nosotras": {
+          "forma": "mantengamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "mantengáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "mantengan"
+        }
+      }
+    },
+    {
+      "numero": 83,
+      "infinitivo": "bastar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "baste"
+        },
+        "tú": {
+          "forma": "bastes"
+        },
+        "él/ella/usted": {
+          "forma": "baste"
+        },
+        "nosotros/nosotras": {
+          "forma": "bastemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "bastéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "basten"
+        }
+      }
+    },
+    {
+      "numero": 84,
+      "infinitivo": "formar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "forme"
+        },
+        "tú": {
+          "forma": "formes"
+        },
+        "él/ella/usted": {
+          "forma": "forme"
+        },
+        "nosotros/nosotras": {
+          "forma": "formemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "forméis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "formen"
+        }
+      }
+    },
+    {
+      "numero": 85,
+      "infinitivo": "continuar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "continúe"
+        },
+        "tú": {
+          "forma": "continúes"
+        },
+        "él/ella/usted": {
+          "forma": "continúe"
+        },
+        "nosotros/nosotras": {
+          "forma": "continuemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "continuéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "continúen"
+        }
+      }
+    },
+    {
+      "numero": 86,
+      "infinitivo": "comprar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "compre"
+        },
+        "tú": {
+          "forma": "compres"
+        },
+        "él/ella/usted": {
+          "forma": "compre"
+        },
+        "nosotros/nosotras": {
+          "forma": "compremos"
+        },
+        "vosotros/vosotras": {
+          "forma": "compréis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "compren"
+        }
+      }
+    },
+    {
+      "numero": 87,
+      "infinitivo": "sufrir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sufra"
+        },
+        "tú": {
+          "forma": "sufras"
+        },
+        "él/ella/usted": {
+          "forma": "sufra"
+        },
+        "nosotros/nosotras": {
+          "forma": "suframos"
+        },
+        "vosotros/vosotras": {
+          "forma": "sufráis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sufran"
+        }
+      }
+    },
+    {
+      "numero": 88,
+      "infinitivo": "cumplir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cumpla"
+        },
+        "tú": {
+          "forma": "cumplas"
+        },
+        "él/ella/usted": {
+          "forma": "cumpla"
+        },
+        "nosotros/nosotras": {
+          "forma": "cumplamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "cumpláis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cumplan"
+        }
+      }
+    },
+    {
+      "numero": 89,
+      "infinitivo": "aprender",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aprenda"
+        },
+        "tú": {
+          "forma": "aprendas"
+        },
+        "él/ella/usted": {
+          "forma": "aprenda"
+        },
+        "nosotros/nosotras": {
+          "forma": "aprendamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "aprendáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aprendan"
+        }
+      }
+    },
+    {
+      "numero": 90,
+      "infinitivo": "servir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sirva"
+        },
+        "tú": {
+          "forma": "sirvas"
+        },
+        "él/ella/usted": {
+          "forma": "sirva"
+        },
+        "nosotros/nosotras": {
+          "forma": "sirvamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "sirváis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sirvan"
+        }
+      }
+    },
+    {
+      "numero": 91,
+      "infinitivo": "intentar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "intente"
+        },
+        "tú": {
+          "forma": "intentes"
+        },
+        "él/ella/usted": {
+          "forma": "intente"
+        },
+        "nosotros/nosotras": {
+          "forma": "intentemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "intentéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "intenten"
+        }
+      }
+    },
+    {
+      "numero": 92,
+      "infinitivo": "echar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "eche"
+        },
+        "tú": {
+          "forma": "eches"
+        },
+        "él/ella/usted": {
+          "forma": "eche"
+        },
+        "nosotros/nosotras": {
+          "forma": "echemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "echéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "echen"
+        }
+      }
+    },
+    {
+      "numero": 93,
+      "infinitivo": "elegir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "elija"
+        },
+        "tú": {
+          "forma": "elijas"
+        },
+        "él/ella/usted": {
+          "forma": "elija"
+        },
+        "nosotros/nosotras": {
+          "forma": "elijamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "elijáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "elijan"
+        }
+      }
+    },
+    {
+      "numero": 94,
+      "infinitivo": "aceptar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "acepte"
+        },
+        "tú": {
+          "forma": "aceptes"
+        },
+        "él/ella/usted": {
+          "forma": "acepte"
+        },
+        "nosotros/nosotras": {
+          "forma": "aceptemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "aceptéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "acepten"
+        }
+      }
+    },
+    {
+      "numero": 95,
+      "infinitivo": "desear",
+      "conjugaciones": {
+        "yo": {
+          "forma": "desee"
+        },
+        "tú": {
+          "forma": "desees"
+        },
+        "él/ella/usted": {
+          "forma": "desee"
+        },
+        "nosotros/nosotras": {
+          "forma": "deseemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "deseéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "deseen"
+        }
+      }
+    },
+    {
+      "numero": 96,
+      "infinitivo": "abandonar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "abandone"
+        },
+        "tú": {
+          "forma": "abandones"
+        },
+        "él/ella/usted": {
+          "forma": "abandone"
+        },
+        "nosotros/nosotras": {
+          "forma": "abandonemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "abandonéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "abandonen"
+        }
+      }
+    },
+    {
+      "numero": 97,
+      "infinitivo": "necesitar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "necesite"
+        },
+        "tú": {
+          "forma": "necesites"
+        },
+        "él/ella/usted": {
+          "forma": "necesite"
+        },
+        "nosotros/nosotras": {
+          "forma": "necesitemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "necesitéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "necesiten"
+        }
+      }
+    },
+    {
+      "numero": 98,
+      "infinitivo": "guardar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "guarde"
+        },
+        "tú": {
+          "forma": "guardes"
+        },
+        "él/ella/usted": {
+          "forma": "guarde"
+        },
+        "nosotros/nosotras": {
+          "forma": "guardemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "guardéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "guarden"
+        }
+      }
+    },
+    {
+      "numero": 99,
+      "infinitivo": "observar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "observe"
+        },
+        "tú": {
+          "forma": "observes"
+        },
+        "él/ella/usted": {
+          "forma": "observe"
+        },
+        "nosotros/nosotras": {
+          "forma": "observemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "observéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "observen"
+        }
+      }
+    },
+    {
+      "numero": 100,
+      "infinitivo": "ayudar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ayude"
+        },
+        "tú": {
+          "forma": "ayudes"
+        },
+        "él/ella/usted": {
+          "forma": "ayude"
+        },
+        "nosotros/nosotras": {
+          "forma": "ayudemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "ayudéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ayuden"
+        }
+      }
+    }
+  ]
+}
+

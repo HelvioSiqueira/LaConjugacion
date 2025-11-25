@@ -1,0 +1,808 @@
+{
+  "titulo": "100 Verbos Mais Usados em Espanhol - Parte 3 (Verbos 51-75)",
+  "tiempo_verbal": "futuro_simple",
+  "descripcion": "Conjugações no Futuro Simple com exemplos de uso",
+  "verbos": [
+    {
+      "numero": 51,
+      "infinitivo": "permitir",
+      "traducao": "permitir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "permitiré",
+          "ejemplo": "Yo permitiré que uses mi computadora."
+        },
+        "tú": {
+          "forma": "permitirás",
+          "ejemplo": "Tú permitirás demasiadas cosas."
+        },
+        "él/ella/usted": {
+          "forma": "permitirá",
+          "ejemplo": "Mi jefe permitirá trabajar desde casa."
+        },
+        "nosotros/nosotras": {
+          "forma": "permitiremos",
+          "ejemplo": "Nosotros permitiremos la entrada."
+        },
+        "vosotros/vosotras": {
+          "forma": "permitiréis",
+          "ejemplo": "Vosotros permitiréis que hablen."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "permitirán",
+          "ejemplo": "Las reglas permitirán fumar."
+        }
+      }
+    },
+    {
+      "numero": 52,
+      "infinitivo": "aparecer",
+      "traducao": "aparecer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "apareceré",
+          "ejemplo": "Yo apareceré en fotos."
+        },
+        "tú": {
+          "forma": "aparecerás",
+          "ejemplo": "Tú aparecerás cuando menos esperen."
+        },
+        "él/ella/usted": {
+          "forma": "aparecerá",
+          "ejemplo": "El sol aparecerá."
+        },
+        "nosotros/nosotras": {
+          "forma": "apareceremos",
+          "ejemplo": "Nosotros apareceremos."
+        },
+        "vosotros/vosotras": {
+          "forma": "apareceréis",
+          "ejemplo": "Vosotros apareceréis en noticias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aparecerán",
+          "ejemplo": "Las estrellas aparecerán."
+        }
+      }
+    },
+    {
+      "numero": 53,
+      "infinitivo": "conseguir",
+      "traducao": "conseguir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "conseguiré",
+          "ejemplo": "Yo conseguiré todo."
+        },
+        "tú": {
+          "forma": "conseguirás",
+          "ejemplo": "Tú conseguirás buenos precios."
+        },
+        "él/ella/usted": {
+          "forma": "conseguirá",
+          "ejemplo": "Mi hermano conseguirá trabajo."
+        },
+        "nosotros/nosotras": {
+          "forma": "conseguiremos",
+          "ejemplo": "Nosotros conseguiremos boletos."
+        },
+        "vosotros/vosotras": {
+          "forma": "conseguiréis",
+          "ejemplo": "Vosotros conseguiréis objetivos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "conseguirán",
+          "ejemplo": "Ellos conseguirán resultados."
+        }
+      }
+    },
+    {
+      "numero": 54,
+      "infinitivo": "explicar",
+      "traducao": "explicar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "explicaré",
+          "ejemplo": "Yo explicaré la lección."
+        },
+        "tú": {
+          "forma": "explicarás",
+          "ejemplo": "Tú explicarás bien."
+        },
+        "él/ella/usted": {
+          "forma": "explicará",
+          "ejemplo": "La profesora explicará."
+        },
+        "nosotros/nosotras": {
+          "forma": "explicaremos",
+          "ejemplo": "Nosotros explicaremos."
+        },
+        "vosotros/vosotras": {
+          "forma": "explicaréis",
+          "ejemplo": "Vosotros explicaréis las reglas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "explicarán",
+          "ejemplo": "Ellos explicarán la situación."
+        }
+      }
+    },
+    {
+      "numero": 55,
+      "infinitivo": "tocar",
+      "traducao": "tocar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tocaré",
+          "ejemplo": "Yo tocaré el piano."
+        },
+        "tú": {
+          "forma": "tocarás",
+          "ejemplo": "Tú tocarás la guitarra."
+        },
+        "él/ella/usted": {
+          "forma": "tocará",
+          "ejemplo": "Le tocará limpiar."
+        },
+        "nosotros/nosotras": {
+          "forma": "tocaremos",
+          "ejemplo": "Nosotros tocaremos en una banda."
+        },
+        "vosotros/vosotras": {
+          "forma": "tocaréis",
+          "ejemplo": "Vosotros tocaréis canciones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tocarán",
+          "ejemplo": "Ellos tocarán a la puerta."
+        }
+      }
+    },
+    {
+      "numero": 56,
+      "infinitivo": "reconocer",
+      "traducao": "reconhecer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "reconoceré",
+          "ejemplo": "Yo reconoceré mis errores."
+        },
+        "tú": {
+          "forma": "reconocerás",
+          "ejemplo": "Tú reconocerás a las personas."
+        },
+        "él/ella/usted": {
+          "forma": "reconocerá",
+          "ejemplo": "El sistema reconocerá tu voz."
+        },
+        "nosotros/nosotras": {
+          "forma": "reconoceremos",
+          "ejemplo": "Nosotros reconoceremos su talento."
+        },
+        "vosotros/vosotras": {
+          "forma": "reconoceréis",
+          "ejemplo": "Vosotros reconoceréis la verdad."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "reconocerán",
+          "ejemplo": "Ellos reconocerán el lugar."
+        }
+      }
+    },
+    {
+      "numero": 57,
+      "infinitivo": "estudiar",
+      "traducao": "estudar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "estudiaré",
+          "ejemplo": "Yo estudiaré medicina."
+        },
+        "tú": {
+          "forma": "estudiarás",
+          "ejemplo": "Tú estudiarás mucho."
+        },
+        "él/ella/usted": {
+          "forma": "estudiará",
+          "ejemplo": "Mi hermana estudiará inglés."
+        },
+        "nosotros/nosotras": {
+          "forma": "estudiaremos",
+          "ejemplo": "Nosotros estudiaremos juntos."
+        },
+        "vosotros/vosotras": {
+          "forma": "estudiaréis",
+          "ejemplo": "Vosotros estudiaréis ingeniería."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "estudiarán",
+          "ejemplo": "Ellos estudiarán mucho."
+        }
+      }
+    },
+    {
+      "numero": 58,
+      "infinitivo": "alcanzar",
+      "traducao": "alcançar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "alcanzaré",
+          "ejemplo": "Yo alcanzaré mis metas."
+        },
+        "tú": {
+          "forma": "alcanzarás",
+          "ejemplo": "Tú alcanzarás el estante."
+        },
+        "él/ella/usted": {
+          "forma": "alcanzará",
+          "ejemplo": "El proyecto alcanzará éxito."
+        },
+        "nosotros/nosotras": {
+          "forma": "alcanzaremos",
+          "ejemplo": "Nosotros alcanzaremos la cima."
+        },
+        "vosotros/vosotras": {
+          "forma": "alcanzaréis",
+          "ejemplo": "Vosotros alcanzaréis resultados."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "alcanzarán",
+          "ejemplo": "Los precios alcanzarán niveles altos."
+        }
+      }
+    },
+    {
+      "numero": 59,
+      "infinitivo": "nacer",
+      "traducao": "nascer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "naceré",
+          "ejemplo": "Yo naceré de nuevo."
+        },
+        "tú": {
+          "forma": "nacerás",
+          "ejemplo": "Tú nacerás bajo Leo."
+        },
+        "él/ella/usted": {
+          "forma": "nacerá",
+          "ejemplo": "El bebé nacerá en marzo."
+        },
+        "nosotros/nosotras": {
+          "forma": "naceremos",
+          "ejemplo": "Nosotros naceremos juntos."
+        },
+        "vosotros/vosotras": {
+          "forma": "naceréis",
+          "ejemplo": "Vosotros naceréis con suerte."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "nacerán",
+          "ejemplo": "Las flores nacerán."
+        }
+      }
+    },
+    {
+      "numero": 60,
+      "infinitivo": "dirigir",
+      "traducao": "dirigir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "dirigiré",
+          "ejemplo": "Yo dirigiré un equipo."
+        },
+        "tú": {
+          "forma": "dirigirás",
+          "ejemplo": "Tú dirigirás la conversación."
+        },
+        "él/ella/usted": {
+          "forma": "dirigirá",
+          "ejemplo": "Mi padre dirigirá una empresa."
+        },
+        "nosotros/nosotras": {
+          "forma": "dirigiremos",
+          "ejemplo": "Nosotros dirigiremos el proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "dirigiréis",
+          "ejemplo": "Vosotros dirigiréis el tráfico."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "dirigirán",
+          "ejemplo": "Ellos dirigirán películas."
+        }
+      }
+    },
+    {
+      "numero": 61,
+      "infinitivo": "correr",
+      "traducao": "correr",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "correré",
+          "ejemplo": "Yo correré mañana."
+        },
+        "tú": {
+          "forma": "correrás",
+          "ejemplo": "Tú correrás rápido."
+        },
+        "él/ella/usted": {
+          "forma": "correrá",
+          "ejemplo": "Mi perro correrá."
+        },
+        "nosotros/nosotras": {
+          "forma": "correremos",
+          "ejemplo": "Nosotros correremos una maratón."
+        },
+        "vosotros/vosotras": {
+          "forma": "correréis",
+          "ejemplo": "Vosotros correréis riesgos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "correrán",
+          "ejemplo": "Los niños correrán."
+        }
+      }
+    },
+    {
+      "numero": 62,
+      "infinitivo": "utilizar",
+      "traducao": "utilizar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "utilizaré",
+          "ejemplo": "Yo utilizaré la computadora."
+        },
+        "tú": {
+          "forma": "utilizarás",
+          "ejemplo": "Tú utilizarás técnicas."
+        },
+        "él/ella/usted": {
+          "forma": "utilizará",
+          "ejemplo": "Mi madre utilizará remedios."
+        },
+        "nosotros/nosotras": {
+          "forma": "utilizaremos",
+          "ejemplo": "Nosotros utilizaremos energía."
+        },
+        "vosotros/vosotras": {
+          "forma": "utilizaréis",
+          "ejemplo": "Vosotros utilizaréis transporte."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "utilizarán",
+          "ejemplo": "Ellos utilizarán tecnología."
+        }
+      }
+    },
+    {
+      "numero": 63,
+      "infinitivo": "mostrar",
+      "traducao": "mostrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "mostraré",
+          "ejemplo": "Yo mostraré mis fotos."
+        },
+        "tú": {
+          "forma": "mostrarás",
+          "ejemplo": "Tú mostrarás interés."
+        },
+        "él/ella/usted": {
+          "forma": "mostrará",
+          "ejemplo": "El museo mostrará arte."
+        },
+        "nosotros/nosotras": {
+          "forma": "mostraremos",
+          "ejemplo": "Nosotros mostraremos el proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "mostraréis",
+          "ejemplo": "Vosotros mostraréis talento."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "mostrarán",
+          "ejemplo": "Ellos mostrarán resultados."
+        }
+      }
+    },
+    {
+      "numero": 64,
+      "infinitivo": "caer",
+      "traducao": "cair",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "caeré",
+          "ejemplo": "Yo caeré en la cuenta."
+        },
+        "tú": {
+          "forma": "caerás",
+          "ejemplo": "Tú caerás bien."
+        },
+        "él/ella/usted": {
+          "forma": "caerá",
+          "ejemplo": "La lluvia caerá."
+        },
+        "nosotros/nosotras": {
+          "forma": "caeremos",
+          "ejemplo": "Nosotros caeremos en la trampa."
+        },
+        "vosotros/vosotras": {
+          "forma": "caeréis",
+          "ejemplo": "Vosotros caeréis de pie."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "caerán",
+          "ejemplo": "Las hojas caerán."
+        }
+      }
+    },
+    {
+      "numero": 65,
+      "infinitivo": "crear",
+      "traducao": "criar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "crearé",
+          "ejemplo": "Yo crearé contenido."
+        },
+        "tú": {
+          "forma": "crearás",
+          "ejemplo": "Tú crearás obras."
+        },
+        "él/ella/usted": {
+          "forma": "creará",
+          "ejemplo": "Esta empresa creará empleos."
+        },
+        "nosotros/nosotras": {
+          "forma": "crearemos",
+          "ejemplo": "Nosotros crearemos una empresa."
+        },
+        "vosotros/vosotras": {
+          "forma": "crearéis",
+          "ejemplo": "Vosotros crearéis problemas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "crearán",
+          "ejemplo": "Ellos crearán aplicaciones."
+        }
+      }
+    },
+    {
+      "numero": 66,
+      "infinitivo": "abrir",
+      "traducao": "abrir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "abriré",
+          "ejemplo": "Yo abriré la tienda."
+        },
+        "tú": {
+          "forma": "abrirás",
+          "ejemplo": "Tú abrirás tu corazón."
+        },
+        "él/ella/usted": {
+          "forma": "abrirá",
+          "ejemplo": "El banco abrirá."
+        },
+        "nosotros/nosotras": {
+          "forma": "abriremos",
+          "ejemplo": "Nosotros abriremos una cuenta."
+        },
+        "vosotros/vosotras": {
+          "forma": "abriréis",
+          "ejemplo": "Vosotros abriréis ventanas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "abrirán",
+          "ejemplo": "Ellos abrirán un restaurante."
+        }
+      }
+    },
+    {
+      "numero": 67,
+      "infinitivo": "comenzar",
+      "traducao": "começar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "comenzaré",
+          "ejemplo": "Yo comenzaré mi día."
+        },
+        "tú": {
+          "forma": "comenzarás",
+          "ejemplo": "Tú comenzarás el curso."
+        },
+        "él/ella/usted": {
+          "forma": "comenzará",
+          "ejemplo": "La función comenzará."
+        },
+        "nosotros/nosotras": {
+          "forma": "comenzaremos",
+          "ejemplo": "Nosotros comenzaremos desde cero."
+        },
+        "vosotros/vosotras": {
+          "forma": "comenzaréis",
+          "ejemplo": "Vosotros comenzaréis bien."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "comenzarán",
+          "ejemplo": "Las clases comenzarán."
+        }
+      }
+    },
+    {
+      "numero": 68,
+      "infinitivo": "perder",
+      "traducao": "perder",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "perderé",
+          "ejemplo": "Yo perderé las llaves."
+        },
+        "tú": {
+          "forma": "perderás",
+          "ejemplo": "Tú perderás el tiempo."
+        },
+        "él/ella/usted": {
+          "forma": "perderá",
+          "ejemplo": "Mi equipo perderá."
+        },
+        "nosotros/nosotras": {
+          "forma": "perderemos",
+          "ejemplo": "Nosotros perderemos la paciencia."
+        },
+        "vosotros/vosotras": {
+          "forma": "perderéis",
+          "ejemplo": "Vosotros perderéis oportunidades."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "perderán",
+          "ejemplo": "Ellos perderán el tren."
+        }
+      }
+    },
+    {
+      "numero": 69,
+      "infinitivo": "ofrecer",
+      "traducao": "oferecer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ofreceré",
+          "ejemplo": "Yo ofreceré mi ayuda."
+        },
+        "tú": {
+          "forma": "ofrecerás",
+          "ejemplo": "Tú ofrecerás consejos."
+        },
+        "él/ella/usted": {
+          "forma": "ofrecerá",
+          "ejemplo": "La empresa ofrecerá beneficios."
+        },
+        "nosotros/nosotras": {
+          "forma": "ofreceremos",
+          "ejemplo": "Nosotros ofreceremos servicios."
+        },
+        "vosotros/vosotras": {
+          "forma": "ofreceréis",
+          "ejemplo": "Vosotros ofreceréis vuestra casa."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ofrecerán",
+          "ejemplo": "Ellos ofrecerán descuentos."
+        }
+      }
+    },
+    {
+      "numero": 70,
+      "infinitivo": "aplicar",
+      "traducao": "aplicar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aplicaré",
+          "ejemplo": "Yo aplicaré crema."
+        },
+        "tú": {
+          "forma": "aplicarás",
+          "ejemplo": "Tú aplicarás las reglas."
+        },
+        "él/ella/usted": {
+          "forma": "aplicará",
+          "ejemplo": "El médico aplicará tratamiento."
+        },
+        "nosotros/nosotras": {
+          "forma": "aplicaremos",
+          "ejemplo": "Nosotros aplicaremos técnicas."
+        },
+        "vosotros/vosotras": {
+          "forma": "aplicaréis",
+          "ejemplo": "Vosotros aplicaréis lo aprendido."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aplicarán",
+          "ejemplo": "Ellos aplicarán para trabajo."
+        }
+      }
+    },
+    {
+      "numero": 71,
+      "infinitivo": "realizar",
+      "traducao": "realizar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "realizaré",
+          "ejemplo": "Yo realizaré mis sueños."
+        },
+        "tú": {
+          "forma": "realizarás",
+          "ejemplo": "Tú realizarás un trabajo."
+        },
+        "él/ella/usted": {
+          "forma": "realizará",
+          "ejemplo": "La empresa realizará auditorías."
+        },
+        "nosotros/nosotras": {
+          "forma": "realizaremos",
+          "ejemplo": "Nosotros realizaremos encuestas."
+        },
+        "vosotros/vosotras": {
+          "forma": "realizaréis",
+          "ejemplo": "Vosotros realizaréis logros."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "realizarán",
+          "ejemplo": "Ellos realizarán actividades."
+        }
+      }
+    },
+    {
+      "numero": 72,
+      "infinitivo": "suponer",
+      "traducao": "supor",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "supondré",
+          "ejemplo": "Yo supondré que tienes razón."
+        },
+        "tú": {
+          "forma": "supondrás",
+          "ejemplo": "Tú supondrás cosas."
+        },
+        "él/ella/usted": {
+          "forma": "supondrá",
+          "ejemplo": "Esto supondrá un cambio."
+        },
+        "nosotros/nosotras": {
+          "forma": "supondremos",
+          "ejemplo": "Nosotros supondremos que vendrá."
+        },
+        "vosotros/vosotras": {
+          "forma": "supondréis",
+          "ejemplo": "Vosotros supondréis mal."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "supondrán",
+          "ejemplo": "Ellos supondrán que es fácil."
+        }
+      }
+    },
+    {
+      "numero": 73,
+      "infinitivo": "compartir",
+      "traducao": "compartilhar",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "compartiré",
+          "ejemplo": "Yo compartiré mi comida."
+        },
+        "tú": {
+          "forma": "compartirás",
+          "ejemplo": "Tú compartirás todo."
+        },
+        "él/ella/usted": {
+          "forma": "compartirá",
+          "ejemplo": "Mi hermano compartirá."
+        },
+        "nosotros/nosotras": {
+          "forma": "compartiremos",
+          "ejemplo": "Nosotros compartiremos gastos."
+        },
+        "vosotros/vosotras": {
+          "forma": "compartiréis",
+          "ejemplo": "Vosotros compartiréis experiencias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "compartirán",
+          "ejemplo": "Ellos compartirán intereses."
+        }
+      }
+    },
+    {
+      "numero": 74,
+      "infinitivo": "leer",
+      "traducao": "ler",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "leeré",
+          "ejemplo": "Yo leeré el periódico."
+        },
+        "tú": {
+          "forma": "leerás",
+          "ejemplo": "Tú leerás novelas."
+        },
+        "él/ella/usted": {
+          "forma": "leerá",
+          "ejemplo": "Mi profesora leerá poesía."
+        },
+        "nosotros/nosotras": {
+          "forma": "leeremos",
+          "ejemplo": "Nosotros leeremos juntos."
+        },
+        "vosotros/vosotras": {
+          "forma": "leeréis",
+          "ejemplo": "Vosotros leeréis rápido."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "leerán",
+          "ejemplo": "Ellos leerán libros."
+        }
+      }
+    },
+    {
+      "numero": 75,
+      "infinitivo": "escuchar",
+      "traducao": "escutar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "escucharé",
+          "ejemplo": "Yo escucharé música."
+        },
+        "tú": {
+          "forma": "escucharás",
+          "ejemplo": "Tú escucharás con atención."
+        },
+        "él/ella/usted": {
+          "forma": "escuchará",
+          "ejemplo": "Mi madre escuchará radio."
+        },
+        "nosotros/nosotras": {
+          "forma": "escucharemos",
+          "ejemplo": "Nosotros escucharemos consejos."
+        },
+        "vosotros/vosotras": {
+          "forma": "escucharéis",
+          "ejemplo": "Vosotros escucharéis podcasts."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "escucharán",
+          "ejemplo": "Ellos escucharán noticias."
+        }
+      }
+    }
+  ]
+}
+

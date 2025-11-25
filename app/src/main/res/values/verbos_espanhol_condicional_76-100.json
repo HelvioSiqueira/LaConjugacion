@@ -1,0 +1,757 @@
+{
+  "titulo": "100 Verbos Parte 4 (76-100)",
+  "tiempo_verbal": "condicional_simple",
+  "verbos": [
+    {
+      "numero": 76,
+      "infinitivo": "cambiar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cambiaría",
+          "ejemplo": "Cambiaría opinión."
+        },
+        "tú": {
+          "forma": "cambiarías",
+          "ejemplo": "Cambiarías mucho."
+        },
+        "él/ella/usted": {
+          "forma": "cambiaría",
+          "ejemplo": "Clima cambiaría."
+        },
+        "nosotros/nosotras": {
+          "forma": "cambiaríamos",
+          "ejemplo": "Cambiaríamos casa."
+        },
+        "vosotros/vosotras": {
+          "forma": "cambiaríais",
+          "ejemplo": "Cambiaríais euros."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cambiarían",
+          "ejemplo": "Estaciones cambiarían."
+        }
+      }
+    },
+    {
+      "numero": 77,
+      "infinitivo": "presentar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "presentaría",
+          "ejemplo": "Presentaría proyecto."
+        },
+        "tú": {
+          "forma": "presentarías",
+          "ejemplo": "Presentarías noticias."
+        },
+        "él/ella/usted": {
+          "forma": "presentaría",
+          "ejemplo": "Presentaría resultados."
+        },
+        "nosotros/nosotras": {
+          "forma": "presentaríamos",
+          "ejemplo": "Presentaríamos ideas."
+        },
+        "vosotros/vosotras": {
+          "forma": "presentaríais",
+          "ejemplo": "Presentaríais amigos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "presentarían",
+          "ejemplo": "Presentarían candidatura."
+        }
+      }
+    },
+    {
+      "numero": 78,
+      "infinitivo": "considerar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "consideraría",
+          "ejemplo": "Consideraría opciones."
+        },
+        "tú": {
+          "forma": "considerarías",
+          "ejemplo": "Considerarías importante."
+        },
+        "él/ella/usted": {
+          "forma": "consideraría",
+          "ejemplo": "Consideraría propuesta."
+        },
+        "nosotros/nosotras": {
+          "forma": "consideraríamos",
+          "ejemplo": "Consideraríamos cambiar."
+        },
+        "vosotros/vosotras": {
+          "forma": "consideraríais",
+          "ejemplo": "Consideraríais pros."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "considerarían",
+          "ejemplo": "Considerarían Juan."
+        }
+      }
+    },
+    {
+      "numero": 79,
+      "infinitivo": "resultar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "resultaría",
+          "ejemplo": "Resultaría persistente."
+        },
+        "tú": {
+          "forma": "resultarías",
+          "ejemplo": "Resultarías ganador."
+        },
+        "él/ella/usted": {
+          "forma": "resultaría",
+          "ejemplo": "Resultaría efectivo."
+        },
+        "nosotros/nosotras": {
+          "forma": "resultaríamos",
+          "ejemplo": "Resultaríamos beneficiados."
+        },
+        "vosotros/vosotras": {
+          "forma": "resultaríais",
+          "ejemplo": "Resultaríais convincentes."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "resultarían",
+          "ejemplo": "Resultarían positivos."
+        }
+      }
+    },
+    {
+      "numero": 80,
+      "infinitivo": "aumentar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aumentaría",
+          "ejemplo": "Aumentaría productividad."
+        },
+        "tú": {
+          "forma": "aumentarías",
+          "ejemplo": "Aumentarías volumen."
+        },
+        "él/ella/usted": {
+          "forma": "aumentaría",
+          "ejemplo": "Aumentaría ventas."
+        },
+        "nosotros/nosotras": {
+          "forma": "aumentaríamos",
+          "ejemplo": "Aumentaríamos esfuerzos."
+        },
+        "vosotros/vosotras": {
+          "forma": "aumentaríais",
+          "ejemplo": "Aumentaríais dificultad."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aumentarían",
+          "ejemplo": "Aumentarían precios."
+        }
+      }
+    },
+    {
+      "numero": 81,
+      "infinitivo": "ganar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ganaría",
+          "ejemplo": "Ganaría salario."
+        },
+        "tú": {
+          "forma": "ganarías",
+          "ejemplo": "Ganarías competencias."
+        },
+        "él/ella/usted": {
+          "forma": "ganaría",
+          "ejemplo": "Equipo ganaría."
+        },
+        "nosotros/nosotras": {
+          "forma": "ganaríamos",
+          "ejemplo": "Ganaríamos experiencia."
+        },
+        "vosotros/vosotras": {
+          "forma": "ganaríais",
+          "ejemplo": "Ganaríais tiempo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ganarían",
+          "ejemplo": "Ganarían dinero."
+        }
+      }
+    },
+    {
+      "numero": 82,
+      "infinitivo": "mantener",
+      "conjugaciones": {
+        "yo": {
+          "forma": "mantendría",
+          "ejemplo": "Mantendría palabra."
+        },
+        "tú": {
+          "forma": "mantendrías",
+          "ejemplo": "Mantendrías calma."
+        },
+        "él/ella/usted": {
+          "forma": "mantendría",
+          "ejemplo": "Mantendría familia."
+        },
+        "nosotros/nosotras": {
+          "forma": "mantendríamos",
+          "ejemplo": "Mantendríamos tradición."
+        },
+        "vosotros/vosotras": {
+          "forma": "mantendríais",
+          "ejemplo": "Mantendríais orden."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "mantendrían",
+          "ejemplo": "Mantendrían promesa."
+        }
+      }
+    },
+    {
+      "numero": 83,
+      "infinitivo": "bastar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "bastaría",
+          "ejemplo": "Bastaría trabajo."
+        },
+        "tú": {
+          "forma": "bastarías",
+          "ejemplo": "Bastarías sobrarías."
+        },
+        "él/ella/usted": {
+          "forma": "bastaría",
+          "ejemplo": "Bastaría horas."
+        },
+        "nosotros/nosotras": {
+          "forma": "bastaríamos",
+          "ejemplo": "Bastaríamos proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "bastaríais",
+          "ejemplo": "Bastaríais equipo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "bastarían",
+          "ejemplo": "Bastarían personas."
+        }
+      }
+    },
+    {
+      "numero": 84,
+      "infinitivo": "formar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "formaría",
+          "ejemplo": "Formaría parte."
+        },
+        "tú": {
+          "forma": "formarías",
+          "ejemplo": "Formarías empleados."
+        },
+        "él/ella/usted": {
+          "forma": "formaría",
+          "ejemplo": "Formaría cristales."
+        },
+        "nosotros/nosotras": {
+          "forma": "formaríamos",
+          "ejemplo": "Formaríamos familia."
+        },
+        "vosotros/vosotras": {
+          "forma": "formaríais",
+          "ejemplo": "Formaríais grupo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "formarían",
+          "ejemplo": "Formarían figuras."
+        }
+      }
+    },
+    {
+      "numero": 85,
+      "infinitivo": "continuar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "continuaría",
+          "ejemplo": "Continuaría estudiando."
+        },
+        "tú": {
+          "forma": "continuarías",
+          "ejemplo": "Continuarías rutina."
+        },
+        "él/ella/usted": {
+          "forma": "continuaría",
+          "ejemplo": "Continuaría cayendo."
+        },
+        "nosotros/nosotras": {
+          "forma": "continuaríamos",
+          "ejemplo": "Continuaríamos viaje."
+        },
+        "vosotros/vosotras": {
+          "forma": "continuaríais",
+          "ejemplo": "Continuaríais lugar."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "continuarían",
+          "ejemplo": "Continuarían trabajando."
+        }
+      }
+    },
+    {
+      "numero": 86,
+      "infinitivo": "comprar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "compraría",
+          "ejemplo": "Compraría frutas."
+        },
+        "tú": {
+          "forma": "comprarías",
+          "ejemplo": "Comprarías ropa."
+        },
+        "él/ella/usted": {
+          "forma": "compraría",
+          "ejemplo": "Compraría comestibles."
+        },
+        "nosotros/nosotras": {
+          "forma": "compraríamos",
+          "ejemplo": "Compraríamos coche."
+        },
+        "vosotros/vosotras": {
+          "forma": "compraríais",
+          "ejemplo": "Compraríais internet."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "comprarían",
+          "ejemplo": "Comprarían boletos."
+        }
+      }
+    },
+    {
+      "numero": 87,
+      "infinitivo": "sufrir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sufriría",
+          "ejemplo": "Sufriría dolores."
+        },
+        "tú": {
+          "forma": "sufrirías",
+          "ejemplo": "Sufrirías estrés."
+        },
+        "él/ella/usted": {
+          "forma": "sufriría",
+          "ejemplo": "Sufriría artritis."
+        },
+        "nosotros/nosotras": {
+          "forma": "sufriríamos",
+          "ejemplo": "Sufriríamos consecuencias."
+        },
+        "vosotros/vosotras": {
+          "forma": "sufriríais",
+          "ejemplo": "Sufriríais nada."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sufrirían",
+          "ejemplo": "Sufrirían personas."
+        }
+      }
+    },
+    {
+      "numero": 88,
+      "infinitivo": "cumplir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cumpliría",
+          "ejemplo": "Cumpliría promesas."
+        },
+        "tú": {
+          "forma": "cumplirías",
+          "ejemplo": "Cumplirías años."
+        },
+        "él/ella/usted": {
+          "forma": "cumpliría",
+          "ejemplo": "Cumpliría 30."
+        },
+        "nosotros/nosotras": {
+          "forma": "cumpliríamos",
+          "ejemplo": "Cumpliríamos obligaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "cumpliríais",
+          "ejemplo": "Cumpliríais normas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cumplirían",
+          "ejemplo": "Cumplirían palabra."
+        }
+      }
+    },
+    {
+      "numero": 89,
+      "infinitivo": "aprender",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aprendería",
+          "ejemplo": "Aprendería idiomas."
+        },
+        "tú": {
+          "forma": "aprenderías",
+          "ejemplo": "Aprenderías rápido."
+        },
+        "él/ella/usted": {
+          "forma": "aprendería",
+          "ejemplo": "Aprendería leer."
+        },
+        "nosotros/nosotras": {
+          "forma": "aprenderíamos",
+          "ejemplo": "Aprenderíamos errores."
+        },
+        "vosotros/vosotras": {
+          "forma": "aprenderíais",
+          "ejemplo": "Aprenderíais cosas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aprenderían",
+          "ejemplo": "Aprenderían niños."
+        }
+      }
+    },
+    {
+      "numero": 90,
+      "infinitivo": "servir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "serviría",
+          "ejemplo": "Serviría cena."
+        },
+        "tú": {
+          "forma": "servirías",
+          "ejemplo": "Servirías café."
+        },
+        "él/ella/usted": {
+          "forma": "serviría",
+          "ejemplo": "Serviría guía."
+        },
+        "nosotros/nosotras": {
+          "forma": "serviríamos",
+          "ejemplo": "Serviríamos comida."
+        },
+        "vosotros/vosotras": {
+          "forma": "serviríais",
+          "ejemplo": "Serviríais amabilidad."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "servirían",
+          "ejemplo": "Servirían zapatos."
+        }
+      }
+    },
+    {
+      "numero": 91,
+      "infinitivo": "intentar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "intentaría",
+          "ejemplo": "Intentaría mejorar."
+        },
+        "tú": {
+          "forma": "intentarías",
+          "ejemplo": "Intentarías correcto."
+        },
+        "él/ella/usted": {
+          "forma": "intentaría",
+          "ejemplo": "Intentaría aprender."
+        },
+        "nosotros/nosotras": {
+          "forma": "intentaríamos",
+          "ejemplo": "Intentaríamos resolver."
+        },
+        "vosotros/vosotras": {
+          "forma": "intentaríais",
+          "ejemplo": "Intentaríais recetas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "intentarían",
+          "ejemplo": "Intentarían temprano."
+        }
+      }
+    },
+    {
+      "numero": 92,
+      "infinitivo": "echar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "echaría",
+          "ejemplo": "Echaría sal."
+        },
+        "tú": {
+          "forma": "echarías",
+          "ejemplo": "Echarías menos."
+        },
+        "él/ella/usted": {
+          "forma": "echaría",
+          "ejemplo": "Echaría basura."
+        },
+        "nosotros/nosotras": {
+          "forma": "echaríamos",
+          "ejemplo": "Echaríamos vistazo."
+        },
+        "vosotros/vosotras": {
+          "forma": "echaríais",
+          "ejemplo": "Echaríais azúcar."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "echarían",
+          "ejemplo": "Echarían culpa."
+        }
+      }
+    },
+    {
+      "numero": 93,
+      "infinitivo": "elegir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "elegiría",
+          "ejemplo": "Elegiría opción."
+        },
+        "tú": {
+          "forma": "elegirías",
+          "ejemplo": "Elegirías bien."
+        },
+        "él/ella/usted": {
+          "forma": "elegiría",
+          "ejemplo": "Elegiría carrera."
+        },
+        "nosotros/nosotras": {
+          "forma": "elegiríamos",
+          "ejemplo": "Elegiríamos presidente."
+        },
+        "vosotros/vosotras": {
+          "forma": "elegiríais",
+          "ejemplo": "Elegiríais destino."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "elegirían",
+          "ejemplo": "Elegirían casa."
+        }
+      }
+    },
+    {
+      "numero": 94,
+      "infinitivo": "aceptar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aceptaría",
+          "ejemplo": "Aceptaría oferta."
+        },
+        "tú": {
+          "forma": "aceptarías",
+          "ejemplo": "Aceptarías disculpas."
+        },
+        "él/ella/usted": {
+          "forma": "aceptaría",
+          "ejemplo": "Aceptaría tarjetas."
+        },
+        "nosotros/nosotras": {
+          "forma": "aceptaríamos",
+          "ejemplo": "Aceptaríamos desafío."
+        },
+        "vosotros/vosotras": {
+          "forma": "aceptaríais",
+          "ejemplo": "Aceptaríais condiciones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aceptarían",
+          "ejemplo": "Aceptarían propuesta."
+        }
+      }
+    },
+    {
+      "numero": 95,
+      "infinitivo": "desear",
+      "conjugaciones": {
+        "yo": {
+          "forma": "desearía",
+          "ejemplo": "Desearía viajar."
+        },
+        "tú": {
+          "forma": "desearías",
+          "ejemplo": "Desearías mejor."
+        },
+        "él/ella/usted": {
+          "forma": "desearía",
+          "ejemplo": "Desearía felicidad."
+        },
+        "nosotros/nosotras": {
+          "forma": "desearíamos",
+          "ejemplo": "Desearíamos suerte."
+        },
+        "vosotros/vosotras": {
+          "forma": "desearíais",
+          "ejemplo": "Desearíais fiestas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "desearían",
+          "ejemplo": "Desearían cambiar."
+        }
+      }
+    },
+    {
+      "numero": 96,
+      "infinitivo": "abandonar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "abandonaría",
+          "ejemplo": "Abandonaría proyectos."
+        },
+        "tú": {
+          "forma": "abandonarías",
+          "ejemplo": "Abandonarías sala."
+        },
+        "él/ella/usted": {
+          "forma": "abandonaría",
+          "ejemplo": "Abandonaría campo."
+        },
+        "nosotros/nosotras": {
+          "forma": "abandonaríamos",
+          "ejemplo": "Abandonaríamos idea."
+        },
+        "vosotros/vosotras": {
+          "forma": "abandonaríais",
+          "ejemplo": "Abandonaríais edificio."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "abandonarían",
+          "ejemplo": "Abandonarían esperanzas."
+        }
+      }
+    },
+    {
+      "numero": 97,
+      "infinitivo": "necesitar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "necesitaría",
+          "ejemplo": "Necesitaría dormir."
+        },
+        "tú": {
+          "forma": "necesitarías",
+          "ejemplo": "Necesitarías vacaciones."
+        },
+        "él/ella/usted": {
+          "forma": "necesitaría",
+          "ejemplo": "Necesitaría gasolina."
+        },
+        "nosotros/nosotras": {
+          "forma": "necesitaríamos",
+          "ejemplo": "Necesitaríamos ayuda."
+        },
+        "vosotros/vosotras": {
+          "forma": "necesitaríais",
+          "ejemplo": "Necesitaríais tiempo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "necesitarían",
+          "ejemplo": "Necesitarían agua."
+        }
+      }
+    },
+    {
+      "numero": 98,
+      "infinitivo": "guardar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "guardaría",
+          "ejemplo": "Guardaría joyas."
+        },
+        "tú": {
+          "forma": "guardarías",
+          "ejemplo": "Guardarías secretos."
+        },
+        "él/ella/usted": {
+          "forma": "guardaría",
+          "ejemplo": "Guardaría juguetes."
+        },
+        "nosotros/nosotras": {
+          "forma": "guardaríamos",
+          "ejemplo": "Guardaríamos silencio."
+        },
+        "vosotros/vosotras": {
+          "forma": "guardaríais",
+          "ejemplo": "Guardaríais distancias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "guardarían",
+          "ejemplo": "Guardarían documentos."
+        }
+      }
+    },
+    {
+      "numero": 99,
+      "infinitivo": "observar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "observaría",
+          "ejemplo": "Observaría aves."
+        },
+        "tú": {
+          "forma": "observarías",
+          "ejemplo": "Observarías todo."
+        },
+        "él/ella/usted": {
+          "forma": "observaría",
+          "ejemplo": "Observaría científico."
+        },
+        "nosotros/nosotras": {
+          "forma": "observaríamos",
+          "ejemplo": "Observaríamos estrellas."
+        },
+        "vosotros/vosotras": {
+          "forma": "observaríais",
+          "ejemplo": "Observaríais reglas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "observarían",
+          "ejemplo": "Observarían comportamiento."
+        }
+      }
+    },
+    {
+      "numero": 100,
+      "infinitivo": "ayudar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ayudaría",
+          "ejemplo": "Ayudaría padres."
+        },
+        "tú": {
+          "forma": "ayudarías",
+          "ejemplo": "Ayudarías personas."
+        },
+        "él/ella/usted": {
+          "forma": "ayudaría",
+          "ejemplo": "Ayudaría profesor."
+        },
+        "nosotros/nosotras": {
+          "forma": "ayudaríamos",
+          "ejemplo": "Ayudaríamos tareas."
+        },
+        "vosotros/vosotras": {
+          "forma": "ayudaríais",
+          "ejemplo": "Ayudaríais mucho."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ayudarían",
+          "ejemplo": "Ayudarían construir."
+        }
+      }
+    }
+  ]
+}
+

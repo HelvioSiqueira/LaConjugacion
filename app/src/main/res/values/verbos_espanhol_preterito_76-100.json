@@ -1,0 +1,808 @@
+{
+  "titulo": "100 Verbos Mais Usados em Espanhol - Parte 4 (Verbos 76-100)",
+  "tiempo_verbal": "preterito_indefinido",
+  "descripcion": "Conjugações no Pretérito Indefinido com exemplos de uso",
+  "verbos": [
+    {
+      "numero": 76,
+      "infinitivo": "cambiar",
+      "traducao": "mudar/trocar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cambié",
+          "ejemplo": "Yo cambié de opinión."
+        },
+        "tú": {
+          "forma": "cambiaste",
+          "ejemplo": "Tú cambiaste mucho."
+        },
+        "él/ella/usted": {
+          "forma": "cambió",
+          "ejemplo": "El clima cambió rápidamente."
+        },
+        "nosotros/nosotras": {
+          "forma": "cambiamos",
+          "ejemplo": "Nosotros cambiamos de casa."
+        },
+        "vosotros/vosotras": {
+          "forma": "cambiasteis",
+          "ejemplo": "Vosotros cambiasteis euros por dólares."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cambiaron",
+          "ejemplo": "Las estaciones cambiaron."
+        }
+      }
+    },
+    {
+      "numero": 77,
+      "infinitivo": "presentar",
+      "traducao": "apresentar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "presenté",
+          "ejemplo": "Yo presenté mi proyecto ayer."
+        },
+        "tú": {
+          "forma": "presentaste",
+          "ejemplo": "Tú presentaste las noticias."
+        },
+        "él/ella/usted": {
+          "forma": "presentó",
+          "ejemplo": "La empresa presentó resultados positivos."
+        },
+        "nosotros/nosotras": {
+          "forma": "presentamos",
+          "ejemplo": "Nosotros presentamos nuestras ideas."
+        },
+        "vosotros/vosotras": {
+          "forma": "presentasteis",
+          "ejemplo": "Vosotros presentasteis a vuestros amigos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "presentaron",
+          "ejemplo": "Ellos presentaron su candidatura."
+        }
+      }
+    },
+    {
+      "numero": 78,
+      "infinitivo": "considerar",
+      "traducao": "considerar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "consideré",
+          "ejemplo": "Yo consideré todas las opciones."
+        },
+        "tú": {
+          "forma": "consideraste",
+          "ejemplo": "Tú consideraste que era importante."
+        },
+        "él/ella/usted": {
+          "forma": "consideró",
+          "ejemplo": "Mi jefe consideró mi propuesta."
+        },
+        "nosotros/nosotras": {
+          "forma": "consideramos",
+          "ejemplo": "Nosotros consideramos cambiar de plan."
+        },
+        "vosotros/vosotras": {
+          "forma": "considerasteis",
+          "ejemplo": "Vosotros considerasteis los pros y contras."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "consideraron",
+          "ejemplo": "Ellos consideraron a Juan como líder."
+        }
+      }
+    },
+    {
+      "numero": 79,
+      "infinitivo": "resultar",
+      "traducao": "resultar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "resulté",
+          "ejemplo": "Yo resulté ser muy persistente."
+        },
+        "tú": {
+          "forma": "resultaste",
+          "ejemplo": "Tú resultaste ganador del concurso."
+        },
+        "él/ella/usted": {
+          "forma": "resultó",
+          "ejemplo": "El plan resultó muy efectivo."
+        },
+        "nosotros/nosotras": {
+          "forma": "resultamos",
+          "ejemplo": "Nosotros resultamos beneficiados."
+        },
+        "vosotros/vosotras": {
+          "forma": "resultasteis",
+          "ejemplo": "Vosotros resultasteis muy convincentes."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "resultaron",
+          "ejemplo": "Los cambios resultaron positivos."
+        }
+      }
+    },
+    {
+      "numero": 80,
+      "infinitivo": "aumentar",
+      "traducao": "aumentar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aumenté",
+          "ejemplo": "Yo aumenté mi productividad."
+        },
+        "tú": {
+          "forma": "aumentaste",
+          "ejemplo": "Tú aumentaste el volumen."
+        },
+        "él/ella/usted": {
+          "forma": "aumentó",
+          "ejemplo": "La empresa aumentó sus ventas."
+        },
+        "nosotros/nosotras": {
+          "forma": "aumentamos",
+          "ejemplo": "Nosotros aumentamos nuestros esfuerzos."
+        },
+        "vosotros/vosotras": {
+          "forma": "aumentasteis",
+          "ejemplo": "Vosotros aumentasteis la dificultad."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aumentaron",
+          "ejemplo": "Los precios aumentaron."
+        }
+      }
+    },
+    {
+      "numero": 81,
+      "infinitivo": "ganar",
+      "traducao": "ganhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "gané",
+          "ejemplo": "Yo gané un buen salario."
+        },
+        "tú": {
+          "forma": "ganaste",
+          "ejemplo": "Tú ganaste todas las competencias."
+        },
+        "él/ella/usted": {
+          "forma": "ganó",
+          "ejemplo": "Nuestro equipo ganó el campeonato."
+        },
+        "nosotros/nosotras": {
+          "forma": "ganamos",
+          "ejemplo": "Nosotros ganamos experiencia."
+        },
+        "vosotros/vosotras": {
+          "forma": "ganasteis",
+          "ejemplo": "Vosotros ganasteis tiempo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ganaron",
+          "ejemplo": "Ellos ganaron dinero invirtiendo."
+        }
+      }
+    },
+    {
+      "numero": 82,
+      "infinitivo": "mantener",
+      "traducao": "manter",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "mantuve",
+          "ejemplo": "Yo mantuve mi palabra."
+        },
+        "tú": {
+          "forma": "mantuviste",
+          "ejemplo": "Tú mantuviste la calma."
+        },
+        "él/ella/usted": {
+          "forma": "mantuvo",
+          "ejemplo": "Mi padre mantuvo a la familia."
+        },
+        "nosotros/nosotras": {
+          "forma": "mantuvimos",
+          "ejemplo": "Nosotros mantuvimos la tradición."
+        },
+        "vosotros/vosotras": {
+          "forma": "mantuvisteis",
+          "ejemplo": "Vosotros mantuvisteis el orden."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "mantuvieron",
+          "ejemplo": "Ellos mantuvieron su promesa."
+        }
+      }
+    },
+    {
+      "numero": 83,
+      "infinitivo": "bastar",
+      "traducao": "bastar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "basté",
+          "ejemplo": "Yo basté para hacer el trabajo."
+        },
+        "tú": {
+          "forma": "bastaste",
+          "ejemplo": "Tú bastaste y sobraste."
+        },
+        "él/ella/usted": {
+          "forma": "bastó",
+          "ejemplo": "Con dos horas bastó."
+        },
+        "nosotros/nosotras": {
+          "forma": "bastamos",
+          "ejemplo": "Nosotros bastamos para el proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "bastasteis",
+          "ejemplo": "Vosotros bastasteis para el equipo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "bastaron",
+          "ejemplo": "Tres personas bastaron."
+        }
+      }
+    },
+    {
+      "numero": 84,
+      "infinitivo": "formar",
+      "traducao": "formar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "formé",
+          "ejemplo": "Yo formé parte del equipo."
+        },
+        "tú": {
+          "forma": "formaste",
+          "ejemplo": "Tú formaste a los nuevos empleados."
+        },
+        "él/ella/usted": {
+          "forma": "formó",
+          "ejemplo": "El hielo formó cristales hermosos."
+        },
+        "nosotros/nosotras": {
+          "forma": "formamos",
+          "ejemplo": "Nosotros formamos una gran familia."
+        },
+        "vosotros/vosotras": {
+          "forma": "formasteis",
+          "ejemplo": "Vosotros formasteis un buen grupo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "formaron",
+          "ejemplo": "Las nubes formaron figuras."
+        }
+      }
+    },
+    {
+      "numero": 85,
+      "infinitivo": "continuar",
+      "traducao": "continuar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "continué",
+          "ejemplo": "Yo continué estudiando."
+        },
+        "tú": {
+          "forma": "continuaste",
+          "ejemplo": "Tú continuaste con tu rutina."
+        },
+        "él/ella/usted": {
+          "forma": "continuó",
+          "ejemplo": "La lluvia continuó cayendo."
+        },
+        "nosotros/nosotras": {
+          "forma": "continuamos",
+          "ejemplo": "Nosotros continuamos nuestro viaje."
+        },
+        "vosotros/vosotras": {
+          "forma": "continuasteis",
+          "ejemplo": "Vosotros continuasteis en el mismo lugar."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "continuaron",
+          "ejemplo": "Ellos continuaron trabajando."
+        }
+      }
+    },
+    {
+      "numero": 86,
+      "infinitivo": "comprar",
+      "traducao": "comprar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "compré",
+          "ejemplo": "Yo compré frutas en el mercado."
+        },
+        "tú": {
+          "forma": "compraste",
+          "ejemplo": "Tú compraste ropa de marca."
+        },
+        "él/ella/usted": {
+          "forma": "compró",
+          "ejemplo": "Mi madre compró comestibles."
+        },
+        "nosotros/nosotras": {
+          "forma": "compramos",
+          "ejemplo": "Nosotros compramos un coche nuevo."
+        },
+        "vosotros/vosotras": {
+          "forma": "comprasteis",
+          "ejemplo": "Vosotros comprasteis por internet."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "compraron",
+          "ejemplo": "Ellos compraron boletos."
+        }
+      }
+    },
+    {
+      "numero": 87,
+      "infinitivo": "sufrir",
+      "traducao": "sofrer",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sufrí",
+          "ejemplo": "Yo sufrí dolores de cabeza."
+        },
+        "tú": {
+          "forma": "sufriste",
+          "ejemplo": "Tú sufriste mucho estrés."
+        },
+        "él/ella/usted": {
+          "forma": "sufrió",
+          "ejemplo": "Mi abuelo sufrió de artritis."
+        },
+        "nosotros/nosotras": {
+          "forma": "sufrimos",
+          "ejemplo": "Nosotros sufrimos las consecuencias."
+        },
+        "vosotros/vosotras": {
+          "forma": "sufristeis",
+          "ejemplo": "Vosotros sufristeis por nada."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sufrieron",
+          "ejemplo": "Muchas personas sufrieron."
+        }
+      }
+    },
+    {
+      "numero": 88,
+      "infinitivo": "cumplir",
+      "traducao": "cumprir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cumplí",
+          "ejemplo": "Yo cumplí mis promesas."
+        },
+        "tú": {
+          "forma": "cumpliste",
+          "ejemplo": "Tú cumpliste años en mayo."
+        },
+        "él/ella/usted": {
+          "forma": "cumplió",
+          "ejemplo": "Mi hermana cumplió 30 años."
+        },
+        "nosotros/nosotras": {
+          "forma": "cumplimos",
+          "ejemplo": "Nosotros cumplimos nuestras obligaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "cumplisteis",
+          "ejemplo": "Vosotros cumplisteis las normas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cumplieron",
+          "ejemplo": "Ellos cumplieron su palabra."
+        }
+      }
+    },
+    {
+      "numero": 89,
+      "infinitivo": "aprender",
+      "traducao": "aprender",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "aprendí",
+          "ejemplo": "Yo aprendí idiomas."
+        },
+        "tú": {
+          "forma": "aprendiste",
+          "ejemplo": "Tú aprendiste muy rápido."
+        },
+        "él/ella/usted": {
+          "forma": "aprendió",
+          "ejemplo": "Mi hijo aprendió a leer."
+        },
+        "nosotros/nosotras": {
+          "forma": "aprendimos",
+          "ejemplo": "Nosotros aprendimos de nuestros errores."
+        },
+        "vosotros/vosotras": {
+          "forma": "aprendisteis",
+          "ejemplo": "Vosotros aprendisteis cosas nuevas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aprendieron",
+          "ejemplo": "Los niños aprendieron jugando."
+        }
+      }
+    },
+    {
+      "numero": 90,
+      "infinitivo": "servir",
+      "traducao": "servir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "serví",
+          "ejemplo": "Yo serví la cena."
+        },
+        "tú": {
+          "forma": "serviste",
+          "ejemplo": "Tú serviste café."
+        },
+        "él/ella/usted": {
+          "forma": "sirvió",
+          "ejemplo": "Este libro sirvió de guía."
+        },
+        "nosotros/nosotras": {
+          "forma": "servimos",
+          "ejemplo": "Nosotros servimos comida italiana."
+        },
+        "vosotros/vosotras": {
+          "forma": "servisteis",
+          "ejemplo": "Vosotros servisteis con amabilidad."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sirvieron",
+          "ejemplo": "Estos zapatos no sirvieron."
+        }
+      }
+    },
+    {
+      "numero": 91,
+      "infinitivo": "intentar",
+      "traducao": "tentar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "intenté",
+          "ejemplo": "Yo intenté mejorar."
+        },
+        "tú": {
+          "forma": "intentaste",
+          "ejemplo": "Tú intentaste hacer lo correcto."
+        },
+        "él/ella/usted": {
+          "forma": "intentó",
+          "ejemplo": "Mi hermano intentó aprender alemán."
+        },
+        "nosotros/nosotras": {
+          "forma": "intentamos",
+          "ejemplo": "Nosotros intentamos resolver el problema."
+        },
+        "vosotros/vosotras": {
+          "forma": "intentasteis",
+          "ejemplo": "Vosotros intentasteis nuevas recetas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "intentaron",
+          "ejemplo": "Ellos intentaron llegar temprano."
+        }
+      }
+    },
+    {
+      "numero": 92,
+      "infinitivo": "echar",
+      "traducao": "jogar/deitar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "eché",
+          "ejemplo": "Yo eché sal a la comida."
+        },
+        "tú": {
+          "forma": "echaste",
+          "ejemplo": "Tú echaste de menos a tus amigos."
+        },
+        "él/ella/usted": {
+          "forma": "echó",
+          "ejemplo": "Mi padre echó la basura."
+        },
+        "nosotros/nosotras": {
+          "forma": "echamos",
+          "ejemplo": "Nosotros echamos un vistazo."
+        },
+        "vosotros/vosotras": {
+          "forma": "echasteis",
+          "ejemplo": "Vosotros echasteis azúcar al café."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "echaron",
+          "ejemplo": "Ellos echaron la culpa a otros."
+        }
+      }
+    },
+    {
+      "numero": 93,
+      "infinitivo": "elegir",
+      "traducao": "escolher",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "elegí",
+          "ejemplo": "Yo elegí la opción más económica."
+        },
+        "tú": {
+          "forma": "elegiste",
+          "ejemplo": "Tú elegiste bien tus amigos."
+        },
+        "él/ella/usted": {
+          "forma": "eligió",
+          "ejemplo": "Mi hermana eligió su carrera."
+        },
+        "nosotros/nosotras": {
+          "forma": "elegimos",
+          "ejemplo": "Nosotros elegimos al presidente."
+        },
+        "vosotros/vosotras": {
+          "forma": "elegisteis",
+          "ejemplo": "Vosotros elegisteis el destino."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "eligieron",
+          "ejemplo": "Ellos eligieron trabajar desde casa."
+        }
+      }
+    },
+    {
+      "numero": 94,
+      "infinitivo": "aceptar",
+      "traducao": "aceitar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "acepté",
+          "ejemplo": "Yo acepté la oferta de trabajo."
+        },
+        "tú": {
+          "forma": "aceptaste",
+          "ejemplo": "Tú aceptaste mis disculpas."
+        },
+        "él/ella/usted": {
+          "forma": "aceptó",
+          "ejemplo": "El restaurante aceptó tarjetas."
+        },
+        "nosotros/nosotras": {
+          "forma": "aceptamos",
+          "ejemplo": "Nosotros aceptamos el desafío."
+        },
+        "vosotros/vosotras": {
+          "forma": "aceptasteis",
+          "ejemplo": "Vosotros aceptasteis las condiciones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "aceptaron",
+          "ejemplo": "Ellos aceptaron la propuesta."
+        }
+      }
+    },
+    {
+      "numero": 95,
+      "infinitivo": "desear",
+      "traducao": "desejar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "deseé",
+          "ejemplo": "Yo deseé viajar por el mundo."
+        },
+        "tú": {
+          "forma": "deseaste",
+          "ejemplo": "Tú deseaste lo mejor."
+        },
+        "él/ella/usted": {
+          "forma": "deseó",
+          "ejemplo": "Mi madre deseó que fuera feliz."
+        },
+        "nosotros/nosotras": {
+          "forma": "deseamos",
+          "ejemplo": "Nosotros deseamos suerte."
+        },
+        "vosotros/vosotras": {
+          "forma": "deseasteis",
+          "ejemplo": "Vosotros deseasteis felices fiestas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "desearon",
+          "ejemplo": "Ellos desearon cambiar de ciudad."
+        }
+      }
+    },
+    {
+      "numero": 96,
+      "infinitivo": "abandonar",
+      "traducao": "abandonar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "abandoné",
+          "ejemplo": "Yo nunca abandoné mis proyectos."
+        },
+        "tú": {
+          "forma": "abandonaste",
+          "ejemplo": "Tú abandonaste la sala."
+        },
+        "él/ella/usted": {
+          "forma": "abandonó",
+          "ejemplo": "El equipo abandonó el campo."
+        },
+        "nosotros/nosotras": {
+          "forma": "abandonamos",
+          "ejemplo": "Nosotros abandonamos la idea."
+        },
+        "vosotros/vosotras": {
+          "forma": "abandonasteis",
+          "ejemplo": "Vosotros abandonasteis el edificio."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "abandonaron",
+          "ejemplo": "Ellos abandonaron sus esperanzas."
+        }
+      }
+    },
+    {
+      "numero": 97,
+      "infinitivo": "necesitar",
+      "traducao": "necessitar/precisar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "necesité",
+          "ejemplo": "Yo necesité dormir más horas."
+        },
+        "tú": {
+          "forma": "necesitaste",
+          "ejemplo": "Tú necesitaste tomar vacaciones."
+        },
+        "él/ella/usted": {
+          "forma": "necesitó",
+          "ejemplo": "Mi coche necesitó gasolina."
+        },
+        "nosotros/nosotras": {
+          "forma": "necesitamos",
+          "ejemplo": "Nosotros necesitamos tu ayuda."
+        },
+        "vosotros/vosotras": {
+          "forma": "necesitasteis",
+          "ejemplo": "Vosotros necesitasteis más tiempo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "necesitaron",
+          "ejemplo": "Las plantas necesitaron agua."
+        }
+      }
+    },
+    {
+      "numero": 98,
+      "infinitivo": "guardar",
+      "traducao": "guardar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "guardé",
+          "ejemplo": "Yo guardé mis joyas."
+        },
+        "tú": {
+          "forma": "guardaste",
+          "ejemplo": "Tú guardaste secretos."
+        },
+        "él/ella/usted": {
+          "forma": "guardó",
+          "ejemplo": "Mi hermano guardó todos sus juguetes."
+        },
+        "nosotros/nosotras": {
+          "forma": "guardamos",
+          "ejemplo": "Nosotros guardamos silencio."
+        },
+        "vosotros/vosotras": {
+          "forma": "guardasteis",
+          "ejemplo": "Vosotros guardasteis las distancias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "guardaron",
+          "ejemplo": "Ellos guardaron documentos."
+        }
+      }
+    },
+    {
+      "numero": 99,
+      "infinitivo": "observar",
+      "traducao": "observar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "observé",
+          "ejemplo": "Yo observé las aves."
+        },
+        "tú": {
+          "forma": "observaste",
+          "ejemplo": "Tú observaste todo con detalle."
+        },
+        "él/ella/usted": {
+          "forma": "observó",
+          "ejemplo": "El científico observó el experimento."
+        },
+        "nosotros/nosotras": {
+          "forma": "observamos",
+          "ejemplo": "Nosotros observamos las estrellas."
+        },
+        "vosotros/vosotras": {
+          "forma": "observasteis",
+          "ejemplo": "Vosotros observasteis las reglas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "observaron",
+          "ejemplo": "Ellos observaron el comportamiento."
+        }
+      }
+    },
+    {
+      "numero": 100,
+      "infinitivo": "ayudar",
+      "traducao": "ajudar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ayudé",
+          "ejemplo": "Yo ayudé a mis padres."
+        },
+        "tú": {
+          "forma": "ayudaste",
+          "ejemplo": "Tú ayudaste a personas necesitadas."
+        },
+        "él/ella/usted": {
+          "forma": "ayudó",
+          "ejemplo": "Mi profesor ayudó a los estudiantes."
+        },
+        "nosotros/nosotras": {
+          "forma": "ayudamos",
+          "ejemplo": "Nosotros ayudamos en tareas comunitarias."
+        },
+        "vosotros/vosotras": {
+          "forma": "ayudasteis",
+          "ejemplo": "Vosotros ayudasteis mucho."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ayudaron",
+          "ejemplo": "Ellos ayudaron a construir escuelas."
+        }
+      }
+    }
+  ]
+}
+

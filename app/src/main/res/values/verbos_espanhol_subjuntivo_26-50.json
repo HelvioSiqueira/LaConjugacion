@@ -1,0 +1,607 @@
+{
+  "titulo": "Subjuntivo 26-50",
+  "tiempo_verbal": "presente_subjutivo",
+  "verbos": [
+    {
+      "numero": 26,
+      "infinitivo": "venir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "venga"
+        },
+        "tú": {
+          "forma": "vengas"
+        },
+        "él/ella/usted": {
+          "forma": "venga"
+        },
+        "nosotros/nosotras": {
+          "forma": "vengamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "vengáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vengan"
+        }
+      }
+    },
+    {
+      "numero": 27,
+      "infinitivo": "pensar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "piense"
+        },
+        "tú": {
+          "forma": "pienses"
+        },
+        "él/ella/usted": {
+          "forma": "piense"
+        },
+        "nosotros/nosotras": {
+          "forma": "pensemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "penséis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "piensen"
+        }
+      }
+    },
+    {
+      "numero": 28,
+      "infinitivo": "salir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "salga"
+        },
+        "tú": {
+          "forma": "salgas"
+        },
+        "él/ella/usted": {
+          "forma": "salga"
+        },
+        "nosotros/nosotras": {
+          "forma": "salgamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "salgáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "salgan"
+        }
+      }
+    },
+    {
+      "numero": 29,
+      "infinitivo": "volver",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vuelva"
+        },
+        "tú": {
+          "forma": "vuelvas"
+        },
+        "él/ella/usted": {
+          "forma": "vuelva"
+        },
+        "nosotros/nosotras": {
+          "forma": "volvamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "volváis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vuelvan"
+        }
+      }
+    },
+    {
+      "numero": 30,
+      "infinitivo": "tomar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tome"
+        },
+        "tú": {
+          "forma": "tomes"
+        },
+        "él/ella/usted": {
+          "forma": "tome"
+        },
+        "nosotros/nosotras": {
+          "forma": "tomemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "toméis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tomen"
+        }
+      }
+    },
+    {
+      "numero": 31,
+      "infinitivo": "conocer",
+      "conjugaciones": {
+        "yo": {
+          "forma": "conozca"
+        },
+        "tú": {
+          "forma": "conozcas"
+        },
+        "él/ella/usted": {
+          "forma": "conozca"
+        },
+        "nosotros/nosotras": {
+          "forma": "conozcamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "conozcáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "conozcan"
+        }
+      }
+    },
+    {
+      "numero": 32,
+      "infinitivo": "vivir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "viva"
+        },
+        "tú": {
+          "forma": "vivas"
+        },
+        "él/ella/usted": {
+          "forma": "viva"
+        },
+        "nosotros/nosotras": {
+          "forma": "vivamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "viváis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vivan"
+        }
+      }
+    },
+    {
+      "numero": 33,
+      "infinitivo": "sentir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sienta"
+        },
+        "tú": {
+          "forma": "sientas"
+        },
+        "él/ella/usted": {
+          "forma": "sienta"
+        },
+        "nosotros/nosotras": {
+          "forma": "sintamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "sintáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sientan"
+        }
+      }
+    },
+    {
+      "numero": 34,
+      "infinitivo": "tratar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trate"
+        },
+        "tú": {
+          "forma": "trates"
+        },
+        "él/ella/usted": {
+          "forma": "trate"
+        },
+        "nosotros/nosotras": {
+          "forma": "tratemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "tratéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "traten"
+        }
+      }
+    },
+    {
+      "numero": 35,
+      "infinitivo": "mirar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "mire"
+        },
+        "tú": {
+          "forma": "mires"
+        },
+        "él/ella/usted": {
+          "forma": "mire"
+        },
+        "nosotros/nosotras": {
+          "forma": "miremos"
+        },
+        "vosotros/vosotras": {
+          "forma": "miréis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "miren"
+        }
+      }
+    },
+    {
+      "numero": 36,
+      "infinitivo": "contar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cuente"
+        },
+        "tú": {
+          "forma": "cuentes"
+        },
+        "él/ella/usted": {
+          "forma": "cuente"
+        },
+        "nosotros/nosotras": {
+          "forma": "contemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "contéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cuenten"
+        }
+      }
+    },
+    {
+      "numero": 37,
+      "infinitivo": "empezar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "empiece"
+        },
+        "tú": {
+          "forma": "empieces"
+        },
+        "él/ella/usted": {
+          "forma": "empiece"
+        },
+        "nosotros/nosotras": {
+          "forma": "empecemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "empecéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "empiecen"
+        }
+      }
+    },
+    {
+      "numero": 38,
+      "infinitivo": "esperar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "espere"
+        },
+        "tú": {
+          "forma": "esperes"
+        },
+        "él/ella/usted": {
+          "forma": "espere"
+        },
+        "nosotros/nosotras": {
+          "forma": "esperemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "esperéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "esperen"
+        }
+      }
+    },
+    {
+      "numero": 39,
+      "infinitivo": "buscar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "busque"
+        },
+        "tú": {
+          "forma": "busques"
+        },
+        "él/ella/usted": {
+          "forma": "busque"
+        },
+        "nosotros/nosotras": {
+          "forma": "busquemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "busquéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "busquen"
+        }
+      }
+    },
+    {
+      "numero": 40,
+      "infinitivo": "existir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "exista"
+        },
+        "tú": {
+          "forma": "existas"
+        },
+        "él/ella/usted": {
+          "forma": "exista"
+        },
+        "nosotros/nosotras": {
+          "forma": "existamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "existáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "existan"
+        }
+      }
+    },
+    {
+      "numero": 41,
+      "infinitivo": "entrar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entre"
+        },
+        "tú": {
+          "forma": "entres"
+        },
+        "él/ella/usted": {
+          "forma": "entre"
+        },
+        "nosotros/nosotras": {
+          "forma": "entremos"
+        },
+        "vosotros/vosotras": {
+          "forma": "entréis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entren"
+        }
+      }
+    },
+    {
+      "numero": 42,
+      "infinitivo": "trabajar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trabaje"
+        },
+        "tú": {
+          "forma": "trabajes"
+        },
+        "él/ella/usted": {
+          "forma": "trabaje"
+        },
+        "nosotros/nosotras": {
+          "forma": "trabajemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "trabajéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "trabajen"
+        }
+      }
+    },
+    {
+      "numero": 43,
+      "infinitivo": "escribir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "escriba"
+        },
+        "tú": {
+          "forma": "escribas"
+        },
+        "él/ella/usted": {
+          "forma": "escriba"
+        },
+        "nosotros/nosotras": {
+          "forma": "escribamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "escribáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "escriban"
+        }
+      }
+    },
+    {
+      "numero": 44,
+      "infinitivo": "producir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "produzca"
+        },
+        "tú": {
+          "forma": "produzcas"
+        },
+        "él/ella/usted": {
+          "forma": "produzca"
+        },
+        "nosotros/nosotras": {
+          "forma": "produzcamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "produzcáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "produzcan"
+        }
+      }
+    },
+    {
+      "numero": 45,
+      "infinitivo": "ocurrir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ocurra"
+        },
+        "tú": {
+          "forma": "ocurras"
+        },
+        "él/ella/usted": {
+          "forma": "ocurra"
+        },
+        "nosotros/nosotras": {
+          "forma": "ocurramos"
+        },
+        "vosotros/vosotras": {
+          "forma": "ocurráis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ocurran"
+        }
+      }
+    },
+    {
+      "numero": 46,
+      "infinitivo": "entender",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entienda"
+        },
+        "tú": {
+          "forma": "entiendas"
+        },
+        "él/ella/usted": {
+          "forma": "entienda"
+        },
+        "nosotros/nosotras": {
+          "forma": "entendamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "entendáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entiendan"
+        }
+      }
+    },
+    {
+      "numero": 47,
+      "infinitivo": "pedir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pida"
+        },
+        "tú": {
+          "forma": "pidas"
+        },
+        "él/ella/usted": {
+          "forma": "pida"
+        },
+        "nosotros/nosotras": {
+          "forma": "pidamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "pidáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pidan"
+        }
+      }
+    },
+    {
+      "numero": 48,
+      "infinitivo": "recibir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "reciba"
+        },
+        "tú": {
+          "forma": "recibas"
+        },
+        "él/ella/usted": {
+          "forma": "reciba"
+        },
+        "nosotros/nosotras": {
+          "forma": "recibamos"
+        },
+        "vosotros/vosotras": {
+          "forma": "recibáis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "reciban"
+        }
+      }
+    },
+    {
+      "numero": 49,
+      "infinitivo": "recordar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recuerde"
+        },
+        "tú": {
+          "forma": "recuerdes"
+        },
+        "él/ella/usted": {
+          "forma": "recuerde"
+        },
+        "nosotros/nosotras": {
+          "forma": "recordemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "recordéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "recuerden"
+        }
+      }
+    },
+    {
+      "numero": 50,
+      "infinitivo": "terminar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "termine"
+        },
+        "tú": {
+          "forma": "termines"
+        },
+        "él/ella/usted": {
+          "forma": "termine"
+        },
+        "nosotros/nosotras": {
+          "forma": "terminemos"
+        },
+        "vosotros/vosotras": {
+          "forma": "terminéis"
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "terminen"
+        }
+      }
+    }
+  ]
+}
+

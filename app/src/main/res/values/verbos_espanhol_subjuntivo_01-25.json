@@ -1,0 +1,757 @@
+{
+  "titulo": "100 Verbos - Parte 1 (1-25)",
+  "tiempo_verbal": "presente_subjutivo",
+  "verbos": [
+    {
+      "numero": 1,
+      "infinitivo": "ser",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sea",
+          "ejemplo": "Espero que yo sea médico."
+        },
+        "tú": {
+          "forma": "seas",
+          "ejemplo": "Quiero que seas exitoso."
+        },
+        "él/ella/usted": {
+          "forma": "sea",
+          "ejemplo": "Es posible que sea tarde."
+        },
+        "nosotros/nosotras": {
+          "forma": "seamos",
+          "ejemplo": "Ojalá seamos amigos."
+        },
+        "vosotros/vosotras": {
+          "forma": "seáis",
+          "ejemplo": "Espero que seáis felices."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sean",
+          "ejemplo": "Quiero que sean líderes."
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "infinitivo": "estar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "esté",
+          "ejemplo": "Espero que esté bien."
+        },
+        "tú": {
+          "forma": "estés",
+          "ejemplo": "Ojalá estés mejor."
+        },
+        "él/ella/usted": {
+          "forma": "esté",
+          "ejemplo": "Espero que esté casa."
+        },
+        "nosotros/nosotras": {
+          "forma": "estemos",
+          "ejemplo": "Ojalá estemos listos."
+        },
+        "vosotros/vosotras": {
+          "forma": "estéis",
+          "ejemplo": "Espero que estéis contentos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "estén",
+          "ejemplo": "Quiero que estén bien."
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "infinitivo": "haber",
+      "conjugaciones": {
+        "yo": {
+          "forma": "haya",
+          "ejemplo": "Espero que haya terminado."
+        },
+        "tú": {
+          "forma": "hayas",
+          "ejemplo": "Ojalá hayas aprendido."
+        },
+        "él/ella/usted": {
+          "forma": "haya",
+          "ejemplo": "Espero que haya tiempo."
+        },
+        "nosotros/nosotras": {
+          "forma": "hayamos",
+          "ejemplo": "Ojalá hayamos llegado."
+        },
+        "vosotros/vosotras": {
+          "forma": "hayáis",
+          "ejemplo": "Espero que hayáis visto."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "hayan",
+          "ejemplo": "Quiero que hayan venido."
+        }
+      }
+    },
+    {
+      "numero": 4,
+      "infinitivo": "tener",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tenga",
+          "ejemplo": "Espero que tenga tiempo."
+        },
+        "tú": {
+          "forma": "tengas",
+          "ejemplo": "Ojalá tengas éxito."
+        },
+        "él/ella/usted": {
+          "forma": "tenga",
+          "ejemplo": "Espero que tenga suerte."
+        },
+        "nosotros/nosotras": {
+          "forma": "tengamos",
+          "ejemplo": "Ojalá tengamos reunión."
+        },
+        "vosotros/vosotras": {
+          "forma": "tengáis",
+          "ejemplo": "Espero que tengáis razón."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tengan",
+          "ejemplo": "Quiero que tengan casa."
+        }
+      }
+    },
+    {
+      "numero": 5,
+      "infinitivo": "hacer",
+      "conjugaciones": {
+        "yo": {
+          "forma": "haga",
+          "ejemplo": "Espero que haga tarea."
+        },
+        "tú": {
+          "forma": "hagas",
+          "ejemplo": "Ojalá hagas trabajo."
+        },
+        "él/ella/usted": {
+          "forma": "haga",
+          "ejemplo": "Espero que haga buen tiempo."
+        },
+        "nosotros/nosotras": {
+          "forma": "hagamos",
+          "ejemplo": "Ojalá hagamos fiesta."
+        },
+        "vosotros/vosotras": {
+          "forma": "hagáis",
+          "ejemplo": "Espero que hagáis correcto."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "hagan",
+          "ejemplo": "Quiero que hagan todo."
+        }
+      }
+    },
+    {
+      "numero": 6,
+      "infinitivo": "poder",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pueda",
+          "ejemplo": "Espero que pueda ayudar."
+        },
+        "tú": {
+          "forma": "puedas",
+          "ejemplo": "Ojalá puedas lograrlo."
+        },
+        "él/ella/usted": {
+          "forma": "pueda",
+          "ejemplo": "Espero que pueda venir."
+        },
+        "nosotros/nosotras": {
+          "forma": "podamos",
+          "ejemplo": "Ojalá podamos terminar."
+        },
+        "vosotros/vosotras": {
+          "forma": "podáis",
+          "ejemplo": "Espero que podáis quedar."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "puedan",
+          "ejemplo": "Quiero que puedan resolver."
+        }
+      }
+    },
+    {
+      "numero": 7,
+      "infinitivo": "decir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "diga",
+          "ejemplo": "Espero que diga verdad."
+        },
+        "tú": {
+          "forma": "digas",
+          "ejemplo": "Ojalá digas lo piensas."
+        },
+        "él/ella/usted": {
+          "forma": "diga",
+          "ejemplo": "Espero que diga resultados."
+        },
+        "nosotros/nosotras": {
+          "forma": "digamos",
+          "ejemplo": "Ojalá digamos adiós."
+        },
+        "vosotros/vosotras": {
+          "forma": "digáis",
+          "ejemplo": "Espero que digáis opiniones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "digan",
+          "ejemplo": "Quiero que digan fecha."
+        }
+      }
+    },
+    {
+      "numero": 8,
+      "infinitivo": "ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vaya",
+          "ejemplo": "Espero que vaya gimnasio."
+        },
+        "tú": {
+          "forma": "vayas",
+          "ejemplo": "Ojalá vayas universidad."
+        },
+        "él/ella/usted": {
+          "forma": "vaya",
+          "ejemplo": "Espero que vaya compras."
+        },
+        "nosotros/nosotras": {
+          "forma": "vayamos",
+          "ejemplo": "Ojalá vayamos cine."
+        },
+        "vosotros/vosotras": {
+          "forma": "vayáis",
+          "ejemplo": "Espero que vayáis playa."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vayan",
+          "ejemplo": "Quiero que vayan viaje."
+        }
+      }
+    },
+    {
+      "numero": 9,
+      "infinitivo": "ver",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vea",
+          "ejemplo": "Espero que vea película."
+        },
+        "tú": {
+          "forma": "veas",
+          "ejemplo": "Ojalá veas resultados."
+        },
+        "él/ella/usted": {
+          "forma": "vea",
+          "ejemplo": "Espero que vea doctor."
+        },
+        "nosotros/nosotras": {
+          "forma": "veamos",
+          "ejemplo": "Ojalá veamos qué pasa."
+        },
+        "vosotros/vosotras": {
+          "forma": "veáis",
+          "ejemplo": "Espero que veáis solución."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vean",
+          "ejemplo": "Quiero que vean diferencia."
+        }
+      }
+    },
+    {
+      "numero": 10,
+      "infinitivo": "dar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "dé",
+          "ejemplo": "Espero que dé clases."
+        },
+        "tú": {
+          "forma": "des",
+          "ejemplo": "Ojalá des consejos."
+        },
+        "él/ella/usted": {
+          "forma": "dé",
+          "ejemplo": "Espero que dé fiesta."
+        },
+        "nosotros/nosotras": {
+          "forma": "demos",
+          "ejemplo": "Ojalá demos paseo."
+        },
+        "vosotros/vosotras": {
+          "forma": "deis",
+          "ejemplo": "Espero que deis trabajo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "den",
+          "ejemplo": "Quiero que den conferencia."
+        }
+      }
+    },
+    {
+      "numero": 11,
+      "infinitivo": "saber",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sepa",
+          "ejemplo": "Espero que sepa respuesta."
+        },
+        "tú": {
+          "forma": "sepas",
+          "ejemplo": "Ojalá sepas verdad."
+        },
+        "él/ella/usted": {
+          "forma": "sepa",
+          "ejemplo": "Espero que sepa hacer."
+        },
+        "nosotros/nosotras": {
+          "forma": "sepamos",
+          "ejemplo": "Ojalá sepamos resultados."
+        },
+        "vosotros/vosotras": {
+          "forma": "sepáis",
+          "ejemplo": "Espero que sepáis dónde."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sepan",
+          "ejemplo": "Quiero que sepan cómo."
+        }
+      }
+    },
+    {
+      "numero": 12,
+      "infinitivo": "querer",
+      "conjugaciones": {
+        "yo": {
+          "forma": "quiera",
+          "ejemplo": "Espero que quiera viajar."
+        },
+        "tú": {
+          "forma": "quieras",
+          "ejemplo": "Ojalá quieras ver."
+        },
+        "él/ella/usted": {
+          "forma": "quiera",
+          "ejemplo": "Espero que quiera participar."
+        },
+        "nosotros/nosotras": {
+          "forma": "queramos",
+          "ejemplo": "Ojalá queramos información."
+        },
+        "vosotros/vosotras": {
+          "forma": "queráis",
+          "ejemplo": "Espero que queráis venir."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "quieran",
+          "ejemplo": "Quiero que quieran saber."
+        }
+      }
+    },
+    {
+      "numero": 13,
+      "infinitivo": "llegar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "llegue",
+          "ejemplo": "Espero que llegue ocho."
+        },
+        "tú": {
+          "forma": "llegues",
+          "ejemplo": "Ojalá llegues temprano."
+        },
+        "él/ella/usted": {
+          "forma": "llegue",
+          "ejemplo": "Espero que llegue tren."
+        },
+        "nosotros/nosotras": {
+          "forma": "lleguemos",
+          "ejemplo": "Ojalá lleguemos pronto."
+        },
+        "vosotros/vosotras": {
+          "forma": "lleguéis",
+          "ejemplo": "Espero que lleguéis energía."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "lleguen",
+          "ejemplo": "Quiero que lleguen mañana."
+        }
+      }
+    },
+    {
+      "numero": 14,
+      "infinitivo": "pasar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pase",
+          "ejemplo": "Espero que pase casa."
+        },
+        "tú": {
+          "forma": "pases",
+          "ejemplo": "Ojalá pases tiempo."
+        },
+        "él/ella/usted": {
+          "forma": "pase",
+          "ejemplo": "Espero que pase pronto."
+        },
+        "nosotros/nosotras": {
+          "forma": "pasemos",
+          "ejemplo": "Ojalá pasemos vacaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "paséis",
+          "ejemplo": "Espero que paséis bien."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pasen",
+          "ejemplo": "Quiero que pasen tiempo."
+        }
+      }
+    },
+    {
+      "numero": 15,
+      "infinitivo": "deber",
+      "conjugaciones": {
+        "yo": {
+          "forma": "deba",
+          "ejemplo": "Espero que deba estudiar."
+        },
+        "tú": {
+          "forma": "debas",
+          "ejemplo": "Ojalá debas puntual."
+        },
+        "él/ella/usted": {
+          "forma": "deba",
+          "ejemplo": "Espero que deba pagar."
+        },
+        "nosotros/nosotras": {
+          "forma": "debamos",
+          "ejemplo": "Ojalá debamos terminar."
+        },
+        "vosotros/vosotras": {
+          "forma": "debáis",
+          "ejemplo": "Espero que debáis llamar."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "deban",
+          "ejemplo": "Quiero que deban llegar."
+        }
+      }
+    },
+    {
+      "numero": 16,
+      "infinitivo": "poner",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ponga",
+          "ejemplo": "Espero que ponga mesa."
+        },
+        "tú": {
+          "forma": "pongas",
+          "ejemplo": "Ojalá pongas atención."
+        },
+        "él/ella/usted": {
+          "forma": "ponga",
+          "ejemplo": "Espero que ponga radio."
+        },
+        "nosotros/nosotras": {
+          "forma": "pongamos",
+          "ejemplo": "Ojalá pongamos llaves."
+        },
+        "vosotros/vosotras": {
+          "forma": "pongáis",
+          "ejemplo": "Espero que pongáis música."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pongan",
+          "ejemplo": "Quiero que pongan atención."
+        }
+      }
+    },
+    {
+      "numero": 17,
+      "infinitivo": "parecer",
+      "conjugaciones": {
+        "yo": {
+          "forma": "parezca",
+          "ejemplo": "Espero que parezca joven."
+        },
+        "tú": {
+          "forma": "parezcas",
+          "ejemplo": "Ojalá parezcas cansado."
+        },
+        "él/ella/usted": {
+          "forma": "parezca",
+          "ejemplo": "Espero que parezca llover."
+        },
+        "nosotros/nosotras": {
+          "forma": "parezcamos",
+          "ejemplo": "Ojalá parezcamos hermanos."
+        },
+        "vosotros/vosotras": {
+          "forma": "parezcáis",
+          "ejemplo": "Espero que parezcáis contentos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "parezcan",
+          "ejemplo": "Quiero que parezcan personas."
+        }
+      }
+    },
+    {
+      "numero": 18,
+      "infinitivo": "quedar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "quede",
+          "ejemplo": "Espero que quede amigos."
+        },
+        "tú": {
+          "forma": "quedes",
+          "ejemplo": "Ojalá quedes bien."
+        },
+        "él/ella/usted": {
+          "forma": "quede",
+          "ejemplo": "Espero que quede cerca."
+        },
+        "nosotros/nosotras": {
+          "forma": "quedemos",
+          "ejemplo": "Ojalá quedemos siete."
+        },
+        "vosotros/vosotras": {
+          "forma": "quedéis",
+          "ejemplo": "Espero que quedéis segundo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "queden",
+          "ejemplo": "Quiero que queden días."
+        }
+      }
+    },
+    {
+      "numero": 19,
+      "infinitivo": "creer",
+      "conjugaciones": {
+        "yo": {
+          "forma": "crea",
+          "ejemplo": "Espero que crea ti."
+        },
+        "tú": {
+          "forma": "creas",
+          "ejemplo": "Ojalá creas milagros."
+        },
+        "él/ella/usted": {
+          "forma": "crea",
+          "ejemplo": "Espero que crea misma."
+        },
+        "nosotros/nosotras": {
+          "forma": "creamos",
+          "ejemplo": "Ojalá creamos justicia."
+        },
+        "vosotros/vosotras": {
+          "forma": "creáis",
+          "ejemplo": "Espero que creáis todo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "crean",
+          "ejemplo": "Quiero que crean idea."
+        }
+      }
+    },
+    {
+      "numero": 20,
+      "infinitivo": "hablar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "hable",
+          "ejemplo": "Espero que hable director."
+        },
+        "tú": {
+          "forma": "hables",
+          "ejemplo": "Ojalá hables despacio."
+        },
+        "él/ella/usted": {
+          "forma": "hable",
+          "ejemplo": "Espero que hable historia."
+        },
+        "nosotros/nosotras": {
+          "forma": "hablemos",
+          "ejemplo": "Ojalá hablemos teléfono."
+        },
+        "vosotros/vosotras": {
+          "forma": "habléis",
+          "ejemplo": "Espero que habléis bajo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "hablen",
+          "ejemplo": "Quiero que hablen política."
+        }
+      }
+    },
+    {
+      "numero": 21,
+      "infinitivo": "llevar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "lleve",
+          "ejemplo": "Espero que lleve libros."
+        },
+        "tú": {
+          "forma": "lleves",
+          "ejemplo": "Ojalá lleves vestido."
+        },
+        "él/ella/usted": {
+          "forma": "lleve",
+          "ejemplo": "Espero que lleve gafas."
+        },
+        "nosotros/nosotras": {
+          "forma": "llevemos",
+          "ejemplo": "Ojalá llevemos comida."
+        },
+        "vosotros/vosotras": {
+          "forma": "llevéis",
+          "ejemplo": "Espero que llevéis corte."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "lleven",
+          "ejemplo": "Quiero que lleven vida."
+        }
+      }
+    },
+    {
+      "numero": 22,
+      "infinitivo": "dejar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "deje",
+          "ejemplo": "Espero que deje llaves."
+        },
+        "tú": {
+          "forma": "dejes",
+          "ejemplo": "Ojalá dejes todo."
+        },
+        "él/ella/usted": {
+          "forma": "deje",
+          "ejemplo": "Espero que deje fumar."
+        },
+        "nosotros/nosotras": {
+          "forma": "dejemos",
+          "ejemplo": "Ojalá dejemos propina."
+        },
+        "vosotros/vosotras": {
+          "forma": "dejéis",
+          "ejemplo": "Espero que dejéis puerta."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "dejen",
+          "ejemplo": "Quiero que dejen zapatos."
+        }
+      }
+    },
+    {
+      "numero": 23,
+      "infinitivo": "seguir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "siga",
+          "ejemplo": "Espero que siga estudiando."
+        },
+        "tú": {
+          "forma": "sigas",
+          "ejemplo": "Ojalá sigas viviendo."
+        },
+        "él/ella/usted": {
+          "forma": "siga",
+          "ejemplo": "Espero que siga trabajando."
+        },
+        "nosotros/nosotras": {
+          "forma": "sigamos",
+          "ejemplo": "Ojalá sigamos camino."
+        },
+        "vosotros/vosotras": {
+          "forma": "sigáis",
+          "ejemplo": "Espero que sigáis instrucciones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sigan",
+          "ejemplo": "Quiero que sigan noticias."
+        }
+      }
+    },
+    {
+      "numero": 24,
+      "infinitivo": "encontrar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "encuentre",
+          "ejemplo": "Espero que encuentre solución."
+        },
+        "tú": {
+          "forma": "encuentres",
+          "ejemplo": "Ojalá encuentres ofertas."
+        },
+        "él/ella/usted": {
+          "forma": "encuentre",
+          "ejemplo": "Espero que encuentre trabajo."
+        },
+        "nosotros/nosotras": {
+          "forma": "encontremos",
+          "ejemplo": "Ojalá encontremos restaurante."
+        },
+        "vosotros/vosotras": {
+          "forma": "encontréis",
+          "ejemplo": "Espero que encontréis solución."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "encuentren",
+          "ejemplo": "Quiero que encuentren dificultades."
+        }
+      }
+    },
+    {
+      "numero": 25,
+      "infinitivo": "llamar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "llame",
+          "ejemplo": "Espero que llame madre."
+        },
+        "tú": {
+          "forma": "llames",
+          "ejemplo": "Ojalá llames atención."
+        },
+        "él/ella/usted": {
+          "forma": "llame",
+          "ejemplo": "Espero que llame jefe."
+        },
+        "nosotros/nosotras": {
+          "forma": "llamemos",
+          "ejemplo": "Ojalá llamemos médico."
+        },
+        "vosotros/vosotras": {
+          "forma": "llaméis",
+          "ejemplo": "Espero que llaméis puerta."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "llamen",
+          "ejemplo": "Quiero que llamen teléfono."
+        }
+      }
+    }
+  ]
+}
+

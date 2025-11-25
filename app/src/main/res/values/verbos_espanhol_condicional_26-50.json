@@ -1,0 +1,808 @@
+{
+  "titulo": "100 Verbos Mais Usados em Espanhol - Parte 2 (Verbos 26-50)",
+  "tiempo_verbal": "condicional_simple",
+  "descripcion": "Conjugações no Condicional Simple com exemplos de uso",
+  "verbos": [
+    {
+      "numero": 26,
+      "infinitivo": "venir",
+      "traducao": "vir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vendría",
+          "ejemplo": "Yo vendría a tu fiesta."
+        },
+        "tú": {
+          "forma": "vendrías",
+          "ejemplo": "Tú vendrías conmigo."
+        },
+        "él/ella/usted": {
+          "forma": "vendría",
+          "ejemplo": "Mi hermana vendría de visita."
+        },
+        "nosotros/nosotras": {
+          "forma": "vendríamos",
+          "ejemplo": "Nosotros vendríamos pronto."
+        },
+        "vosotros/vosotras": {
+          "forma": "vendríais",
+          "ejemplo": "Vosotros vendríais temprano."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vendrían",
+          "ejemplo": "Ellos vendrían en tren."
+        }
+      }
+    },
+    {
+      "numero": 27,
+      "infinitivo": "pensar",
+      "traducao": "pensar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pensaría",
+          "ejemplo": "Yo pensaría en una solución."
+        },
+        "tú": {
+          "forma": "pensarías",
+          "ejemplo": "Tú pensarías en el futuro."
+        },
+        "él/ella/usted": {
+          "forma": "pensaría",
+          "ejemplo": "Ella pensaría bien la decisión."
+        },
+        "nosotros/nosotras": {
+          "forma": "pensaríamos",
+          "ejemplo": "Nosotros pensaríamos en viajar."
+        },
+        "vosotros/vosotras": {
+          "forma": "pensaríais",
+          "ejemplo": "Vosotros pensaríais lo mismo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pensarían",
+          "ejemplo": "Ellos pensarían mudarse."
+        }
+      }
+    },
+    {
+      "numero": 28,
+      "infinitivo": "salir",
+      "traducao": "sair",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "saldría",
+          "ejemplo": "Yo saldría temprano."
+        },
+        "tú": {
+          "forma": "saldrías",
+          "ejemplo": "Tú saldrías mucho."
+        },
+        "él/ella/usted": {
+          "forma": "saldría",
+          "ejemplo": "El sol saldría pronto."
+        },
+        "nosotros/nosotras": {
+          "forma": "saldríamos",
+          "ejemplo": "Nosotros saldríamos a cenar."
+        },
+        "vosotros/vosotras": {
+          "forma": "saldríais",
+          "ejemplo": "Vosotros saldríais juntos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "saldrían",
+          "ejemplo": "Ellos saldrían de viaje."
+        }
+      }
+    },
+    {
+      "numero": 29,
+      "infinitivo": "volver",
+      "traducao": "voltar",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "volvería",
+          "ejemplo": "Yo volvería pronto."
+        },
+        "tú": {
+          "forma": "volverías",
+          "ejemplo": "Tú volverías mañana."
+        },
+        "él/ella/usted": {
+          "forma": "volvería",
+          "ejemplo": "Mi padre volvería del trabajo."
+        },
+        "nosotros/nosotras": {
+          "forma": "volveríamos",
+          "ejemplo": "Nosotros volveríamos de vacaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "volveríais",
+          "ejemplo": "Vosotros volveríais a intentarlo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "volverían",
+          "ejemplo": "Ellos volverían a su país."
+        }
+      }
+    },
+    {
+      "numero": 30,
+      "infinitivo": "tomar",
+      "traducao": "tomar/pegar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tomaría",
+          "ejemplo": "Yo tomaría café."
+        },
+        "tú": {
+          "forma": "tomarías",
+          "ejemplo": "Tú tomarías una decisión."
+        },
+        "él/ella/usted": {
+          "forma": "tomaría",
+          "ejemplo": "Ella tomaría el autobús."
+        },
+        "nosotros/nosotras": {
+          "forma": "tomaríamos",
+          "ejemplo": "Nosotros tomaríamos apuntes."
+        },
+        "vosotros/vosotras": {
+          "forma": "tomaríais",
+          "ejemplo": "Vosotros tomaríais el sol."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tomarían",
+          "ejemplo": "Ellos tomarían un taxi."
+        }
+      }
+    },
+    {
+      "numero": 31,
+      "infinitivo": "conocer",
+      "traducao": "conhecer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "conocería",
+          "ejemplo": "Yo conocería muchos lugares."
+        },
+        "tú": {
+          "forma": "conocerías",
+          "ejemplo": "Tú conocerías a gente nueva."
+        },
+        "él/ella/usted": {
+          "forma": "conocería",
+          "ejemplo": "Ella conocería la verdad."
+        },
+        "nosotros/nosotras": {
+          "forma": "conoceríamos",
+          "ejemplo": "Nosotros conoceríamos la ciudad."
+        },
+        "vosotros/vosotras": {
+          "forma": "conoceríais",
+          "ejemplo": "Vosotros conoceríais a mi familia."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "conocerían",
+          "ejemplo": "Ellos conocerían las reglas."
+        }
+      }
+    },
+    {
+      "numero": 32,
+      "infinitivo": "vivir",
+      "traducao": "viver",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "viviría",
+          "ejemplo": "Yo viviría en España."
+        },
+        "tú": {
+          "forma": "vivirías",
+          "ejemplo": "Tú vivirías cerca."
+        },
+        "él/ella/usted": {
+          "forma": "viviría",
+          "ejemplo": "Mi abuela viviría con nosotros."
+        },
+        "nosotros/nosotras": {
+          "forma": "viviríamos",
+          "ejemplo": "Nosotros viviríamos juntos."
+        },
+        "vosotros/vosotras": {
+          "forma": "viviríais",
+          "ejemplo": "Vosotros viviríais una aventura."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vivirían",
+          "ejemplo": "Ellos vivirían felices."
+        }
+      }
+    },
+    {
+      "numero": 33,
+      "infinitivo": "sentir",
+      "traducao": "sentir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sentiría",
+          "ejemplo": "Yo sentiría nostalgia."
+        },
+        "tú": {
+          "forma": "sentirías",
+          "ejemplo": "Tú sentirías algo especial."
+        },
+        "él/ella/usted": {
+          "forma": "sentiría",
+          "ejemplo": "Él sentiría alivio."
+        },
+        "nosotros/nosotras": {
+          "forma": "sentiríamos",
+          "ejemplo": "Nosotros sentiríamos alegría."
+        },
+        "vosotros/vosotras": {
+          "forma": "sentiríais",
+          "ejemplo": "Vosotros sentiríais admiración."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sentirían",
+          "ejemplo": "Ellos sentirían orgullo."
+        }
+      }
+    },
+    {
+      "numero": 34,
+      "infinitivo": "tratar",
+      "traducao": "tratar/tentar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trataría",
+          "ejemplo": "Yo trataría de ayudar."
+        },
+        "tú": {
+          "forma": "tratarías",
+          "ejemplo": "Tú tratarías bien a todos."
+        },
+        "él/ella/usted": {
+          "forma": "trataría",
+          "ejemplo": "El médico trataría la enfermedad."
+        },
+        "nosotros/nosotras": {
+          "forma": "trataríamos",
+          "ejemplo": "Nosotros trataríamos de llegar."
+        },
+        "vosotros/vosotras": {
+          "forma": "trataríais",
+          "ejemplo": "Vosotros trataríais bien a los animales."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tratarían",
+          "ejemplo": "Ellos tratarían de resolver."
+        }
+      }
+    },
+    {
+      "numero": 35,
+      "infinitivo": "mirar",
+      "traducao": "olhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "miraría",
+          "ejemplo": "Yo miraría por la ventana."
+        },
+        "tú": {
+          "forma": "mirarías",
+          "ejemplo": "Tú mirarías la televisión."
+        },
+        "él/ella/usted": {
+          "forma": "miraría",
+          "ejemplo": "Mi hermana miraría las estrellas."
+        },
+        "nosotros/nosotras": {
+          "forma": "miraríamos",
+          "ejemplo": "Nosotros miraríamos fotos."
+        },
+        "vosotros/vosotras": {
+          "forma": "miraríais",
+          "ejemplo": "Vosotros miraríais fijamente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "mirarían",
+          "ejemplo": "Ellos mirarían películas."
+        }
+      }
+    },
+    {
+      "numero": 36,
+      "infinitivo": "contar",
+      "traducao": "contar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "contaría",
+          "ejemplo": "Yo contaría hasta diez."
+        },
+        "tú": {
+          "forma": "contarías",
+          "ejemplo": "Tú contarías historias."
+        },
+        "él/ella/usted": {
+          "forma": "contaría",
+          "ejemplo": "Mi abuela contaría cuentos."
+        },
+        "nosotros/nosotras": {
+          "forma": "contaríamos",
+          "ejemplo": "Nosotros contaríamos contigo."
+        },
+        "vosotros/vosotras": {
+          "forma": "contaríais",
+          "ejemplo": "Vosotros contaríais chistes."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "contarían",
+          "ejemplo": "Ellos contarían el dinero."
+        }
+      }
+    },
+    {
+      "numero": 37,
+      "infinitivo": "empezar",
+      "traducao": "começar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "empezaría",
+          "ejemplo": "Yo empezaría a trabajar."
+        },
+        "tú": {
+          "forma": "empezarías",
+          "ejemplo": "Tú empezarías la universidad."
+        },
+        "él/ella/usted": {
+          "forma": "empezaría",
+          "ejemplo": "La clase empezaría pronto."
+        },
+        "nosotros/nosotras": {
+          "forma": "empezaríamos",
+          "ejemplo": "Nosotros empezaríamos un proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "empezaríais",
+          "ejemplo": "Vosotros empezaríais con buen pie."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "empezarían",
+          "ejemplo": "Las vacaciones empezarían."
+        }
+      }
+    },
+    {
+      "numero": 38,
+      "infinitivo": "esperar",
+      "traducao": "esperar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "esperaría",
+          "ejemplo": "Yo esperaría el autobús."
+        },
+        "tú": {
+          "forma": "esperarías",
+          "ejemplo": "Tú esperarías tu turno."
+        },
+        "él/ella/usted": {
+          "forma": "esperaría",
+          "ejemplo": "Mi madre esperaría visitas."
+        },
+        "nosotros/nosotras": {
+          "forma": "esperaríamos",
+          "ejemplo": "Nosotros esperaríamos noticias."
+        },
+        "vosotros/vosotras": {
+          "forma": "esperaríais",
+          "ejemplo": "Vosotros esperaríais con paciencia."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "esperarían",
+          "ejemplo": "Ellos esperarían su turno."
+        }
+      }
+    },
+    {
+      "numero": 39,
+      "infinitivo": "buscar",
+      "traducao": "buscar/procurar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "buscaría",
+          "ejemplo": "Yo buscaría mis llaves."
+        },
+        "tú": {
+          "forma": "buscarías",
+          "ejemplo": "Tú buscarías trabajo."
+        },
+        "él/ella/usted": {
+          "forma": "buscaría",
+          "ejemplo": "Mi perro buscaría su pelota."
+        },
+        "nosotros/nosotras": {
+          "forma": "buscaríamos",
+          "ejemplo": "Nosotros buscaríamos un apartamento."
+        },
+        "vosotros/vosotras": {
+          "forma": "buscaríais",
+          "ejemplo": "Vosotros buscaríais excusas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "buscarían",
+          "ejemplo": "Ellos buscarían información."
+        }
+      }
+    },
+    {
+      "numero": 40,
+      "infinitivo": "existir",
+      "traducao": "existir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "existiría",
+          "ejemplo": "Yo existiría para ayudar."
+        },
+        "tú": {
+          "forma": "existirías",
+          "ejemplo": "Tú existirías en mis recuerdos."
+        },
+        "él/ella/usted": {
+          "forma": "existiría",
+          "ejemplo": "Existiría una solución."
+        },
+        "nosotros/nosotras": {
+          "forma": "existiríamos",
+          "ejemplo": "Nosotros existiríamos siempre."
+        },
+        "vosotros/vosotras": {
+          "forma": "existiríais",
+          "ejemplo": "Vosotros existiríais en corazones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "existirían",
+          "ejemplo": "Existirían posibilidades."
+        }
+      }
+    },
+    {
+      "numero": 41,
+      "infinitivo": "entrar",
+      "traducao": "entrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entraría",
+          "ejemplo": "Yo entraría a la oficina."
+        },
+        "tú": {
+          "forma": "entrarías",
+          "ejemplo": "Tú entrarías sin llamar."
+        },
+        "él/ella/usted": {
+          "forma": "entraría",
+          "ejemplo": "Mucha luz entraría."
+        },
+        "nosotros/nosotras": {
+          "forma": "entraríamos",
+          "ejemplo": "Nosotros entraríamos en la tienda."
+        },
+        "vosotros/vosotras": {
+          "forma": "entraríais",
+          "ejemplo": "Vosotros entraríais tarde."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entrarían",
+          "ejemplo": "Ellos entrarían al cine."
+        }
+      }
+    },
+    {
+      "numero": 42,
+      "infinitivo": "trabajar",
+      "traducao": "trabalhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trabajaría",
+          "ejemplo": "Yo trabajaría en empresa."
+        },
+        "tú": {
+          "forma": "trabajarías",
+          "ejemplo": "Tú trabajarías duro."
+        },
+        "él/ella/usted": {
+          "forma": "trabajaría",
+          "ejemplo": "Mi hermana trabajaría médica."
+        },
+        "nosotros/nosotras": {
+          "forma": "trabajaríamos",
+          "ejemplo": "Nosotros trabajaríamos equipo."
+        },
+        "vosotros/vosotras": {
+          "forma": "trabajaríais",
+          "ejemplo": "Vosotros trabajaríais casa."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "trabajarían",
+          "ejemplo": "Ellos trabajarían juntos."
+        }
+      }
+    },
+    {
+      "numero": 43,
+      "infinitivo": "escribir",
+      "traducao": "escrever",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "escribiría",
+          "ejemplo": "Yo escribiría un libro."
+        },
+        "tú": {
+          "forma": "escribirías",
+          "ejemplo": "Tú escribirías novelas."
+        },
+        "él/ella/usted": {
+          "forma": "escribiría",
+          "ejemplo": "Mi amiga escribiría poemas."
+        },
+        "nosotros/nosotras": {
+          "forma": "escribiríamos",
+          "ejemplo": "Nosotros escribiríamos correos."
+        },
+        "vosotros/vosotras": {
+          "forma": "escribiríais",
+          "ejemplo": "Vosotros escribiríais bien."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "escribirían",
+          "ejemplo": "Ellos escribirían artículos."
+        }
+      }
+    },
+    {
+      "numero": 44,
+      "infinitivo": "producir",
+      "traducao": "produzir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "produciría",
+          "ejemplo": "Yo produciría contenido."
+        },
+        "tú": {
+          "forma": "producirías",
+          "ejemplo": "Tú producirías energía."
+        },
+        "él/ella/usted": {
+          "forma": "produciría",
+          "ejemplo": "Fábrica produciría automóviles."
+        },
+        "nosotros/nosotras": {
+          "forma": "produciríamos",
+          "ejemplo": "Nosotros produciríamos alimentos."
+        },
+        "vosotros/vosotras": {
+          "forma": "produciríais",
+          "ejemplo": "Vosotros produciríais ideas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "producirían",
+          "ejemplo": "Árboles producirían frutas."
+        }
+      }
+    },
+    {
+      "numero": 45,
+      "infinitivo": "ocurrir",
+      "traducao": "ocorrer",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ocurriría",
+          "ejemplo": "Yo ocurriría memoria."
+        },
+        "tú": {
+          "forma": "ocurrirías",
+          "ejemplo": "Tú ocurrirías pensamientos."
+        },
+        "él/ella/usted": {
+          "forma": "ocurriría",
+          "ejemplo": "Esto ocurriría pronto."
+        },
+        "nosotros/nosotras": {
+          "forma": "ocurriríamos",
+          "ejemplo": "Nosotros ocurriríamos diccionario."
+        },
+        "vosotros/vosotras": {
+          "forma": "ocurriríais",
+          "ejemplo": "Vosotros ocurriríais ayuda."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ocurrirían",
+          "ejemplo": "Accidentes ocurrirían."
+        }
+      }
+    },
+    {
+      "numero": 46,
+      "infinitivo": "entender",
+      "traducao": "entender",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entendería",
+          "ejemplo": "Yo entendería español."
+        },
+        "tú": {
+          "forma": "entenderías",
+          "ejemplo": "Tú entenderías sentimientos."
+        },
+        "él/ella/usted": {
+          "forma": "entendería",
+          "ejemplo": "Profesor entendería."
+        },
+        "nosotros/nosotras": {
+          "forma": "entenderíamos",
+          "ejemplo": "Nosotros entenderíamos lección."
+        },
+        "vosotros/vosotras": {
+          "forma": "entenderíais",
+          "ejemplo": "Vosotros entenderíais situación."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entenderían",
+          "ejemplo": "Ellos entenderían idiomas."
+        }
+      }
+    },
+    {
+      "numero": 47,
+      "infinitivo": "pedir",
+      "traducao": "pedir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pediría",
+          "ejemplo": "Yo pediría ayuda."
+        },
+        "tú": {
+          "forma": "pedirías",
+          "ejemplo": "Tú pedirías deseo."
+        },
+        "él/ella/usted": {
+          "forma": "pediría",
+          "ejemplo": "Mi hermano pediría pizza."
+        },
+        "nosotros/nosotras": {
+          "forma": "pediríamos",
+          "ejemplo": "Nosotros pediríamos cuenta."
+        },
+        "vosotros/vosotras": {
+          "forma": "pediríais",
+          "ejemplo": "Vosotros pediríais perdón."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pedirían",
+          "ejemplo": "Ellos pedirían información."
+        }
+      }
+    },
+    {
+      "numero": 48,
+      "infinitivo": "recibir",
+      "traducao": "receber",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recibiría",
+          "ejemplo": "Yo recibiría mensajes."
+        },
+        "tú": {
+          "forma": "recibirías",
+          "ejemplo": "Tú recibirías regalos."
+        },
+        "él/ella/usted": {
+          "forma": "recibiría",
+          "ejemplo": "Mi madre recibiría visitas."
+        },
+        "nosotros/nosotras": {
+          "forma": "recibiríamos",
+          "ejemplo": "Nosotros recibiríamos premio."
+        },
+        "vosotros/vosotras": {
+          "forma": "recibiríais",
+          "ejemplo": "Vosotros recibiríais noticias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "recibirían",
+          "ejemplo": "Ellos recibirían salario."
+        }
+      }
+    },
+    {
+      "numero": 49,
+      "infinitivo": "recordar",
+      "traducao": "lembrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recordaría",
+          "ejemplo": "Yo recordaría infancia."
+        },
+        "tú": {
+          "forma": "recordarías",
+          "ejemplo": "Tú recordarías detalles."
+        },
+        "él/ella/usted": {
+          "forma": "recordaría",
+          "ejemplo": "Abuela recordaría historias."
+        },
+        "nosotros/nosotras": {
+          "forma": "recordaríamos",
+          "ejemplo": "Nosotros recordaríamos vacaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "recordaríais",
+          "ejemplo": "Vosotros recordaríais fecha."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "recordarían",
+          "ejemplo": "Ellos recordarían profesor."
+        }
+      }
+    },
+    {
+      "numero": 50,
+      "infinitivo": "terminar",
+      "traducao": "terminar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "terminaría",
+          "ejemplo": "Yo terminaría trabajo."
+        },
+        "tú": {
+          "forma": "terminarías",
+          "ejemplo": "Tú terminarías universidad."
+        },
+        "él/ella/usted": {
+          "forma": "terminaría",
+          "ejemplo": "Película terminaría tarde."
+        },
+        "nosotros/nosotras": {
+          "forma": "terminaríamos",
+          "ejemplo": "Nosotros terminaríamos proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "terminaríais",
+          "ejemplo": "Vosotros terminaríais primero."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "terminarían",
+          "ejemplo": "Clases terminarían."
+        }
+      }
+    }
+  ]
+}
+

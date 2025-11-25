@@ -1,0 +1,808 @@
+{
+  "titulo": "100 Verbos Mais Usados em Espanhol - Parte 2 (Verbos 26-50)",
+  "tiempo_verbal": "presente_indicativo",
+  "descripcion": "Conjugações no Presente do Indicativo com exemplos de uso",
+  "verbos": [
+    {
+      "numero": 26,
+      "infinitivo": "venir",
+      "traducao": "vir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vengo",
+          "ejemplo": "Yo vengo de Brasil."
+        },
+        "tú": {
+          "forma": "vienes",
+          "ejemplo": "Tú vienes con nosotros al cine."
+        },
+        "él/ella/usted": {
+          "forma": "viene",
+          "ejemplo": "Mi hermana viene de visita mañana."
+        },
+        "nosotros/nosotras": {
+          "forma": "venimos",
+          "ejemplo": "Nosotros venimos a la fiesta."
+        },
+        "vosotros/vosotras": {
+          "forma": "venís",
+          "ejemplo": "Vosotros venís muy temprano."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vienen",
+          "ejemplo": "Ellos vienen en tren desde Barcelona."
+        }
+      }
+    },
+    {
+      "numero": 27,
+      "infinitivo": "pensar",
+      "traducao": "pensar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pienso",
+          "ejemplo": "Yo pienso ir a la universidad."
+        },
+        "tú": {
+          "forma": "piensas",
+          "ejemplo": "Tú piensas demasiado en el futuro."
+        },
+        "él/ella/usted": {
+          "forma": "piensa",
+          "ejemplo": "Ella piensa que es una buena idea."
+        },
+        "nosotros/nosotras": {
+          "forma": "pensamos",
+          "ejemplo": "Nosotros pensamos viajar a España."
+        },
+        "vosotros/vosotras": {
+          "forma": "pensáis",
+          "ejemplo": "Vosotros pensáis lo mismo que yo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "piensan",
+          "ejemplo": "Ellos piensan mudarse a otra ciudad."
+        }
+      }
+    },
+    {
+      "numero": 28,
+      "infinitivo": "salir",
+      "traducao": "sair",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "salgo",
+          "ejemplo": "Yo salgo de casa a las siete."
+        },
+        "tú": {
+          "forma": "sales",
+          "ejemplo": "Tú sales mucho los fines de semana."
+        },
+        "él/ella/usted": {
+          "forma": "sale",
+          "ejemplo": "El sol sale por el este."
+        },
+        "nosotros/nosotras": {
+          "forma": "salimos",
+          "ejemplo": "Nosotros salimos a cenar todos los viernes."
+        },
+        "vosotros/vosotras": {
+          "forma": "salís",
+          "ejemplo": "Vosotros salís siempre con los mismos amigos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "salen",
+          "ejemplo": "Ellos salen de viaje mañana."
+        }
+      }
+    },
+    {
+      "numero": 29,
+      "infinitivo": "volver",
+      "traducao": "voltar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vuelvo",
+          "ejemplo": "Yo vuelvo a casa tarde hoy."
+        },
+        "tú": {
+          "forma": "vuelves",
+          "ejemplo": "Tú vuelves loco a tu hermano."
+        },
+        "él/ella/usted": {
+          "forma": "vuelve",
+          "ejemplo": "Mi padre vuelve del trabajo cansado."
+        },
+        "nosotros/nosotras": {
+          "forma": "volvemos",
+          "ejemplo": "Nosotros volvemos de vacaciones el lunes."
+        },
+        "vosotros/vosotras": {
+          "forma": "volvéis",
+          "ejemplo": "Vosotros volvéis a intentarlo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vuelven",
+          "ejemplo": "Ellos vuelven a su país natal."
+        }
+      }
+    },
+    {
+      "numero": 30,
+      "infinitivo": "tomar",
+      "traducao": "tomar/pegar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tomo",
+          "ejemplo": "Yo tomo café todas las mañanas."
+        },
+        "tú": {
+          "forma": "tomas",
+          "ejemplo": "Tú tomas decisiones muy rápidas."
+        },
+        "él/ella/usted": {
+          "forma": "toma",
+          "ejemplo": "Ella toma el autobús para ir al trabajo."
+        },
+        "nosotros/nosotras": {
+          "forma": "tomamos",
+          "ejemplo": "Nosotros tomamos apuntes en clase."
+        },
+        "vosotros/vosotras": {
+          "forma": "tomáis",
+          "ejemplo": "Vosotros tomáis el sol en la playa."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "toman",
+          "ejemplo": "Ellos toman un taxi para llegar más rápido."
+        }
+      }
+    },
+    {
+      "numero": 31,
+      "infinitivo": "conocer",
+      "traducao": "conhecer",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "conozco",
+          "ejemplo": "Yo conozco muchos lugares interesantes."
+        },
+        "tú": {
+          "forma": "conoces",
+          "ejemplo": "Tú conoces a mi hermano."
+        },
+        "él/ella/usted": {
+          "forma": "conoce",
+          "ejemplo": "Mi profesor conoce bien su materia."
+        },
+        "nosotros/nosotras": {
+          "forma": "conocemos",
+          "ejemplo": "Nosotros conocemos la ciudad perfectamente."
+        },
+        "vosotros/vosotras": {
+          "forma": "conocéis",
+          "ejemplo": "Vosotros conocéis a mucha gente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "conocen",
+          "ejemplo": "Ellos conocen las reglas del juego."
+        }
+      }
+    },
+    {
+      "numero": 32,
+      "infinitivo": "vivir",
+      "traducao": "viver",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vivo",
+          "ejemplo": "Yo vivo en São Paulo."
+        },
+        "tú": {
+          "forma": "vives",
+          "ejemplo": "Tú vives cerca de la universidad."
+        },
+        "él/ella/usted": {
+          "forma": "vive",
+          "ejemplo": "Mi abuela vive sola."
+        },
+        "nosotros/nosotras": {
+          "forma": "vivimos",
+          "ejemplo": "Nosotros vivimos juntos desde hace dos años."
+        },
+        "vosotros/vosotras": {
+          "forma": "vivís",
+          "ejemplo": "Vosotros vivís una vida muy tranquila."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "viven",
+          "ejemplo": "Ellos viven en un apartamento grande."
+        }
+      }
+    },
+    {
+      "numero": 33,
+      "infinitivo": "sentir",
+      "traducao": "sentir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "siento",
+          "ejemplo": "Yo siento mucho frío."
+        },
+        "tú": {
+          "forma": "sientes",
+          "ejemplo": "Tú sientes algo especial por ella."
+        },
+        "él/ella/usted": {
+          "forma": "siente",
+          "ejemplo": "Él siente dolor de cabeza."
+        },
+        "nosotros/nosotras": {
+          "forma": "sentimos",
+          "ejemplo": "Nosotros sentimos mucha alegría."
+        },
+        "vosotros/vosotras": {
+          "forma": "sentís",
+          "ejemplo": "Vosotros sentís admiración por vuestro profesor."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sienten",
+          "ejemplo": "Ellos sienten nostalgia de su tierra."
+        }
+      }
+    },
+    {
+      "numero": 34,
+      "infinitivo": "tratar",
+      "traducao": "tratar/tentar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trato",
+          "ejemplo": "Yo trato de hacer ejercicio diariamente."
+        },
+        "tú": {
+          "forma": "tratas",
+          "ejemplo": "Tú tratas a todos con respeto."
+        },
+        "él/ella/usted": {
+          "forma": "trata",
+          "ejemplo": "El médico trata muchas enfermedades."
+        },
+        "nosotros/nosotras": {
+          "forma": "tratamos",
+          "ejemplo": "Nosotros tratamos de llegar temprano."
+        },
+        "vosotros/vosotras": {
+          "forma": "tratáis",
+          "ejemplo": "Vosotros tratáis muy bien a los animales."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tratan",
+          "ejemplo": "Ellos tratan de resolver el problema."
+        }
+      }
+    },
+    {
+      "numero": 35,
+      "infinitivo": "mirar",
+      "traducao": "olhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "miro",
+          "ejemplo": "Yo miro por la ventana cada mañana."
+        },
+        "tú": {
+          "forma": "miras",
+          "ejemplo": "Tú miras demasiada televisión."
+        },
+        "él/ella/usted": {
+          "forma": "mira",
+          "ejemplo": "Mi hermana mira las estrellas por la noche."
+        },
+        "nosotros/nosotras": {
+          "forma": "miramos",
+          "ejemplo": "Nosotros miramos fotos antiguas."
+        },
+        "vosotros/vosotras": {
+          "forma": "miráis",
+          "ejemplo": "Vosotros miráis fijamente al profesor."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "miran",
+          "ejemplo": "Ellos miran películas los domingos."
+        }
+      }
+    },
+    {
+      "numero": 36,
+      "infinitivo": "contar",
+      "traducao": "contar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "cuento",
+          "ejemplo": "Yo cuento hasta diez antes de hablar."
+        },
+        "tú": {
+          "forma": "cuentas",
+          "ejemplo": "Tú cuentas historias muy interesantes."
+        },
+        "él/ella/usted": {
+          "forma": "cuenta",
+          "ejemplo": "Mi abuela cuenta cuentos a los niños."
+        },
+        "nosotros/nosotras": {
+          "forma": "contamos",
+          "ejemplo": "Nosotros contamos con tu apoyo."
+        },
+        "vosotros/vosotras": {
+          "forma": "contáis",
+          "ejemplo": "Vosotros contáis chistes muy graciosos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "cuentan",
+          "ejemplo": "Ellos cuentan el dinero cuidadosamente."
+        }
+      }
+    },
+    {
+      "numero": 37,
+      "infinitivo": "empezar",
+      "traducao": "começar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "empiezo",
+          "ejemplo": "Yo empiezo a trabajar a las nueve."
+        },
+        "tú": {
+          "forma": "empiezas",
+          "ejemplo": "Tú empiezas la universidad en marzo."
+        },
+        "él/ella/usted": {
+          "forma": "empieza",
+          "ejemplo": "La clase empieza en cinco minutos."
+        },
+        "nosotros/nosotras": {
+          "forma": "empezamos",
+          "ejemplo": "Nosotros empezamos un nuevo proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "empezáis",
+          "ejemplo": "Vosotros empezáis siempre con buen pie."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "empiezan",
+          "ejemplo": "Las vacaciones empiezan el viernes."
+        }
+      }
+    },
+    {
+      "numero": 38,
+      "infinitivo": "esperar",
+      "traducao": "esperar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "espero",
+          "ejemplo": "Yo espero el autobús en la parada."
+        },
+        "tú": {
+          "forma": "esperas",
+          "ejemplo": "Tú esperas demasiado de los demás."
+        },
+        "él/ella/usted": {
+          "forma": "espera",
+          "ejemplo": "Mi madre espera visitas hoy."
+        },
+        "nosotros/nosotras": {
+          "forma": "esperamos",
+          "ejemplo": "Nosotros esperamos buenas noticias."
+        },
+        "vosotros/vosotras": {
+          "forma": "esperáis",
+          "ejemplo": "Vosotros esperáis con paciencia."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "esperan",
+          "ejemplo": "Ellos esperan su turno tranquilamente."
+        }
+      }
+    },
+    {
+      "numero": 39,
+      "infinitivo": "buscar",
+      "traducao": "buscar/procurar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "busco",
+          "ejemplo": "Yo busco mis llaves por toda la casa."
+        },
+        "tú": {
+          "forma": "buscas",
+          "ejemplo": "Tú buscas trabajo desde hace meses."
+        },
+        "él/ella/usted": {
+          "forma": "busca",
+          "ejemplo": "Mi perro busca su pelota."
+        },
+        "nosotros/nosotras": {
+          "forma": "buscamos",
+          "ejemplo": "Nosotros buscamos un apartamento nuevo."
+        },
+        "vosotros/vosotras": {
+          "forma": "buscáis",
+          "ejemplo": "Vosotros buscáis siempre excusas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "buscan",
+          "ejemplo": "Ellos buscan información en internet."
+        }
+      }
+    },
+    {
+      "numero": 40,
+      "infinitivo": "existir",
+      "traducao": "existir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "existo",
+          "ejemplo": "Yo existo, luego pienso."
+        },
+        "tú": {
+          "forma": "existes",
+          "ejemplo": "Tú existes en mis recuerdos."
+        },
+        "él/ella/usted": {
+          "forma": "existe",
+          "ejemplo": "Existe una solución para cada problema."
+        },
+        "nosotros/nosotras": {
+          "forma": "existimos",
+          "ejemplo": "Nosotros existimos para ayudar."
+        },
+        "vosotros/vosotras": {
+          "forma": "existís",
+          "ejemplo": "Vosotros existís en nuestros corazones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "existen",
+          "ejemplo": "Existen muchas posibilidades."
+        }
+      }
+    },
+    {
+      "numero": 41,
+      "infinitivo": "entrar",
+      "traducao": "entrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entro",
+          "ejemplo": "Yo entro a la oficina a las ocho."
+        },
+        "tú": {
+          "forma": "entras",
+          "ejemplo": "Tú entras sin llamar a la puerta."
+        },
+        "él/ella/usted": {
+          "forma": "entra",
+          "ejemplo": "Mucha luz entra por la ventana."
+        },
+        "nosotros/nosotras": {
+          "forma": "entramos",
+          "ejemplo": "Nosotros entramos en la tienda."
+        },
+        "vosotros/vosotras": {
+          "forma": "entráis",
+          "ejemplo": "Vosotros entráis siempre tarde."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entran",
+          "ejemplo": "Ellos entran al cine con entusiasmo."
+        }
+      }
+    },
+    {
+      "numero": 42,
+      "infinitivo": "trabajar",
+      "traducao": "trabalhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trabajo",
+          "ejemplo": "Yo trabajo en una empresa multinacional."
+        },
+        "tú": {
+          "forma": "trabajas",
+          "ejemplo": "Tú trabajas muy duro."
+        },
+        "él/ella/usted": {
+          "forma": "trabaja",
+          "ejemplo": "Mi hermana trabaja como médica."
+        },
+        "nosotros/nosotras": {
+          "forma": "trabajamos",
+          "ejemplo": "Nosotros trabajamos en equipo."
+        },
+        "vosotros/vosotras": {
+          "forma": "trabajáis",
+          "ejemplo": "Vosotros trabajáis los fines de semana."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "trabajan",
+          "ejemplo": "Ellos trabajan desde casa."
+        }
+      }
+    },
+    {
+      "numero": 43,
+      "infinitivo": "escribir",
+      "traducao": "escrever",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "escribo",
+          "ejemplo": "Yo escribo en mi diario cada noche."
+        },
+        "tú": {
+          "forma": "escribes",
+          "ejemplo": "Tú escribes novelas de misterio."
+        },
+        "él/ella/usted": {
+          "forma": "escribe",
+          "ejemplo": "Mi amiga escribe poemas hermosos."
+        },
+        "nosotros/nosotras": {
+          "forma": "escribimos",
+          "ejemplo": "Nosotros escribimos correos electrónicos."
+        },
+        "vosotros/vosotras": {
+          "forma": "escribís",
+          "ejemplo": "Vosotros escribís con buena letra."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "escriben",
+          "ejemplo": "Ellos escriben artículos para el periódico."
+        }
+      }
+    },
+    {
+      "numero": 44,
+      "infinitivo": "producir",
+      "traducao": "produzir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "produzco",
+          "ejemplo": "Yo produzco contenido para redes sociales."
+        },
+        "tú": {
+          "forma": "produces",
+          "ejemplo": "Tú produces mucha energía positiva."
+        },
+        "él/ella/usted": {
+          "forma": "produce",
+          "ejemplo": "Esta fábrica produce automóviles."
+        },
+        "nosotros/nosotras": {
+          "forma": "producimos",
+          "ejemplo": "Nosotros producimos alimentos orgánicos."
+        },
+        "vosotros/vosotras": {
+          "forma": "producís",
+          "ejemplo": "Vosotros producís muy buenas ideas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "producen",
+          "ejemplo": "Estos árboles producen frutas deliciosas."
+        }
+      }
+    },
+    {
+      "numero": 45,
+      "infinitivo": "ocurrir",
+      "traducao": "ocorrer/acontecer",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ocurro",
+          "ejemplo": "Yo ocurro a mi memoria para recordar."
+        },
+        "tú": {
+          "forma": "ocurres",
+          "ejemplo": "Tú ocurres en mis pensamientos."
+        },
+        "él/ella/usted": {
+          "forma": "ocurre",
+          "ejemplo": "Esto ocurre con frecuencia."
+        },
+        "nosotros/nosotras": {
+          "forma": "ocurrimos",
+          "ejemplo": "Nosotros ocurrimos al diccionario cuando dudamos."
+        },
+        "vosotros/vosotras": {
+          "forma": "ocurrís",
+          "ejemplo": "Vosotros ocurrís a la ayuda de un experto."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ocurren",
+          "ejemplo": "Estos accidentes ocurren todos los días."
+        }
+      }
+    },
+    {
+      "numero": 46,
+      "infinitivo": "entender",
+      "traducao": "entender",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entiendo",
+          "ejemplo": "Yo entiendo español perfectamente."
+        },
+        "tú": {
+          "forma": "entiendes",
+          "ejemplo": "Tú entiendes mis sentimientos."
+        },
+        "él/ella/usted": {
+          "forma": "entiende",
+          "ejemplo": "Mi profesor entiende nuestros problemas."
+        },
+        "nosotros/nosotras": {
+          "forma": "entendemos",
+          "ejemplo": "Nosotros entendemos la lección."
+        },
+        "vosotros/vosotras": {
+          "forma": "entendéis",
+          "ejemplo": "Vosotros entendéis la situación."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entienden",
+          "ejemplo": "Ellos entienden varios idiomas."
+        }
+      }
+    },
+    {
+      "numero": 47,
+      "infinitivo": "pedir",
+      "traducao": "pedir",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pido",
+          "ejemplo": "Yo pido ayuda cuando la necesito."
+        },
+        "tú": {
+          "forma": "pides",
+          "ejemplo": "Tú pides demasiadas cosas."
+        },
+        "él/ella/usted": {
+          "forma": "pide",
+          "ejemplo": "Mi hermano pide pizza para cenar."
+        },
+        "nosotros/nosotras": {
+          "forma": "pedimos",
+          "ejemplo": "Nosotros pedimos la cuenta al mesero."
+        },
+        "vosotros/vosotras": {
+          "forma": "pedís",
+          "ejemplo": "Vosotros pedís perdón sinceramente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "piden",
+          "ejemplo": "Ellos piden información en recepción."
+        }
+      }
+    },
+    {
+      "numero": 48,
+      "infinitivo": "recibir",
+      "traducao": "receber",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recibo",
+          "ejemplo": "Yo recibo muchos mensajes cada día."
+        },
+        "tú": {
+          "forma": "recibes",
+          "ejemplo": "Tú recibes regalos en tu cumpleaños."
+        },
+        "él/ella/usted": {
+          "forma": "recibe",
+          "ejemplo": "Mi madre recibe visitas los domingos."
+        },
+        "nosotros/nosotras": {
+          "forma": "recibimos",
+          "ejemplo": "Nosotros recibimos un premio importante."
+        },
+        "vosotros/vosotras": {
+          "forma": "recibís",
+          "ejemplo": "Vosotros recibís buenas noticias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "reciben",
+          "ejemplo": "Ellos reciben su salario mensualmente."
+        }
+      }
+    },
+    {
+      "numero": 49,
+      "infinitivo": "recordar",
+      "traducao": "lembrar",
+      "tipo": "irregular",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recuerdo",
+          "ejemplo": "Yo recuerdo mi infancia con cariño."
+        },
+        "tú": {
+          "forma": "recuerdas",
+          "ejemplo": "Tú recuerdas todos los detalles."
+        },
+        "él/ella/usted": {
+          "forma": "recuerda",
+          "ejemplo": "Mi abuela recuerda historias antiguas."
+        },
+        "nosotros/nosotras": {
+          "forma": "recordamos",
+          "ejemplo": "Nosotros recordamos aquellas vacaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "recordáis",
+          "ejemplo": "Vosotros recordáis la fecha importante."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "recuerdan",
+          "ejemplo": "Ellos recuerdan al profesor con respeto."
+        }
+      }
+    },
+    {
+      "numero": 50,
+      "infinitivo": "terminar",
+      "traducao": "terminar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "termino",
+          "ejemplo": "Yo termino mi trabajo a las seis."
+        },
+        "tú": {
+          "forma": "terminas",
+          "ejemplo": "Tú terminas la universidad este año."
+        },
+        "él/ella/usted": {
+          "forma": "termina",
+          "ejemplo": "La película termina muy tarde."
+        },
+        "nosotros/nosotras": {
+          "forma": "terminamos",
+          "ejemplo": "Nosotros terminamos el proyecto a tiempo."
+        },
+        "vosotros/vosotras": {
+          "forma": "termináis",
+          "ejemplo": "Vosotros termináis siempre primero."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "terminan",
+          "ejemplo": "Las clases terminan en diciembre."
+        }
+      }
+    }
+  ]
+}
+

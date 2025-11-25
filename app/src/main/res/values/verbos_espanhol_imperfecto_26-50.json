@@ -1,0 +1,808 @@
+{
+  "titulo": "100 Verbos Mais Usados em Espanhol - Parte 2 (Verbos 26-50)",
+  "tiempo_verbal": "preterito_imperfecto",
+  "descripcion": "Conjugações no Pretérito Imperfecto com exemplos de uso",
+  "verbos": [
+    {
+      "numero": 26,
+      "infinitivo": "venir",
+      "traducao": "vir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "venía",
+          "ejemplo": "Yo venía de Brasil."
+        },
+        "tú": {
+          "forma": "venías",
+          "ejemplo": "Tú venías conmigo al cine."
+        },
+        "él/ella/usted": {
+          "forma": "venía",
+          "ejemplo": "Mi hermana venía de visita cada mes."
+        },
+        "nosotros/nosotras": {
+          "forma": "veníamos",
+          "ejemplo": "Nosotros veníamos a la fiesta."
+        },
+        "vosotros/vosotras": {
+          "forma": "veníais",
+          "ejemplo": "Vosotros veníais muy temprano."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "venían",
+          "ejemplo": "Ellos venían en tren."
+        }
+      }
+    },
+    {
+      "numero": 27,
+      "infinitivo": "pensar",
+      "traducao": "pensar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pensaba",
+          "ejemplo": "Yo pensaba ir a la universidad."
+        },
+        "tú": {
+          "forma": "pensabas",
+          "ejemplo": "Tú pensabas demasiado en el futuro."
+        },
+        "él/ella/usted": {
+          "forma": "pensaba",
+          "ejemplo": "Ella pensaba que era una buena idea."
+        },
+        "nosotros/nosotras": {
+          "forma": "pensábamos",
+          "ejemplo": "Nosotros pensábamos viajar."
+        },
+        "vosotros/vosotras": {
+          "forma": "pensabais",
+          "ejemplo": "Vosotros pensabais lo mismo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pensaban",
+          "ejemplo": "Ellos pensaban mudarse."
+        }
+      }
+    },
+    {
+      "numero": 28,
+      "infinitivo": "salir",
+      "traducao": "sair",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "salía",
+          "ejemplo": "Yo salía de casa a las siete."
+        },
+        "tú": {
+          "forma": "salías",
+          "ejemplo": "Tú salías mucho los fines de semana."
+        },
+        "él/ella/usted": {
+          "forma": "salía",
+          "ejemplo": "El sol salía por el este."
+        },
+        "nosotros/nosotras": {
+          "forma": "salíamos",
+          "ejemplo": "Nosotros salíamos a cenar los viernes."
+        },
+        "vosotros/vosotras": {
+          "forma": "salíais",
+          "ejemplo": "Vosotros salíais con los mismos amigos."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "salían",
+          "ejemplo": "Ellos salían de viaje cada verano."
+        }
+      }
+    },
+    {
+      "numero": 29,
+      "infinitivo": "volver",
+      "traducao": "voltar",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "volvía",
+          "ejemplo": "Yo volvía a casa tarde."
+        },
+        "tú": {
+          "forma": "volvías",
+          "ejemplo": "Tú volvías loco a tu hermano."
+        },
+        "él/ella/usted": {
+          "forma": "volvía",
+          "ejemplo": "Mi padre volvía del trabajo cansado."
+        },
+        "nosotros/nosotras": {
+          "forma": "volvíamos",
+          "ejemplo": "Nosotros volvíamos de vacaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "volvíais",
+          "ejemplo": "Vosotros volvíais a intentarlo."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "volvían",
+          "ejemplo": "Ellos volvían a su país."
+        }
+      }
+    },
+    {
+      "numero": 30,
+      "infinitivo": "tomar",
+      "traducao": "tomar/pegar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "tomaba",
+          "ejemplo": "Yo tomaba café todas las mañanas."
+        },
+        "tú": {
+          "forma": "tomabas",
+          "ejemplo": "Tú tomabas decisiones rápidas."
+        },
+        "él/ella/usted": {
+          "forma": "tomaba",
+          "ejemplo": "Ella tomaba el autobús."
+        },
+        "nosotros/nosotras": {
+          "forma": "tomábamos",
+          "ejemplo": "Nosotros tomábamos apuntes en clase."
+        },
+        "vosotros/vosotras": {
+          "forma": "tomabais",
+          "ejemplo": "Vosotros tomabais el sol."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "tomaban",
+          "ejemplo": "Ellos tomaban un taxi."
+        }
+      }
+    },
+    {
+      "numero": 31,
+      "infinitivo": "conocer",
+      "traducao": "conhecer",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "conocía",
+          "ejemplo": "Yo conocía muchos lugares."
+        },
+        "tú": {
+          "forma": "conocías",
+          "ejemplo": "Tú conocías a mi hermano."
+        },
+        "él/ella/usted": {
+          "forma": "conocía",
+          "ejemplo": "Mi profesor conocía bien su materia."
+        },
+        "nosotros/nosotras": {
+          "forma": "conocíamos",
+          "ejemplo": "Nosotros conocíamos la ciudad."
+        },
+        "vosotros/vosotras": {
+          "forma": "conocíais",
+          "ejemplo": "Vosotros conocíais a mucha gente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "conocían",
+          "ejemplo": "Ellos conocían las reglas."
+        }
+      }
+    },
+    {
+      "numero": 32,
+      "infinitivo": "vivir",
+      "traducao": "viver",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "vivía",
+          "ejemplo": "Yo vivía en São Paulo."
+        },
+        "tú": {
+          "forma": "vivías",
+          "ejemplo": "Tú vivías cerca de la universidad."
+        },
+        "él/ella/usted": {
+          "forma": "vivía",
+          "ejemplo": "Mi abuela vivía sola."
+        },
+        "nosotros/nosotras": {
+          "forma": "vivíamos",
+          "ejemplo": "Nosotros vivíamos juntos."
+        },
+        "vosotros/vosotras": {
+          "forma": "vivíais",
+          "ejemplo": "Vosotros vivíais una vida tranquila."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "vivían",
+          "ejemplo": "Ellos vivían en un apartamento grande."
+        }
+      }
+    },
+    {
+      "numero": 33,
+      "infinitivo": "sentir",
+      "traducao": "sentir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "sentía",
+          "ejemplo": "Yo sentía mucho frío."
+        },
+        "tú": {
+          "forma": "sentías",
+          "ejemplo": "Tú sentías algo especial."
+        },
+        "él/ella/usted": {
+          "forma": "sentía",
+          "ejemplo": "Él sentía dolor de cabeza."
+        },
+        "nosotros/nosotras": {
+          "forma": "sentíamos",
+          "ejemplo": "Nosotros sentíamos mucha alegría."
+        },
+        "vosotros/vosotras": {
+          "forma": "sentíais",
+          "ejemplo": "Vosotros sentíais admiración."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "sentían",
+          "ejemplo": "Ellos sentían nostalgia."
+        }
+      }
+    },
+    {
+      "numero": 34,
+      "infinitivo": "tratar",
+      "traducao": "tratar/tentar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trataba",
+          "ejemplo": "Yo trataba de hacer ejercicio."
+        },
+        "tú": {
+          "forma": "tratabas",
+          "ejemplo": "Tú tratabas a todos con respeto."
+        },
+        "él/ella/usted": {
+          "forma": "trataba",
+          "ejemplo": "El médico trataba muchas enfermedades."
+        },
+        "nosotros/nosotras": {
+          "forma": "tratábamos",
+          "ejemplo": "Nosotros tratábamos de llegar temprano."
+        },
+        "vosotros/vosotras": {
+          "forma": "tratabais",
+          "ejemplo": "Vosotros tratabais bien a los animales."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "trataban",
+          "ejemplo": "Ellos trataban de resolver el problema."
+        }
+      }
+    },
+    {
+      "numero": 35,
+      "infinitivo": "mirar",
+      "traducao": "olhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "miraba",
+          "ejemplo": "Yo miraba por la ventana."
+        },
+        "tú": {
+          "forma": "mirabas",
+          "ejemplo": "Tú mirabas demasiada televisión."
+        },
+        "él/ella/usted": {
+          "forma": "miraba",
+          "ejemplo": "Mi hermana miraba las estrellas."
+        },
+        "nosotros/nosotras": {
+          "forma": "mirábamos",
+          "ejemplo": "Nosotros mirábamos muchas películas."
+        },
+        "vosotros/vosotras": {
+          "forma": "mirabais",
+          "ejemplo": "Vosotros mirabais fijamente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "miraban",
+          "ejemplo": "Ellos miraban películas los domingos."
+        }
+      }
+    },
+    {
+      "numero": 36,
+      "infinitivo": "contar",
+      "traducao": "contar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "contaba",
+          "ejemplo": "Yo contaba hasta diez."
+        },
+        "tú": {
+          "forma": "contabas",
+          "ejemplo": "Tú contabas historias interesantes."
+        },
+        "él/ella/usted": {
+          "forma": "contaba",
+          "ejemplo": "Mi abuela contaba cuentos."
+        },
+        "nosotros/nosotras": {
+          "forma": "contábamos",
+          "ejemplo": "Nosotros contábamos con tu apoyo."
+        },
+        "vosotros/vosotras": {
+          "forma": "contabais",
+          "ejemplo": "Vosotros contabais chistes."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "contaban",
+          "ejemplo": "Ellos contaban el dinero."
+        }
+      }
+    },
+    {
+      "numero": 37,
+      "infinitivo": "empezar",
+      "traducao": "começar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "empezaba",
+          "ejemplo": "Yo empezaba a trabajar a las nueve."
+        },
+        "tú": {
+          "forma": "empezabas",
+          "ejemplo": "Tú empezabas la universidad."
+        },
+        "él/ella/usted": {
+          "forma": "empezaba",
+          "ejemplo": "La clase empezaba en cinco minutos."
+        },
+        "nosotros/nosotras": {
+          "forma": "empezábamos",
+          "ejemplo": "Nosotros empezábamos un nuevo proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "empezabais",
+          "ejemplo": "Vosotros empezabais con buen pie."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "empezaban",
+          "ejemplo": "Las vacaciones empezaban."
+        }
+      }
+    },
+    {
+      "numero": 38,
+      "infinitivo": "esperar",
+      "traducao": "esperar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "esperaba",
+          "ejemplo": "Yo esperaba el autobús."
+        },
+        "tú": {
+          "forma": "esperabas",
+          "ejemplo": "Tú esperabas demasiado."
+        },
+        "él/ella/usted": {
+          "forma": "esperaba",
+          "ejemplo": "Mi madre esperaba visitas."
+        },
+        "nosotros/nosotras": {
+          "forma": "esperábamos",
+          "ejemplo": "Nosotros esperábamos buenas noticias."
+        },
+        "vosotros/vosotras": {
+          "forma": "esperabais",
+          "ejemplo": "Vosotros esperabais con paciencia."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "esperaban",
+          "ejemplo": "Ellos esperaban su turno."
+        }
+      }
+    },
+    {
+      "numero": 39,
+      "infinitivo": "buscar",
+      "traducao": "buscar/procurar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "buscaba",
+          "ejemplo": "Yo buscaba mis llaves."
+        },
+        "tú": {
+          "forma": "buscabas",
+          "ejemplo": "Tú buscabas trabajo."
+        },
+        "él/ella/usted": {
+          "forma": "buscaba",
+          "ejemplo": "Mi perro buscaba su pelota."
+        },
+        "nosotros/nosotras": {
+          "forma": "buscábamos",
+          "ejemplo": "Nosotros buscábamos un apartamento."
+        },
+        "vosotros/vosotras": {
+          "forma": "buscabais",
+          "ejemplo": "Vosotros buscabais excusas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "buscaban",
+          "ejemplo": "Ellos buscaban información."
+        }
+      }
+    },
+    {
+      "numero": 40,
+      "infinitivo": "existir",
+      "traducao": "existir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "existía",
+          "ejemplo": "Yo existía para ayudar."
+        },
+        "tú": {
+          "forma": "existías",
+          "ejemplo": "Tú existías en mis recuerdos."
+        },
+        "él/ella/usted": {
+          "forma": "existía",
+          "ejemplo": "Existía una solución."
+        },
+        "nosotros/nosotras": {
+          "forma": "existíamos",
+          "ejemplo": "Nosotros existíamos para ayudar."
+        },
+        "vosotros/vosotras": {
+          "forma": "existíais",
+          "ejemplo": "Vosotros existíais en nuestros corazones."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "existían",
+          "ejemplo": "Existían muchas posibilidades."
+        }
+      }
+    },
+    {
+      "numero": 41,
+      "infinitivo": "entrar",
+      "traducao": "entrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entraba",
+          "ejemplo": "Yo entraba a la oficina a las ocho."
+        },
+        "tú": {
+          "forma": "entrabas",
+          "ejemplo": "Tú entrabas sin llamar."
+        },
+        "él/ella/usted": {
+          "forma": "entraba",
+          "ejemplo": "Mucha luz entraba por la ventana."
+        },
+        "nosotros/nosotras": {
+          "forma": "entrábamos",
+          "ejemplo": "Nosotros entrábamos en la tienda."
+        },
+        "vosotros/vosotras": {
+          "forma": "entrabais",
+          "ejemplo": "Vosotros entrabais tarde."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entraban",
+          "ejemplo": "Ellos entraban al cine."
+        }
+      }
+    },
+    {
+      "numero": 42,
+      "infinitivo": "trabajar",
+      "traducao": "trabalhar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "trabajaba",
+          "ejemplo": "Yo trabajaba en una empresa."
+        },
+        "tú": {
+          "forma": "trabajabas",
+          "ejemplo": "Tú trabajabas muy duro."
+        },
+        "él/ella/usted": {
+          "forma": "trabajaba",
+          "ejemplo": "Mi hermana trabajaba como médica."
+        },
+        "nosotros/nosotras": {
+          "forma": "trabajábamos",
+          "ejemplo": "Nosotros trabajábamos en equipo."
+        },
+        "vosotros/vosotras": {
+          "forma": "trabajabais",
+          "ejemplo": "Vosotros trabajabais los fines de semana."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "trabajaban",
+          "ejemplo": "Ellos trabajaban desde casa."
+        }
+      }
+    },
+    {
+      "numero": 43,
+      "infinitivo": "escribir",
+      "traducao": "escrever",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "escribía",
+          "ejemplo": "Yo escribía en mi diario."
+        },
+        "tú": {
+          "forma": "escribías",
+          "ejemplo": "Tú escribías novelas."
+        },
+        "él/ella/usted": {
+          "forma": "escribía",
+          "ejemplo": "Mi amiga escribía poemas."
+        },
+        "nosotros/nosotras": {
+          "forma": "escribíamos",
+          "ejemplo": "Nosotros escribíamos correos."
+        },
+        "vosotros/vosotras": {
+          "forma": "escribíais",
+          "ejemplo": "Vosotros escribíais con buena letra."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "escribían",
+          "ejemplo": "Ellos escribían artículos."
+        }
+      }
+    },
+    {
+      "numero": 44,
+      "infinitivo": "producir",
+      "traducao": "produzir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "producía",
+          "ejemplo": "Yo producía contenido."
+        },
+        "tú": {
+          "forma": "producías",
+          "ejemplo": "Tú producías mucha energía."
+        },
+        "él/ella/usted": {
+          "forma": "producía",
+          "ejemplo": "Esta fábrica producía automóviles."
+        },
+        "nosotros/nosotras": {
+          "forma": "producíamos",
+          "ejemplo": "Nosotros producíamos alimentos."
+        },
+        "vosotros/vosotras": {
+          "forma": "producíais",
+          "ejemplo": "Vosotros producíais buenas ideas."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "producían",
+          "ejemplo": "Estos árboles producían frutas."
+        }
+      }
+    },
+    {
+      "numero": 45,
+      "infinitivo": "ocurrir",
+      "traducao": "ocorrer/acontecer",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "ocurría",
+          "ejemplo": "Yo ocurría a mi memoria."
+        },
+        "tú": {
+          "forma": "ocurrías",
+          "ejemplo": "Tú ocurrías en mis pensamientos."
+        },
+        "él/ella/usted": {
+          "forma": "ocurría",
+          "ejemplo": "Esto ocurría con frecuencia."
+        },
+        "nosotros/nosotras": {
+          "forma": "ocurríamos",
+          "ejemplo": "Nosotros ocurríamos al diccionario."
+        },
+        "vosotros/vosotras": {
+          "forma": "ocurríais",
+          "ejemplo": "Vosotros ocurríais a la ayuda."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "ocurrían",
+          "ejemplo": "Estos accidentes ocurrían todos los días."
+        }
+      }
+    },
+    {
+      "numero": 46,
+      "infinitivo": "entender",
+      "traducao": "entender",
+      "tipo": "regular -er",
+      "conjugaciones": {
+        "yo": {
+          "forma": "entendía",
+          "ejemplo": "Yo entendía español perfectamente."
+        },
+        "tú": {
+          "forma": "entendías",
+          "ejemplo": "Tú entendías mis sentimientos."
+        },
+        "él/ella/usted": {
+          "forma": "entendía",
+          "ejemplo": "Mi profesor entendía nuestros problemas."
+        },
+        "nosotros/nosotras": {
+          "forma": "entendíamos",
+          "ejemplo": "Nosotros entendíamos la lección."
+        },
+        "vosotros/vosotras": {
+          "forma": "entendíais",
+          "ejemplo": "Vosotros entendíais la situación."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "entendían",
+          "ejemplo": "Ellos entendían varios idiomas."
+        }
+      }
+    },
+    {
+      "numero": 47,
+      "infinitivo": "pedir",
+      "traducao": "pedir",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "pedía",
+          "ejemplo": "Yo pedía ayuda cuando la necesitaba."
+        },
+        "tú": {
+          "forma": "pedías",
+          "ejemplo": "Tú pedías demasiadas cosas."
+        },
+        "él/ella/usted": {
+          "forma": "pedía",
+          "ejemplo": "Mi hermano pedía pizza."
+        },
+        "nosotros/nosotras": {
+          "forma": "pedíamos",
+          "ejemplo": "Nosotros pedíamos la cuenta."
+        },
+        "vosotros/vosotras": {
+          "forma": "pedíais",
+          "ejemplo": "Vosotros pedíais perdón."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "pedían",
+          "ejemplo": "Ellos pedían información."
+        }
+      }
+    },
+    {
+      "numero": 48,
+      "infinitivo": "recibir",
+      "traducao": "receber",
+      "tipo": "regular -ir",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recibía",
+          "ejemplo": "Yo recibía muchos mensajes."
+        },
+        "tú": {
+          "forma": "recibías",
+          "ejemplo": "Tú recibías regalos."
+        },
+        "él/ella/usted": {
+          "forma": "recibía",
+          "ejemplo": "Mi madre recibía visitas."
+        },
+        "nosotros/nosotras": {
+          "forma": "recibíamos",
+          "ejemplo": "Nosotros recibíamos un premio."
+        },
+        "vosotros/vosotras": {
+          "forma": "recibíais",
+          "ejemplo": "Vosotros recibíais buenas noticias."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "recibían",
+          "ejemplo": "Ellos recibían su salario."
+        }
+      }
+    },
+    {
+      "numero": 49,
+      "infinitivo": "recordar",
+      "traducao": "lembrar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "recordaba",
+          "ejemplo": "Yo recordaba mi infancia."
+        },
+        "tú": {
+          "forma": "recordabas",
+          "ejemplo": "Tú recordabas todos los detalles."
+        },
+        "él/ella/usted": {
+          "forma": "recordaba",
+          "ejemplo": "Mi abuela recordaba historias."
+        },
+        "nosotros/nosotras": {
+          "forma": "recordábamos",
+          "ejemplo": "Nosotros recordábamos aquellas vacaciones."
+        },
+        "vosotros/vosotras": {
+          "forma": "recordabais",
+          "ejemplo": "Vosotros recordabais la fecha."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "recordaban",
+          "ejemplo": "Ellos recordaban al profesor."
+        }
+      }
+    },
+    {
+      "numero": 50,
+      "infinitivo": "terminar",
+      "traducao": "terminar",
+      "tipo": "regular -ar",
+      "conjugaciones": {
+        "yo": {
+          "forma": "terminaba",
+          "ejemplo": "Yo terminaba mi trabajo a las seis."
+        },
+        "tú": {
+          "forma": "terminabas",
+          "ejemplo": "Tú terminabas la universidad."
+        },
+        "él/ella/usted": {
+          "forma": "terminaba",
+          "ejemplo": "La película terminaba muy tarde."
+        },
+        "nosotros/nosotras": {
+          "forma": "terminábamos",
+          "ejemplo": "Nosotros terminábamos el proyecto."
+        },
+        "vosotros/vosotras": {
+          "forma": "terminabais",
+          "ejemplo": "Vosotros terminabais primero."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "terminaban",
+          "ejemplo": "Las clases terminaban en diciembre."
+        }
+      }
+    }
+  ]
+}
+

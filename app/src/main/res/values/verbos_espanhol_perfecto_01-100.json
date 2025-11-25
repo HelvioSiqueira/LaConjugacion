@@ -1,0 +1,1308 @@
+{
+  "titulo": "100 Verbos - Pretérito Perfecto Compuesto (Todos)",
+  "tiempo_verbal": "preterito_perfecto_compuesto",
+  "nota": "Este tempo usa: haber (presente) + participio pasado",
+  "verbos": [
+    {
+      "numero": 1,
+      "infinitivo": "ser",
+      "participio": "sido",
+      "conjugaciones": {
+        "yo": "he sido",
+        "tú": "has sido",
+        "él/ella/usted": "ha sido",
+        "nosotros/nosotras": "hemos sido",
+        "vosotros/vosotras": "habéis sido",
+        "ellos/ellas/ustedes": "han sido"
+      }
+    },
+    {
+      "numero": 2,
+      "infinitivo": "estar",
+      "participio": "estado",
+      "conjugaciones": {
+        "yo": "he estado",
+        "tú": "has estado",
+        "él/ella/usted": "ha estado",
+        "nosotros/nosotras": "hemos estado",
+        "vosotros/vosotras": "habéis estado",
+        "ellos/ellas/ustedes": "han estado"
+      }
+    },
+    {
+      "numero": 3,
+      "infinitivo": "haber",
+      "participio": "habido",
+      "conjugaciones": {
+        "yo": "he habido",
+        "tú": "has habido",
+        "él/ella/usted": "ha habido",
+        "nosotros/nosotras": "hemos habido",
+        "vosotros/vosotras": "habéis habido",
+        "ellos/ellas/ustedes": "han habido"
+      }
+    },
+    {
+      "numero": 4,
+      "infinitivo": "tener",
+      "participio": "tenido",
+      "conjugaciones": {
+        "yo": "he tenido",
+        "tú": "has tenido",
+        "él/ella/usted": "ha tenido",
+        "nosotros/nosotras": "hemos tenido",
+        "vosotros/vosotras": "habéis tenido",
+        "ellos/ellas/ustedes": "han tenido"
+      }
+    },
+    {
+      "numero": 5,
+      "infinitivo": "hacer",
+      "participio": "hecho",
+      "conjugaciones": {
+        "yo": "he hecho",
+        "tú": "has hecho",
+        "él/ella/usted": "ha hecho",
+        "nosotros/nosotras": "hemos hecho",
+        "vosotros/vosotras": "habéis hecho",
+        "ellos/ellas/ustedes": "han hecho"
+      }
+    },
+    {
+      "numero": 6,
+      "infinitivo": "poder",
+      "participio": "podido",
+      "conjugaciones": {
+        "yo": "he podido",
+        "tú": "has podido",
+        "él/ella/usted": "ha podido",
+        "nosotros/nosotras": "hemos podido",
+        "vosotros/vosotras": "habéis podido",
+        "ellos/ellas/ustedes": "han podido"
+      }
+    },
+    {
+      "numero": 7,
+      "infinitivo": "decir",
+      "participio": "dicho",
+      "conjugaciones": {
+        "yo": "he dicho",
+        "tú": "has dicho",
+        "él/ella/usted": "ha dicho",
+        "nosotros/nosotras": "hemos dicho",
+        "vosotros/vosotras": "habéis dicho",
+        "ellos/ellas/ustedes": "han dicho"
+      }
+    },
+    {
+      "numero": 8,
+      "infinitivo": "ir",
+      "participio": "ido",
+      "conjugaciones": {
+        "yo": "he ido",
+        "tú": "has ido",
+        "él/ella/usted": "ha ido",
+        "nosotros/nosotras": "hemos ido",
+        "vosotros/vosotras": "habéis ido",
+        "ellos/ellas/ustedes": "han ido"
+      }
+    },
+    {
+      "numero": 9,
+      "infinitivo": "ver",
+      "participio": "visto",
+      "conjugaciones": {
+        "yo": "he visto",
+        "tú": "has visto",
+        "él/ella/usted": "ha visto",
+        "nosotros/nosotras": "hemos visto",
+        "vosotros/vosotras": "habéis visto",
+        "ellos/ellas/ustedes": "han visto"
+      }
+    },
+    {
+      "numero": 10,
+      "infinitivo": "dar",
+      "participio": "dado",
+      "conjugaciones": {
+        "yo": "he dado",
+        "tú": "has dado",
+        "él/ella/usted": "ha dado",
+        "nosotros/nosotras": "hemos dado",
+        "vosotros/vosotras": "habéis dado",
+        "ellos/ellas/ustedes": "han dado"
+      }
+    },
+    {
+      "numero": 11,
+      "infinitivo": "saber",
+      "participio": "sabido",
+      "conjugaciones": {
+        "yo": "he sabido",
+        "tú": "has sabido",
+        "él/ella/usted": "ha sabido",
+        "nosotros/nosotras": "hemos sabido",
+        "vosotros/vosotras": "habéis sabido",
+        "ellos/ellas/ustedes": "han sabido"
+      }
+    },
+    {
+      "numero": 12,
+      "infinitivo": "querer",
+      "participio": "querido",
+      "conjugaciones": {
+        "yo": "he querido",
+        "tú": "has querido",
+        "él/ella/usted": "ha querido",
+        "nosotros/nosotras": "hemos querido",
+        "vosotros/vosotras": "habéis querido",
+        "ellos/ellas/ustedes": "han querido"
+      }
+    },
+    {
+      "numero": 13,
+      "infinitivo": "llegar",
+      "participio": "llegado",
+      "conjugaciones": {
+        "yo": "he llegado",
+        "tú": "has llegado",
+        "él/ella/usted": "ha llegado",
+        "nosotros/nosotras": "hemos llegado",
+        "vosotros/vosotras": "habéis llegado",
+        "ellos/ellas/ustedes": "han llegado"
+      }
+    },
+    {
+      "numero": 14,
+      "infinitivo": "pasar",
+      "participio": "pasado",
+      "conjugaciones": {
+        "yo": "he pasado",
+        "tú": "has pasado",
+        "él/ella/usted": "ha pasado",
+        "nosotros/nosotras": "hemos pasado",
+        "vosotros/vosotras": "habéis pasado",
+        "ellos/ellas/ustedes": "han pasado"
+      }
+    },
+    {
+      "numero": 15,
+      "infinitivo": "deber",
+      "participio": "debido",
+      "conjugaciones": {
+        "yo": "he debido",
+        "tú": "has debido",
+        "él/ella/usted": "ha debido",
+        "nosotros/nosotras": "hemos debido",
+        "vosotros/vosotras": "habéis debido",
+        "ellos/ellas/ustedes": "han debido"
+      }
+    },
+    {
+      "numero": 16,
+      "infinitivo": "poner",
+      "participio": "puesto",
+      "conjugaciones": {
+        "yo": "he puesto",
+        "tú": "has puesto",
+        "él/ella/usted": "ha puesto",
+        "nosotros/nosotras": "hemos puesto",
+        "vosotros/vosotras": "habéis puesto",
+        "ellos/ellas/ustedes": "han puesto"
+      }
+    },
+    {
+      "numero": 17,
+      "infinitivo": "parecer",
+      "participio": "parecido",
+      "conjugaciones": {
+        "yo": "he parecido",
+        "tú": "has parecido",
+        "él/ella/usted": "ha parecido",
+        "nosotros/nosotras": "hemos parecido",
+        "vosotros/vosotras": "habéis parecido",
+        "ellos/ellas/ustedes": "han parecido"
+      }
+    },
+    {
+      "numero": 18,
+      "infinitivo": "quedar",
+      "participio": "quedado",
+      "conjugaciones": {
+        "yo": "he quedado",
+        "tú": "has quedado",
+        "él/ella/usted": "ha quedado",
+        "nosotros/nosotras": "hemos quedado",
+        "vosotros/vosotras": "habéis quedado",
+        "ellos/ellas/ustedes": "han quedado"
+      }
+    },
+    {
+      "numero": 19,
+      "infinitivo": "creer",
+      "participio": "creído",
+      "conjugaciones": {
+        "yo": "he creído",
+        "tú": "has creído",
+        "él/ella/usted": "ha creído",
+        "nosotros/nosotras": "hemos creído",
+        "vosotros/vosotras": "habéis creído",
+        "ellos/ellas/ustedes": "han creído"
+      }
+    },
+    {
+      "numero": 20,
+      "infinitivo": "hablar",
+      "participio": "hablado",
+      "conjugaciones": {
+        "yo": "he hablado",
+        "tú": "has hablado",
+        "él/ella/usted": "ha hablado",
+        "nosotros/nosotras": "hemos hablado",
+        "vosotros/vosotras": "habéis hablado",
+        "ellos/ellas/ustedes": "han hablado"
+      }
+    },
+    {
+      "numero": 21,
+      "infinitivo": "llevar",
+      "participio": "llevado",
+      "conjugaciones": {
+        "yo": "he llevado",
+        "tú": "has llevado",
+        "él/ella/usted": "ha llevado",
+        "nosotros/nosotras": "hemos llevado",
+        "vosotros/vosotras": "habéis llevado",
+        "ellos/ellas/ustedes": "han llevado"
+      }
+    },
+    {
+      "numero": 22,
+      "infinitivo": "dejar",
+      "participio": "dejado",
+      "conjugaciones": {
+        "yo": "he dejado",
+        "tú": "has dejado",
+        "él/ella/usted": "ha dejado",
+        "nosotros/nosotras": "hemos dejado",
+        "vosotros/vosotras": "habéis dejado",
+        "ellos/ellas/ustedes": "han dejado"
+      }
+    },
+    {
+      "numero": 23,
+      "infinitivo": "seguir",
+      "participio": "seguido",
+      "conjugaciones": {
+        "yo": "he seguido",
+        "tú": "has seguido",
+        "él/ella/usted": "ha seguido",
+        "nosotros/nosotras": "hemos seguido",
+        "vosotros/vosotras": "habéis seguido",
+        "ellos/ellas/ustedes": "han seguido"
+      }
+    },
+    {
+      "numero": 24,
+      "infinitivo": "encontrar",
+      "participio": "encontrado",
+      "conjugaciones": {
+        "yo": "he encontrado",
+        "tú": "has encontrado",
+        "él/ella/usted": "ha encontrado",
+        "nosotros/nosotras": "hemos encontrado",
+        "vosotros/vosotras": "habéis encontrado",
+        "ellos/ellas/ustedes": "han encontrado"
+      }
+    },
+    {
+      "numero": 25,
+      "infinitivo": "llamar",
+      "participio": "llamado",
+      "conjugaciones": {
+        "yo": "he llamado",
+        "tú": "has llamado",
+        "él/ella/usted": "ha llamado",
+        "nosotros/nosotras": "hemos llamado",
+        "vosotros/vosotras": "habéis llamado",
+        "ellos/ellas/ustedes": "han llamado"
+      }
+    },
+    {
+      "numero": 26,
+      "infinitivo": "venir",
+      "participio": "venido",
+      "conjugaciones": {
+        "yo": "he venido",
+        "tú": "has venido",
+        "él/ella/usted": "ha venido",
+        "nosotros/nosotras": "hemos venido",
+        "vosotros/vosotras": "habéis venido",
+        "ellos/ellas/ustedes": "han venido"
+      }
+    },
+    {
+      "numero": 27,
+      "infinitivo": "pensar",
+      "participio": "pensado",
+      "conjugaciones": {
+        "yo": "he pensado",
+        "tú": "has pensado",
+        "él/ella/usted": "ha pensado",
+        "nosotros/nosotras": "hemos pensado",
+        "vosotros/vosotras": "habéis pensado",
+        "ellos/ellas/ustedes": "han pensado"
+      }
+    },
+    {
+      "numero": 28,
+      "infinitivo": "salir",
+      "participio": "salido",
+      "conjugaciones": {
+        "yo": "he salido",
+        "tú": "has salido",
+        "él/ella/usted": "ha salido",
+        "nosotros/nosotras": "hemos salido",
+        "vosotros/vosotras": "habéis salido",
+        "ellos/ellas/ustedes": "han salido"
+      }
+    },
+    {
+      "numero": 29,
+      "infinitivo": "volver",
+      "participio": "vuelto",
+      "conjugaciones": {
+        "yo": "he vuelto",
+        "tú": "has vuelto",
+        "él/ella/usted": "ha vuelto",
+        "nosotros/nosotras": "hemos vuelto",
+        "vosotros/vosotras": "habéis vuelto",
+        "ellos/ellas/ustedes": "han vuelto"
+      }
+    },
+    {
+      "numero": 30,
+      "infinitivo": "tomar",
+      "participio": "tomado",
+      "conjugaciones": {
+        "yo": "he tomado",
+        "tú": "has tomado",
+        "él/ella/usted": "ha tomado",
+        "nosotros/nosotras": "hemos tomado",
+        "vosotros/vosotras": "habéis tomado",
+        "ellos/ellas/ustedes": "han tomado"
+      }
+    },
+    {
+      "numero": 31,
+      "infinitivo": "conocer",
+      "participio": "conocido",
+      "conjugaciones": {
+        "yo": "he conocido",
+        "tú": "has conocido",
+        "él/ella/usted": "ha conocido",
+        "nosotros/nosotras": "hemos conocido",
+        "vosotros/vosotras": "habéis conocido",
+        "ellos/ellas/ustedes": "han conocido"
+      }
+    },
+    {
+      "numero": 32,
+      "infinitivo": "vivir",
+      "participio": "vivido",
+      "conjugaciones": {
+        "yo": "he vivido",
+        "tú": "has vivido",
+        "él/ella/usted": "ha vivido",
+        "nosotros/nosotras": "hemos vivido",
+        "vosotros/vosotras": "habéis vivido",
+        "ellos/ellas/ustedes": "han vivido"
+      }
+    },
+    {
+      "numero": 33,
+      "infinitivo": "sentir",
+      "participio": "sentido",
+      "conjugaciones": {
+        "yo": "he sentido",
+        "tú": "has sentido",
+        "él/ella/usted": "ha sentido",
+        "nosotros/nosotras": "hemos sentido",
+        "vosotros/vosotras": "habéis sentido",
+        "ellos/ellas/ustedes": "han sentido"
+      }
+    },
+    {
+      "numero": 34,
+      "infinitivo": "tratar",
+      "participio": "tratado",
+      "conjugaciones": {
+        "yo": "he tratado",
+        "tú": "has tratado",
+        "él/ella/usted": "ha tratado",
+        "nosotros/nosotras": "hemos tratado",
+        "vosotros/vosotras": "habéis tratado",
+        "ellos/ellas/ustedes": "han tratado"
+      }
+    },
+    {
+      "numero": 35,
+      "infinitivo": "mirar",
+      "participio": "mirado",
+      "conjugaciones": {
+        "yo": "he mirado",
+        "tú": "has mirado",
+        "él/ella/usted": "ha mirado",
+        "nosotros/nosotras": "hemos mirado",
+        "vosotros/vosotras": "habéis mirado",
+        "ellos/ellas/ustedes": "han mirado"
+      }
+    },
+    {
+      "numero": 36,
+      "infinitivo": "contar",
+      "participio": "contado",
+      "conjugaciones": {
+        "yo": "he contado",
+        "tú": "has contado",
+        "él/ella/usted": "ha contado",
+        "nosotros/nosotras": "hemos contado",
+        "vosotros/vosotras": "habéis contado",
+        "ellos/ellas/ustedes": "han contado"
+      }
+    },
+    {
+      "numero": 37,
+      "infinitivo": "empezar",
+      "participio": "empezado",
+      "conjugaciones": {
+        "yo": "he empezado",
+        "tú": "has empezado",
+        "él/ella/usted": "ha empezado",
+        "nosotros/nosotras": "hemos empezado",
+        "vosotros/vosotras": "habéis empezado",
+        "ellos/ellas/ustedes": "han empezado"
+      }
+    },
+    {
+      "numero": 38,
+      "infinitivo": "esperar",
+      "participio": "esperado",
+      "conjugaciones": {
+        "yo": "he esperado",
+        "tú": "has esperado",
+        "él/ella/usted": "ha esperado",
+        "nosotros/nosotras": "hemos esperado",
+        "vosotros/vosotras": "habéis esperado",
+        "ellos/ellas/ustedes": "han esperado"
+      }
+    },
+    {
+      "numero": 39,
+      "infinitivo": "buscar",
+      "participio": "buscado",
+      "conjugaciones": {
+        "yo": "he buscado",
+        "tú": "has buscado",
+        "él/ella/usted": "ha buscado",
+        "nosotros/nosotras": "hemos buscado",
+        "vosotros/vosotras": "habéis buscado",
+        "ellos/ellas/ustedes": "han buscado"
+      }
+    },
+    {
+      "numero": 40,
+      "infinitivo": "existir",
+      "participio": "existido",
+      "conjugaciones": {
+        "yo": "he existido",
+        "tú": "has existido",
+        "él/ella/usted": "ha existido",
+        "nosotros/nosotras": "hemos existido",
+        "vosotros/vosotras": "habéis existido",
+        "ellos/ellas/ustedes": "han existido"
+      }
+    },
+    {
+      "numero": 41,
+      "infinitivo": "entrar",
+      "participio": "entrado",
+      "conjugaciones": {
+        "yo": "he entrado",
+        "tú": "has entrado",
+        "él/ella/usted": "ha entrado",
+        "nosotros/nosotras": "hemos entrado",
+        "vosotros/vosotras": "habéis entrado",
+        "ellos/ellas/ustedes": "han entrado"
+      }
+    },
+    {
+      "numero": 42,
+      "infinitivo": "trabajar",
+      "participio": "trabajado",
+      "conjugaciones": {
+        "yo": "he trabajado",
+        "tú": "has trabajado",
+        "él/ella/usted": "ha trabajado",
+        "nosotros/nosotras": "hemos trabajado",
+        "vosotros/vosotras": "habéis trabajado",
+        "ellos/ellas/ustedes": "han trabajado"
+      }
+    },
+    {
+      "numero": 43,
+      "infinitivo": "escribir",
+      "participio": "escrito",
+      "conjugaciones": {
+        "yo": "he escrito",
+        "tú": "has escrito",
+        "él/ella/usted": "ha escrito",
+        "nosotros/nosotras": "hemos escrito",
+        "vosotros/vosotras": "habéis escrito",
+        "ellos/ellas/ustedes": "han escrito"
+      }
+    },
+    {
+      "numero": 44,
+      "infinitivo": "producir",
+      "participio": "producido",
+      "conjugaciones": {
+        "yo": "he producido",
+        "tú": "has producido",
+        "él/ella/usted": "ha producido",
+        "nosotros/nosotras": "hemos producido",
+        "vosotros/vosotras": "habéis producido",
+        "ellos/ellas/ustedes": "han producido"
+      }
+    },
+    {
+      "numero": 45,
+      "infinitivo": "ocurrir",
+      "participio": "ocurrido",
+      "conjugaciones": {
+        "yo": "he ocurrido",
+        "tú": "has ocurrido",
+        "él/ella/usted": "ha ocurrido",
+        "nosotros/nosotras": "hemos ocurrido",
+        "vosotros/vosotras": "habéis ocurrido",
+        "ellos/ellas/ustedes": "han ocurrido"
+      }
+    },
+    {
+      "numero": 46,
+      "infinitivo": "entender",
+      "participio": "entendido",
+      "conjugaciones": {
+        "yo": "he entendido",
+        "tú": "has entendido",
+        "él/ella/usted": "ha entendido",
+        "nosotros/nosotras": "hemos entendido",
+        "vosotros/vosotras": "habéis entendido",
+        "ellos/ellas/ustedes": "han entendido"
+      }
+    },
+    {
+      "numero": 47,
+      "infinitivo": "pedir",
+      "participio": "pedido",
+      "conjugaciones": {
+        "yo": "he pedido",
+        "tú": "has pedido",
+        "él/ella/usted": "ha pedido",
+        "nosotros/nosotras": "hemos pedido",
+        "vosotros/vosotras": "habéis pedido",
+        "ellos/ellas/ustedes": "han pedido"
+      }
+    },
+    {
+      "numero": 48,
+      "infinitivo": "recibir",
+      "participio": "recibido",
+      "conjugaciones": {
+        "yo": "he recibido",
+        "tú": "has recibido",
+        "él/ella/usted": "ha recibido",
+        "nosotros/nosotras": "hemos recibido",
+        "vosotros/vosotras": "habéis recibido",
+        "ellos/ellas/ustedes": "han recibido"
+      }
+    },
+    {
+      "numero": 49,
+      "infinitivo": "recordar",
+      "participio": "recordado",
+      "conjugaciones": {
+        "yo": "he recordado",
+        "tú": "has recordado",
+        "él/ella/usted": "ha recordado",
+        "nosotros/nosotras": "hemos recordado",
+        "vosotros/vosotras": "habéis recordado",
+        "ellos/ellas/ustedes": "han recordado"
+      }
+    },
+    {
+      "numero": 50,
+      "infinitivo": "terminar",
+      "participio": "terminado",
+      "conjugaciones": {
+        "yo": "he terminado",
+        "tú": "has terminado",
+        "él/ella/usted": "ha terminado",
+        "nosotros/nosotras": "hemos terminado",
+        "vosotros/vosotras": "habéis terminado",
+        "ellos/ellas/ustedes": "han terminado"
+      }
+    },
+    {
+      "numero": 51,
+      "infinitivo": "permitir",
+      "participio": "permitido",
+      "conjugaciones": {
+        "yo": "he permitido",
+        "tú": "has permitido",
+        "él/ella/usted": "ha permitido",
+        "nosotros/nosotras": "hemos permitido",
+        "vosotros/vosotras": "habéis permitido",
+        "ellos/ellas/ustedes": "han permitido"
+      }
+    },
+    {
+      "numero": 52,
+      "infinitivo": "aparecer",
+      "participio": "aparecido",
+      "conjugaciones": {
+        "yo": "he aparecido",
+        "tú": "has aparecido",
+        "él/ella/usted": "ha aparecido",
+        "nosotros/nosotras": "hemos aparecido",
+        "vosotros/vosotras": "habéis aparecido",
+        "ellos/ellas/ustedes": "han aparecido"
+      }
+    },
+    {
+      "numero": 53,
+      "infinitivo": "conseguir",
+      "participio": "conseguido",
+      "conjugaciones": {
+        "yo": "he conseguido",
+        "tú": "has conseguido",
+        "él/ella/usted": "ha conseguido",
+        "nosotros/nosotras": "hemos conseguido",
+        "vosotros/vosotras": "habéis conseguido",
+        "ellos/ellas/ustedes": "han conseguido"
+      }
+    },
+    {
+      "numero": 54,
+      "infinitivo": "explicar",
+      "participio": "explicado",
+      "conjugaciones": {
+        "yo": "he explicado",
+        "tú": "has explicado",
+        "él/ella/usted": "ha explicado",
+        "nosotros/nosotras": "hemos explicado",
+        "vosotros/vosotras": "habéis explicado",
+        "ellos/ellas/ustedes": "han explicado"
+      }
+    },
+    {
+      "numero": 55,
+      "infinitivo": "tocar",
+      "participio": "tocado",
+      "conjugaciones": {
+        "yo": "he tocado",
+        "tú": "has tocado",
+        "él/ella/usted": "ha tocado",
+        "nosotros/nosotras": "hemos tocado",
+        "vosotros/vosotras": "habéis tocado",
+        "ellos/ellas/ustedes": "han tocado"
+      }
+    },
+    {
+      "numero": 56,
+      "infinitivo": "reconocer",
+      "participio": "reconocido",
+      "conjugaciones": {
+        "yo": "he reconocido",
+        "tú": "has reconocido",
+        "él/ella/usted": "ha reconocido",
+        "nosotros/nosotras": "hemos reconocido",
+        "vosotros/vosotras": "habéis reconocido",
+        "ellos/ellas/ustedes": "han reconocido"
+      }
+    },
+    {
+      "numero": 57,
+      "infinitivo": "estudiar",
+      "participio": "estudiado",
+      "conjugaciones": {
+        "yo": "he estudiado",
+        "tú": "has estudiado",
+        "él/ella/usted": "ha estudiado",
+        "nosotros/nosotras": "hemos estudiado",
+        "vosotros/vosotras": "habéis estudiado",
+        "ellos/ellas/ustedes": "han estudiado"
+      }
+    },
+    {
+      "numero": 58,
+      "infinitivo": "alcanzar",
+      "participio": "alcanzado",
+      "conjugaciones": {
+        "yo": "he alcanzado",
+        "tú": "has alcanzado",
+        "él/ella/usted": "ha alcanzado",
+        "nosotros/nosotras": "hemos alcanzado",
+        "vosotros/vosotras": "habéis alcanzado",
+        "ellos/ellas/ustedes": "han alcanzado"
+      }
+    },
+    {
+      "numero": 59,
+      "infinitivo": "nacer",
+      "participio": "nacido",
+      "conjugaciones": {
+        "yo": "he nacido",
+        "tú": "has nacido",
+        "él/ella/usted": "ha nacido",
+        "nosotros/nosotras": "hemos nacido",
+        "vosotros/vosotras": "habéis nacido",
+        "ellos/ellas/ustedes": "han nacido"
+      }
+    },
+    {
+      "numero": 60,
+      "infinitivo": "dirigir",
+      "participio": "dirigido",
+      "conjugaciones": {
+        "yo": "he dirigido",
+        "tú": "has dirigido",
+        "él/ella/usted": "ha dirigido",
+        "nosotros/nosotras": "hemos dirigido",
+        "vosotros/vosotras": "habéis dirigido",
+        "ellos/ellas/ustedes": "han dirigido"
+      }
+    },
+    {
+      "numero": 61,
+      "infinitivo": "correr",
+      "participio": "corrido",
+      "conjugaciones": {
+        "yo": "he corrido",
+        "tú": "has corrido",
+        "él/ella/usted": "ha corrido",
+        "nosotros/nosotras": "hemos corrido",
+        "vosotros/vosotras": "habéis corrido",
+        "ellos/ellas/ustedes": "han corrido"
+      }
+    },
+    {
+      "numero": 62,
+      "infinitivo": "utilizar",
+      "participio": "utilizado",
+      "conjugaciones": {
+        "yo": "he utilizado",
+        "tú": "has utilizado",
+        "él/ella/usted": "ha utilizado",
+        "nosotros/nosotras": "hemos utilizado",
+        "vosotros/vosotras": "habéis utilizado",
+        "ellos/ellas/ustedes": "han utilizado"
+      }
+    },
+    {
+      "numero": 63,
+      "infinitivo": "mostrar",
+      "participio": "mostrado",
+      "conjugaciones": {
+        "yo": "he mostrado",
+        "tú": "has mostrado",
+        "él/ella/usted": "ha mostrado",
+        "nosotros/nosotras": "hemos mostrado",
+        "vosotros/vosotras": "habéis mostrado",
+        "ellos/ellas/ustedes": "han mostrado"
+      }
+    },
+    {
+      "numero": 64,
+      "infinitivo": "caer",
+      "participio": "caído",
+      "conjugaciones": {
+        "yo": "he caído",
+        "tú": "has caído",
+        "él/ella/usted": "ha caído",
+        "nosotros/nosotras": "hemos caído",
+        "vosotros/vosotras": "habéis caído",
+        "ellos/ellas/ustedes": "han caído"
+      }
+    },
+    {
+      "numero": 65,
+      "infinitivo": "crear",
+      "participio": "creado",
+      "conjugaciones": {
+        "yo": "he creado",
+        "tú": "has creado",
+        "él/ella/usted": "ha creado",
+        "nosotros/nosotras": "hemos creado",
+        "vosotros/vosotras": "habéis creado",
+        "ellos/ellas/ustedes": "han creado"
+      }
+    },
+    {
+      "numero": 66,
+      "infinitivo": "abrir",
+      "participio": "abierto",
+      "conjugaciones": {
+        "yo": "he abierto",
+        "tú": "has abierto",
+        "él/ella/usted": "ha abierto",
+        "nosotros/nosotras": "hemos abierto",
+        "vosotros/vosotras": "habéis abierto",
+        "ellos/ellas/ustedes": "han abierto"
+      }
+    },
+    {
+      "numero": 67,
+      "infinitivo": "comenzar",
+      "participio": "comenzado",
+      "conjugaciones": {
+        "yo": "he comenzado",
+        "tú": "has comenzado",
+        "él/ella/usted": "ha comenzado",
+        "nosotros/nosotras": "hemos comenzado",
+        "vosotros/vosotras": "habéis comenzado",
+        "ellos/ellas/ustedes": "han comenzado"
+      }
+    },
+    {
+      "numero": 68,
+      "infinitivo": "perder",
+      "participio": "perdido",
+      "conjugaciones": {
+        "yo": "he perdido",
+        "tú": "has perdido",
+        "él/ella/usted": "ha perdido",
+        "nosotros/nosotras": "hemos perdido",
+        "vosotros/vosotras": "habéis perdido",
+        "ellos/ellas/ustedes": "han perdido"
+      }
+    },
+    {
+      "numero": 69,
+      "infinitivo": "ofrecer",
+      "participio": "ofrecido",
+      "conjugaciones": {
+        "yo": "he ofrecido",
+        "tú": "has ofrecido",
+        "él/ella/usted": "ha ofrecido",
+        "nosotros/nosotras": "hemos ofrecido",
+        "vosotros/vosotras": "habéis ofrecido",
+        "ellos/ellas/ustedes": "han ofrecido"
+      }
+    },
+    {
+      "numero": 70,
+      "infinitivo": "aplicar",
+      "participio": "aplicado",
+      "conjugaciones": {
+        "yo": "he aplicado",
+        "tú": "has aplicado",
+        "él/ella/usted": "ha aplicado",
+        "nosotros/nosotras": "hemos aplicado",
+        "vosotros/vosotras": "habéis aplicado",
+        "ellos/ellas/ustedes": "han aplicado"
+      }
+    },
+    {
+      "numero": 71,
+      "infinitivo": "realizar",
+      "participio": "realizado",
+      "conjugaciones": {
+        "yo": "he realizado",
+        "tú": "has realizado",
+        "él/ella/usted": "ha realizado",
+        "nosotros/nosotras": "hemos realizado",
+        "vosotros/vosotras": "habéis realizado",
+        "ellos/ellas/ustedes": "han realizado"
+      }
+    },
+    {
+      "numero": 72,
+      "infinitivo": "suponer",
+      "participio": "supuesto",
+      "conjugaciones": {
+        "yo": "he supuesto",
+        "tú": "has supuesto",
+        "él/ella/usted": "ha supuesto",
+        "nosotros/nosotras": "hemos supuesto",
+        "vosotros/vosotras": "habéis supuesto",
+        "ellos/ellas/ustedes": "han supuesto"
+      }
+    },
+    {
+      "numero": 73,
+      "infinitivo": "compartir",
+      "participio": "compartido",
+      "conjugaciones": {
+        "yo": "he compartido",
+        "tú": "has compartido",
+        "él/ella/usted": "ha compartido",
+        "nosotros/nosotras": "hemos compartido",
+        "vosotros/vosotras": "habéis compartido",
+        "ellos/ellas/ustedes": "han compartido"
+      }
+    },
+    {
+      "numero": 74,
+      "infinitivo": "leer",
+      "participio": "leído",
+      "conjugaciones": {
+        "yo": "he leído",
+        "tú": "has leído",
+        "él/ella/usted": "ha leído",
+        "nosotros/nosotras": "hemos leído",
+        "vosotros/vosotras": "habéis leído",
+        "ellos/ellas/ustedes": "han leído"
+      }
+    },
+    {
+      "numero": 75,
+      "infinitivo": "escuchar",
+      "participio": "escuchado",
+      "conjugaciones": {
+        "yo": "he escuchado",
+        "tú": "has escuchado",
+        "él/ella/usted": "ha escuchado",
+        "nosotros/nosotras": "hemos escuchado",
+        "vosotros/vosotras": "habéis escuchado",
+        "ellos/ellas/ustedes": "han escuchado"
+      }
+    },
+    {
+      "numero": 76,
+      "infinitivo": "cambiar",
+      "participio": "cambiado",
+      "conjugaciones": {
+        "yo": "he cambiado",
+        "tú": "has cambiado",
+        "él/ella/usted": "ha cambiado",
+        "nosotros/nosotras": "hemos cambiado",
+        "vosotros/vosotras": "habéis cambiado",
+        "ellos/ellas/ustedes": "han cambiado"
+      }
+    },
+    {
+      "numero": 77,
+      "infinitivo": "presentar",
+      "participio": "presentado",
+      "conjugaciones": {
+        "yo": "he presentado",
+        "tú": "has presentado",
+        "él/ella/usted": "ha presentado",
+        "nosotros/nosotras": "hemos presentado",
+        "vosotros/vosotras": "habéis presentado",
+        "ellos/ellas/ustedes": "han presentado"
+      }
+    },
+    {
+      "numero": 78,
+      "infinitivo": "considerar",
+      "participio": "considerado",
+      "conjugaciones": {
+        "yo": "he considerado",
+        "tú": "has considerado",
+        "él/ella/usted": "ha considerado",
+        "nosotros/nosotras": "hemos considerado",
+        "vosotros/vosotras": "habéis considerado",
+        "ellos/ellas/ustedes": "han considerado"
+      }
+    },
+    {
+      "numero": 79,
+      "infinitivo": "resultar",
+      "participio": "resultado",
+      "conjugaciones": {
+        "yo": "he resultedo",
+        "tú": "has resultado",
+        "él/ella/usted": "ha resultado",
+        "nosotros/nosotras": "hemos resultado",
+        "vosotros/vosotras": "habéis resultado",
+        "ellos/ellas/ustedes": "han resultado"
+      }
+    },
+    {
+      "numero": 80,
+      "infinitivo": "aumentar",
+      "participio": "aumentado",
+      "conjugaciones": {
+        "yo": "he aumentado",
+        "tú": "has aumentado",
+        "él/ella/usted": "ha aumentado",
+        "nosotros/nosotras": "hemos aumentado",
+        "vosotros/vosotras": "habéis aumentado",
+        "ellos/ellas/ustedes": "han aumentado"
+      }
+    },
+    {
+      "numero": 81,
+      "infinitivo": "ganar",
+      "participio": "ganado",
+      "conjugaciones": {
+        "yo": "he ganado",
+        "tú": "has ganado",
+        "él/ella/usted": "ha ganado",
+        "nosotros/nosotras": "hemos ganado",
+        "vosotros/vosotras": "habéis ganado",
+        "ellos/ellas/ustedes": "han ganado"
+      }
+    },
+    {
+      "numero": 82,
+      "infinitivo": "mantener",
+      "participio": "mantenido",
+      "conjugaciones": {
+        "yo": "he mantenido",
+        "tú": "has mantenido",
+        "él/ella/usted": "ha mantenido",
+        "nosotros/nosotras": "hemos mantenido",
+        "vosotros/vosotras": "habéis mantenido",
+        "ellos/ellas/ustedes": "han mantenido"
+      }
+    },
+    {
+      "numero": 83,
+      "infinitivo": "bastar",
+      "participio": "bastado",
+      "conjugaciones": {
+        "yo": "he bastado",
+        "tú": "has bastado",
+        "él/ella/usted": "ha bastado",
+        "nosotros/nosotras": "hemos bastado",
+        "vosotros/vosotras": "habéis bastado",
+        "ellos/ellas/ustedes": "han bastado"
+      }
+    },
+    {
+      "numero": 84,
+      "infinitivo": "formar",
+      "participio": "formado",
+      "conjugaciones": {
+        "yo": "he formado",
+        "tú": "has formado",
+        "él/ella/usted": "ha formado",
+        "nosotros/nosotras": "hemos formado",
+        "vosotros/vosotras": "habéis formado",
+        "ellos/ellas/ustedes": "han formado"
+      }
+    },
+    {
+      "numero": 85,
+      "infinitivo": "continuar",
+      "participio": "continuado",
+      "conjugaciones": {
+        "yo": "he continuado",
+        "tú": "has continuado",
+        "él/ella/usted": "ha continuado",
+        "nosotros/nosotras": "hemos continuado",
+        "vosotros/vosotras": "habéis continuado",
+        "ellos/ellas/ustedes": "han continuado"
+      }
+    },
+    {
+      "numero": 86,
+      "infinitivo": "comprar",
+      "participio": "comprado",
+      "conjugaciones": {
+        "yo": "he comprado",
+        "tú": "has comprado",
+        "él/ella/usted": "ha comprado",
+        "nosotros/nosotras": "hemos comprado",
+        "vosotros/vosotras": "habéis comprado",
+        "ellos/ellas/ustedes": "han comprado"
+      }
+    },
+    {
+      "numero": 87,
+      "infinitivo": "sufrir",
+      "participio": "sufrido",
+      "conjugaciones": {
+        "yo": "he sufrido",
+        "tú": "has sufrido",
+        "él/ella/usted": "ha sufrido",
+        "nosotros/nosotras": "hemos sufrido",
+        "vosotros/vosotras": "habéis sufrido",
+        "ellos/ellas/ustedes": "han sufrido"
+      }
+    },
+    {
+      "numero": 88,
+      "infinitivo": "cumplir",
+      "participio": "cumplido",
+      "conjugaciones": {
+        "yo": "he cumplido",
+        "tú": "has cumplido",
+        "él/ella/usted": "ha cumplido",
+        "nosotros/nosotras": "hemos cumplido",
+        "vosotros/vosotras": "habéis cumplido",
+        "ellos/ellas/ustedes": "han cumplido"
+      }
+    },
+    {
+      "numero": 89,
+      "infinitivo": "aprender",
+      "participio": "aprendido",
+      "conjugaciones": {
+        "yo": "he aprendido",
+        "tú": "has aprendido",
+        "él/ella/usted": "ha aprendido",
+        "nosotros/nosotras": "hemos aprendido",
+        "vosotros/vosotras": "habéis aprendido",
+        "ellos/ellas/ustedes": "han aprendido"
+      }
+    },
+    {
+      "numero": 90,
+      "infinitivo": "servir",
+      "participio": "servido",
+      "conjugaciones": {
+        "yo": "he servido",
+        "tú": "has servido",
+        "él/ella/usted": "ha servido",
+        "nosotros/nosotras": "hemos servido",
+        "vosotros/vosotras": "habéis servido",
+        "ellos/ellas/ustedes": "han servido"
+      }
+    },
+    {
+      "numero": 91,
+      "infinitivo": "intentar",
+      "participio": "intentado",
+      "conjugaciones": {
+        "yo": "he intentado",
+        "tú": "has intentado",
+        "él/ella/usted": "ha intentado",
+        "nosotros/nosotras": "hemos intentado",
+        "vosotros/vosotras": "habéis intentado",
+        "ellos/ellas/ustedes": "han intentado"
+      }
+    },
+    {
+      "numero": 92,
+      "infinitivo": "echar",
+      "participio": "echado",
+      "conjugaciones": {
+        "yo": "he echado",
+        "tú": "has echado",
+        "él/ella/usted": "ha echado",
+        "nosotros/nosotras": "hemos echado",
+        "vosotros/vosotras": "habéis echado",
+        "ellos/ellas/ustedes": "han echado"
+      }
+    },
+    {
+      "numero": 93,
+      "infinitivo": "elegir",
+      "participio": "elegido",
+      "conjugaciones": {
+        "yo": "he elegido",
+        "tú": "has elegido",
+        "él/ella/usted": "ha elegido",
+        "nosotros/nosotras": "hemos elegido",
+        "vosotros/vosotras": "habéis elegido",
+        "ellos/ellas/ustedes": "han elegido"
+      }
+    },
+    {
+      "numero": 94,
+      "infinitivo": "aceptar",
+      "participio": "aceptado",
+      "conjugaciones": {
+        "yo": "he aceptado",
+        "tú": "has aceptado",
+        "él/ella/usted": "ha aceptado",
+        "nosotros/nosotras": "hemos aceptado",
+        "vosotros/vosotras": "habéis aceptado",
+        "ellos/ellas/ustedes": "han aceptado"
+      }
+    },
+    {
+      "numero": 95,
+      "infinitivo": "desear",
+      "participio": "deseado",
+      "conjugaciones": {
+        "yo": "he deseado",
+        "tú": "has deseado",
+        "él/ella/usted": "ha deseado",
+        "nosotros/nosotras": "hemos deseado",
+        "vosotros/vosotras": "habéis deseado",
+        "ellos/ellas/ustedes": "han deseado"
+      }
+    },
+    {
+      "numero": 96,
+      "infinitivo": "abandonar",
+      "participio": "abandonado",
+      "conjugaciones": {
+        "yo": "he abandonado",
+        "tú": "has abandonado",
+        "él/ella/usted": "ha abandonado",
+        "nosotros/nosotras": "hemos abandonado",
+        "vosotros/vosotras": "habéis abandonado",
+        "ellos/ellas/ustedes": "han abandonado"
+      }
+    },
+    {
+      "numero": 97,
+      "infinitivo": "necesitar",
+      "participio": "necesitado",
+      "conjugaciones": {
+        "yo": "he necesitado",
+        "tú": "has necesitado",
+        "él/ella/usted": "ha necesitado",
+        "nosotros/nosotras": "hemos necesitado",
+        "vosotros/vosotras": "habéis necesitado",
+        "ellos/ellas/ustedes": "han necesitado"
+      }
+    },
+    {
+      "numero": 98,
+      "infinitivo": "guardar",
+      "participio": "guardado",
+      "conjugaciones": {
+        "yo": "he guardado",
+        "tú": "has guardado",
+        "él/ella/usted": "ha guardado",
+        "nosotros/nosotras": "hemos guardado",
+        "vosotros/vosotras": "habéis guardado",
+        "ellos/ellas/ustedes": "han guardado"
+      }
+    },
+    {
+      "numero": 99,
+      "infinitivo": "observar",
+      "participio": "observado",
+      "conjugaciones": {
+        "yo": "he observado",
+        "tú": "has observado",
+        "él/ella/usted": "ha observado",
+        "nosotros/nosotras": "hemos observado",
+        "vosotros/vosotras": "habéis observado",
+        "ellos/ellas/ustedes": "han observado"
+      }
+    },
+    {
+      "numero": 100,
+      "infinitivo": "ayudar",
+      "participio": "ayudado",
+      "conjugaciones": {
+        "yo": "he ayudado",
+        "tú": "has ayudado",
+        "él/ella/usted": "ha ayudado",
+        "nosotros/nosotras": "hemos ayudado",
+        "vosotros/vosotras": "habéis ayudado",
+        "ellos/ellas/ustedes": "han ayudado"
+      }
+    }
+  ]
+}
+
