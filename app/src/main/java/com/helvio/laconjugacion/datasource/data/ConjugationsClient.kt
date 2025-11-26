@@ -1,6 +1,7 @@
 package com.helvio.laconjugacion.datasource.data
 
 import android.content.Context
+import android.util.Log
 import com.google.gson.Gson
 import com.helvio.laconjugacion.datasource.model.ConjugationsModel
 import com.helvio.laconjugacion.datasource.model.Verb
@@ -19,6 +20,8 @@ class ConjugationsClient : IConjugationsClient {
 
             verbs.addAll(conjugationsModel.verbs)
         }
+
+        Log.d("HSV", conjugationsModel.toString())
 
         return conjugationsModel.copy(verbs = verbs)
     }

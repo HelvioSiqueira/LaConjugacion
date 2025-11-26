@@ -6,7 +6,7 @@ data class ConjugationsModel(
     @SerializedName("descripcion")
     val description: String = "",
     @SerializedName("tiempo_verbal")
-    val verbTense: VerbTenseEnum = VerbTenseEnum.PRESENT_INDICATIVE,
+    val verbTense: String = "",
     @SerializedName("titulo")
     val title: String = "",
     @SerializedName("verbos")
