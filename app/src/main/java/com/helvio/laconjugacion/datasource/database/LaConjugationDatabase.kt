@@ -12,16 +12,17 @@ import com.helvio.laconjugacion.datasource.model.conjugation.YouInformalConjugat
 import com.helvio.laconjugacion.datasource.model.conjugation.YouPluralInformalConjugationEntity
 
 @Database(
-    entities = [
-        VerbEntity::class,
-        IConjugationEntity::class,
-        YouInformalConjugationEntity::class,
-        HeSheYouFormalConjugationEntity::class,
-        WeConjugationEntity::class,
-        YouPluralInformalConjugationEntity::class,
-        TheyYouPluralConjugationEntity::class
-    ],
-    version = 1
+    entities =
+        [
+            VerbEntity::class,
+            IConjugationEntity::class,
+            YouInformalConjugationEntity::class,
+            HeSheYouFormalConjugationEntity::class,
+            WeConjugationEntity::class,
+            YouPluralInformalConjugationEntity::class,
+            TheyYouPluralConjugationEntity::class,
+        ],
+    version = 1,
 )
 abstract class LaConjugationDatabase : RoomDatabase() {
     abstract fun getDao(): LaConjugationDao

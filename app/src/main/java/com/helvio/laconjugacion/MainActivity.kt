@@ -26,19 +26,13 @@ class MainActivity : ComponentActivity() {
 
         enableEdgeToEdge()
         setContent {
-
             val context = LocalContext.current
 
-            LaunchedEffect(Unit) {
-                conjugationRepository.getAllConjugations(context)
-            }
+            LaunchedEffect(Unit) { conjugationRepository.getAllConjugations(context) }
 
             LaConjugacionTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )
+                    Greeting(name = "Android", modifier = Modifier.padding(innerPadding))
                 }
             }
         }
@@ -47,16 +41,11 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
+    Text(text = "Hello $name!", modifier = modifier)
 }
 
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    LaConjugacionTheme {
-        Greeting("Android")
-    }
+    LaConjugacionTheme { Greeting("Android") }
 }

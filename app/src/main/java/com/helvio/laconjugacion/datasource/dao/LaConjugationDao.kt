@@ -13,25 +13,27 @@ import com.helvio.laconjugacion.datasource.model.conjugation.YouPluralInformalCo
 @Dao
 interface LaConjugationDao {
 
-    @Insert
-    suspend fun insertAllIConjugations(vararg iConjugations: IConjugationEntity)
+    @Insert suspend fun insertAllIConjugations(vararg iConjugations: IConjugationEntity)
 
     @Insert
     suspend fun insertYouConjugations(vararg youInformalConjugation: YouInformalConjugationEntity)
 
     @Insert
-    suspend fun insertHeSheYouFormalConjugations(vararg heSheYouFormalConjugation: HeSheYouFormalConjugationEntity)
+    suspend fun insertHeSheYouFormalConjugations(
+        vararg heSheYouFormalConjugation: HeSheYouFormalConjugationEntity
+    )
+
+    @Insert suspend fun insertWeConjugations(vararg weConjugation: WeConjugationEntity)
 
     @Insert
-    suspend fun insertWeConjugations(vararg weConjugation: WeConjugationEntity)
+    suspend fun insertYouPluralInformalConjugations(
+        vararg youPluralInformalConjugation: YouPluralInformalConjugationEntity
+    )
 
     @Insert
-    suspend fun insertYouPluralInformalConjugations(vararg youPluralInformalConjugation: YouPluralInformalConjugationEntity)
+    suspend fun insertTheyYouPluralConjugations(
+        vararg theyYouPluralConjugation: TheyYouPluralConjugationEntity
+    )
 
-    @Insert
-    suspend fun insertTheyYouPluralConjugations(vararg theyYouPluralConjugation: TheyYouPluralConjugationEntity)
-
-    @Insert
-    suspend fun insertVerbs(verbs: VerbEntity): Long
-
+    @Insert suspend fun insertVerbs(verbs: VerbEntity): Long
 }
