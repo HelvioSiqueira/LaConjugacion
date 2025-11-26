@@ -5,6 +5,8 @@
     {
       "numero": 51,
       "infinitivo": "permitir",
+      "tipo": "-ir",
+      "traducao": "permitir",
       "conjugaciones": {
         "yo": {
           "forma": "permitiría",
@@ -35,6 +37,8 @@
     {
       "numero": 52,
       "infinitivo": "aparecer",
+      "tipo": "-er",
+      "traducao": "aparecer",
       "conjugaciones": {
         "yo": {
           "forma": "aparecería",
@@ -65,6 +69,8 @@
     {
       "numero": 53,
       "infinitivo": "conseguir",
+      "tipo": "-ir",
+      "traducao": "conseguir",
       "conjugaciones": {
         "yo": {
           "forma": "conseguiría",
@@ -95,6 +101,8 @@
     {
       "numero": 54,
       "infinitivo": "explicar",
+      "tipo": "-ar",
+      "traducao": "explicar",
       "conjugaciones": {
         "yo": {
           "forma": "explicaría",
@@ -125,6 +133,8 @@
     {
       "numero": 55,
       "infinitivo": "tocar",
+      "tipo": "-ar",
+      "traducao": "tocar",
       "conjugaciones": {
         "yo": {
           "forma": "tocaría",
@@ -155,6 +165,8 @@
     {
       "numero": 56,
       "infinitivo": "reconocer",
+      "tipo": "-er",
+      "traducao": "reconhecer",
       "conjugaciones": {
         "yo": {
           "forma": "reconocería",
@@ -185,6 +197,8 @@
     {
       "numero": 57,
       "infinitivo": "estudiar",
+      "tipo": "-ar",
+      "traducao": "estudar",
       "conjugaciones": {
         "yo": {
           "forma": "estudiaría",
@@ -215,6 +229,8 @@
     {
       "numero": 58,
       "infinitivo": "alcanzar",
+      "tipo": "-ar",
+      "traducao": "alcançar",
       "conjugaciones": {
         "yo": {
           "forma": "alcanzaría",
@@ -245,6 +261,8 @@
     {
       "numero": 59,
       "infinitivo": "nacer",
+      "tipo": "-er",
+      "traducao": "nascer",
       "conjugaciones": {
         "yo": {
           "forma": "nacería",
@@ -275,6 +293,8 @@
     {
       "numero": 60,
       "infinitivo": "dirigir",
+      "tipo": "-ir",
+      "traducao": "dirigir",
       "conjugaciones": {
         "yo": {
           "forma": "dirigiría",
@@ -305,6 +325,8 @@
     {
       "numero": 61,
       "infinitivo": "correr",
+      "tipo": "-er",
+      "traducao": "correr",
       "conjugaciones": {
         "yo": {
           "forma": "correría",
@@ -335,6 +357,8 @@
     {
       "numero": 62,
       "infinitivo": "utilizar",
+      "tipo": "-ar",
+      "traducao": "utilizar",
       "conjugaciones": {
         "yo": {
           "forma": "utilizaría",
@@ -365,6 +389,8 @@
     {
       "numero": 63,
       "infinitivo": "mostrar",
+      "tipo": "-ar",
+      "traducao": "mostrar",
       "conjugaciones": {
         "yo": {
           "forma": "mostraría",
@@ -395,6 +421,8 @@
     {
       "numero": 64,
       "infinitivo": "caer",
+      "tipo": "-er",
+      "traducao": "cair",
       "conjugaciones": {
         "yo": {
           "forma": "caería",
@@ -425,6 +453,8 @@
     {
       "numero": 65,
       "infinitivo": "crear",
+      "tipo": "-ar",
+      "traducao": "criar",
       "conjugaciones": {
         "yo": {
           "forma": "crearía",
@@ -455,6 +485,8 @@
     {
       "numero": 66,
       "infinitivo": "abrir",
+      "tipo": "-ir",
+      "traducao": "abrir",
       "conjugaciones": {
         "yo": {
           "forma": "abriría",
@@ -485,6 +517,8 @@
     {
       "numero": 67,
       "infinitivo": "comenzar",
+      "tipo": "-ar",
+      "traducao": "começar",
       "conjugaciones": {
         "yo": {
           "forma": "comenzaría",
@@ -515,6 +549,8 @@
     {
       "numero": 68,
       "infinitivo": "perder",
+      "tipo": "-er",
+      "traducao": "perder",
       "conjugaciones": {
         "yo": {
           "forma": "perdería",
@@ -545,6 +581,8 @@
     {
       "numero": 69,
       "infinitivo": "ofrecer",
+      "tipo": "-er",
+      "traducao": "oferecer",
       "conjugaciones": {
         "yo": {
           "forma": "ofrecería",
@@ -575,6 +613,8 @@
     {
       "numero": 70,
       "infinitivo": "aplicar",
+      "tipo": "-ar",
+      "traducao": "aplicar",
       "conjugaciones": {
         "yo": {
           "forma": "aplicaría",
@@ -605,6 +645,8 @@
     {
       "numero": 71,
       "infinitivo": "realizar",
+      "tipo": "-ar",
+      "traducao": "realizar",
       "conjugaciones": {
         "yo": {
           "forma": "realizaría",
@@ -635,6 +677,8 @@
     {
       "numero": 72,
       "infinitivo": "suponer",
+      "tipo": "-er",
+      "traducao": "supor",
       "conjugaciones": {
         "yo": {
           "forma": "supondría",
@@ -665,6 +709,8 @@
     {
       "numero": 73,
       "infinitivo": "compartir",
+      "tipo": "-ir",
+      "traducao": "compartilhar",
       "conjugaciones": {
         "yo": {
           "forma": "compartiría",
@@ -695,6 +741,8 @@
     {
       "numero": 74,
       "infinitivo": "leer",
+      "tipo": "-er",
+      "traducao": "ler",
       "conjugaciones": {
         "yo": {
           "forma": "leería",
@@ -725,6 +773,8 @@
     {
       "numero": 75,
       "infinitivo": "escuchar",
+      "tipo": "-ar",
+      "traducao": "escutar",
       "conjugaciones": {
         "yo": {
           "forma": "escucharía",

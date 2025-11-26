@@ -5,6 +5,8 @@
     {
       "numero": 1,
       "infinitivo": "ser",
+      "tipo": "-er",
+      "traducao": "ser",
       "conjugaciones": {
         "yo": {
           "forma": "sea",
@@ -35,6 +37,8 @@
     {
       "numero": 2,
       "infinitivo": "estar",
+      "tipo": "-ar",
+      "traducao": "estar",
       "conjugaciones": {
         "yo": {
           "forma": "esté",
@@ -65,6 +69,8 @@
     {
       "numero": 3,
       "infinitivo": "haber",
+      "tipo": "-er",
+      "traducao": "haver",
       "conjugaciones": {
         "yo": {
           "forma": "haya",
@@ -95,6 +101,8 @@
     {
       "numero": 4,
       "infinitivo": "tener",
+      "tipo": "-er",
+      "traducao": "ter",
       "conjugaciones": {
         "yo": {
           "forma": "tenga",
@@ -125,6 +133,8 @@
     {
       "numero": 5,
       "infinitivo": "hacer",
+      "tipo": "-er",
+      "traducao": "fazer",
       "conjugaciones": {
         "yo": {
           "forma": "haga",
@@ -155,6 +165,8 @@
     {
       "numero": 6,
       "infinitivo": "poder",
+      "tipo": "-er",
+      "traducao": "poder",
       "conjugaciones": {
         "yo": {
           "forma": "pueda",
@@ -185,6 +197,8 @@
     {
       "numero": 7,
       "infinitivo": "decir",
+      "tipo": "-ir",
+      "traducao": "dizer",
       "conjugaciones": {
         "yo": {
           "forma": "diga",
@@ -215,6 +229,8 @@
     {
       "numero": 8,
       "infinitivo": "ir",
+      "tipo": "-ir",
+      "traducao": "ir",
       "conjugaciones": {
         "yo": {
           "forma": "vaya",
@@ -245,6 +261,8 @@
     {
       "numero": 9,
       "infinitivo": "ver",
+      "tipo": "-er",
+      "traducao": "ver",
       "conjugaciones": {
         "yo": {
           "forma": "vea",
@@ -275,6 +293,8 @@
     {
       "numero": 10,
       "infinitivo": "dar",
+      "tipo": "-ar",
+      "traducao": "dar",
       "conjugaciones": {
         "yo": {
           "forma": "dé",
@@ -305,6 +325,8 @@
     {
       "numero": 11,
       "infinitivo": "saber",
+      "tipo": "-er",
+      "traducao": "saber",
       "conjugaciones": {
         "yo": {
           "forma": "sepa",
@@ -335,6 +357,8 @@
     {
       "numero": 12,
       "infinitivo": "querer",
+      "tipo": "-er",
+      "traducao": "querer",
       "conjugaciones": {
         "yo": {
           "forma": "quiera",
@@ -365,6 +389,8 @@
     {
       "numero": 13,
       "infinitivo": "llegar",
+      "tipo": "-ar",
+      "traducao": "chegar",
       "conjugaciones": {
         "yo": {
           "forma": "llegue",
@@ -395,6 +421,8 @@
     {
       "numero": 14,
       "infinitivo": "pasar",
+      "tipo": "-ar",
+      "traducao": "passar",
       "conjugaciones": {
         "yo": {
           "forma": "pase",
@@ -425,6 +453,8 @@
     {
       "numero": 15,
       "infinitivo": "deber",
+      "tipo": "-er",
+      "traducao": "dever",
       "conjugaciones": {
         "yo": {
           "forma": "deba",
@@ -455,6 +485,8 @@
     {
       "numero": 16,
       "infinitivo": "poner",
+      "tipo": "-er",
+      "traducao": "pôr",
       "conjugaciones": {
         "yo": {
           "forma": "ponga",
@@ -485,6 +517,8 @@
     {
       "numero": 17,
       "infinitivo": "parecer",
+      "tipo": "-er",
+      "traducao": "parecer",
       "conjugaciones": {
         "yo": {
           "forma": "parezca",
@@ -515,6 +549,8 @@
     {
       "numero": 18,
       "infinitivo": "quedar",
+      "tipo": "-ar",
+      "traducao": "ficar",
       "conjugaciones": {
         "yo": {
           "forma": "quede",
@@ -545,6 +581,8 @@
     {
       "numero": 19,
       "infinitivo": "creer",
+      "tipo": "-er",
+      "traducao": "crer",
       "conjugaciones": {
         "yo": {
           "forma": "crea",
@@ -575,6 +613,8 @@
     {
       "numero": 20,
       "infinitivo": "hablar",
+      "tipo": "-ar",
+      "traducao": "falar",
       "conjugaciones": {
         "yo": {
           "forma": "hable",
@@ -605,6 +645,8 @@
     {
       "numero": 21,
       "infinitivo": "llevar",
+      "tipo": "-ar",
+      "traducao": "levar",
       "conjugaciones": {
         "yo": {
           "forma": "lleve",
@@ -635,6 +677,8 @@
     {
       "numero": 22,
       "infinitivo": "dejar",
+      "tipo": "-ar",
+      "traducao": "deixar",
       "conjugaciones": {
         "yo": {
           "forma": "deje",
@@ -665,6 +709,8 @@
     {
       "numero": 23,
       "infinitivo": "seguir",
+      "tipo": "-ir",
+      "traducao": "seguir",
       "conjugaciones": {
         "yo": {
           "forma": "siga",
@@ -695,6 +741,8 @@
     {
       "numero": 24,
       "infinitivo": "encontrar",
+      "tipo": "-ar",
+      "traducao": "encontrar",
       "conjugaciones": {
         "yo": {
           "forma": "encuentre",
@@ -725,6 +773,8 @@
     {
       "numero": 25,
       "infinitivo": "llamar",
+      "tipo": "-ar",
+      "traducao": "chamar",
       "conjugaciones": {
         "yo": {
           "forma": "llame",

@@ -1,22 +1,37 @@
 package com.helvio.laconjugacion.di
 
-import com.helvio.laconjugacion.datasource.data.json.IJsonDataSource
-import com.helvio.laconjugacion.datasource.data.json.JsonDataSource
-import com.helvio.laconjugacion.datasource.data.local.LaConjugationDatabase
+import androidx.room.Room
+import com.helvio.laconjugacion.datasource.datasource.IJsonDataSource
+import com.helvio.laconjugacion.datasource.datasource.JsonDataSource
+import com.helvio.laconjugacion.datasource.database.LaConjugationDatabase
+import com.helvio.laconjugacion.datasource.datasource.ILocalDataSource
+import com.helvio.laconjugacion.datasource.datasource.LocalDataSource
 import com.helvio.laconjugacion.repository.conjugation.ConjugationRepository
 import com.helvio.laconjugacion.repository.conjugation.IConjugationRepository
+import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
 
 object AppModule {
     val module = module {
         factory<IJsonDataSource> { JsonDataSource() }
-        
+
+        single {
+            Room.databaseBuilder(
+                androidContext(),
+                LaConjugationDatabase::class.java,
+                "la_conjugation.db"
+            ).build()
+        }
+
         single { get<LaConjugationDatabase>().getDao() }
-        
+
+        factory<ILocalDataSource> { LocalDataSource(get()) }
+
         factory<IConjugationRepository> {
             ConjugationRepository(
-                jsonDataSource = get()
-            ) 
+                jsonDataSource = get(),
+                localDataSource = get()
+            )
         }
     }
 }

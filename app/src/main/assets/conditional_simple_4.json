@@ -5,6 +5,8 @@
     {
       "numero": 76,
       "infinitivo": "cambiar",
+      "tipo": "-ar",
+      "traducao": "mudar",
       "conjugaciones": {
         "yo": {
           "forma": "cambiaría",
@@ -35,6 +37,8 @@
     {
       "numero": 77,
       "infinitivo": "presentar",
+      "tipo": "-ar",
+      "traducao": "apresentar",
       "conjugaciones": {
         "yo": {
           "forma": "presentaría",
@@ -65,6 +69,8 @@
     {
       "numero": 78,
       "infinitivo": "considerar",
+      "tipo": "-ar",
+      "traducao": "considerar",
       "conjugaciones": {
         "yo": {
           "forma": "consideraría",
@@ -95,6 +101,8 @@
     {
       "numero": 79,
       "infinitivo": "resultar",
+      "tipo": "-ar",
+      "traducao": "resultar",
       "conjugaciones": {
         "yo": {
           "forma": "resultaría",
@@ -125,6 +133,8 @@
     {
       "numero": 80,
       "infinitivo": "aumentar",
+      "tipo": "-ar",
+      "traducao": "aumentar",
       "conjugaciones": {
         "yo": {
           "forma": "aumentaría",
@@ -155,6 +165,8 @@
     {
       "numero": 81,
       "infinitivo": "ganar",
+      "tipo": "-ar",
+      "traducao": "ganhar",
       "conjugaciones": {
         "yo": {
           "forma": "ganaría",
@@ -185,6 +197,8 @@
     {
       "numero": 82,
       "infinitivo": "mantener",
+      "tipo": "-er",
+      "traducao": "manter",
       "conjugaciones": {
         "yo": {
           "forma": "mantendría",
@@ -215,6 +229,8 @@
     {
       "numero": 83,
       "infinitivo": "bastar",
+      "tipo": "-ar",
+      "traducao": "bastar",
       "conjugaciones": {
         "yo": {
           "forma": "bastaría",
@@ -245,6 +261,8 @@
     {
       "numero": 84,
       "infinitivo": "formar",
+      "tipo": "-ar",
+      "traducao": "formar",
       "conjugaciones": {
         "yo": {
           "forma": "formaría",
@@ -275,6 +293,8 @@
     {
       "numero": 85,
       "infinitivo": "continuar",
+      "tipo": "-ar",
+      "traducao": "continuar",
       "conjugaciones": {
         "yo": {
           "forma": "continuaría",
@@ -305,6 +325,8 @@
     {
       "numero": 86,
       "infinitivo": "comprar",
+      "tipo": "-ar",
+      "traducao": "comprar",
       "conjugaciones": {
         "yo": {
           "forma": "compraría",
@@ -335,6 +357,8 @@
     {
       "numero": 87,
       "infinitivo": "sufrir",
+      "tipo": "-ir",
+      "traducao": "sofrer",
       "conjugaciones": {
         "yo": {
           "forma": "sufriría",
@@ -365,6 +389,8 @@
     {
       "numero": 88,
       "infinitivo": "cumplir",
+      "tipo": "-ir",
+      "traducao": "cumprir",
       "conjugaciones": {
         "yo": {
           "forma": "cumpliría",
@@ -395,6 +421,8 @@
     {
       "numero": 89,
       "infinitivo": "aprender",
+      "tipo": "-er",
+      "traducao": "aprender",
       "conjugaciones": {
         "yo": {
           "forma": "aprendería",
@@ -425,6 +453,8 @@
     {
       "numero": 90,
       "infinitivo": "servir",
+      "tipo": "-ir",
+      "traducao": "servir",
       "conjugaciones": {
         "yo": {
           "forma": "serviría",
@@ -455,6 +485,8 @@
     {
       "numero": 91,
       "infinitivo": "intentar",
+      "tipo": "-ar",
+      "traducao": "tentar",
       "conjugaciones": {
         "yo": {
           "forma": "intentaría",
@@ -485,6 +517,8 @@
     {
       "numero": 92,
       "infinitivo": "echar",
+      "tipo": "-ar",
+      "traducao": "jogar",
       "conjugaciones": {
         "yo": {
           "forma": "echaría",
@@ -515,6 +549,8 @@
     {
       "numero": 93,
       "infinitivo": "elegir",
+      "tipo": "-ir",
+      "traducao": "escolher",
       "conjugaciones": {
         "yo": {
           "forma": "elegiría",
@@ -545,6 +581,8 @@
     {
       "numero": 94,
       "infinitivo": "aceptar",
+      "tipo": "-ar",
+      "traducao": "aceitar",
       "conjugaciones": {
         "yo": {
           "forma": "aceptaría",
@@ -575,6 +613,8 @@
     {
       "numero": 95,
       "infinitivo": "desear",
+      "tipo": "-ar",
+      "traducao": "desejar",
       "conjugaciones": {
         "yo": {
           "forma": "desearía",
@@ -605,6 +645,8 @@
     {
       "numero": 96,
       "infinitivo": "abandonar",
+      "tipo": "-ar",
+      "traducao": "abandonar",
       "conjugaciones": {
         "yo": {
           "forma": "abandonaría",
@@ -635,6 +677,8 @@
     {
       "numero": 97,
       "infinitivo": "necesitar",
+      "tipo": "-ar",
+      "traducao": "necessitar",
       "conjugaciones": {
         "yo": {
           "forma": "necesitaría",
@@ -665,6 +709,8 @@
     {
       "numero": 98,
       "infinitivo": "guardar",
+      "tipo": "-ar",
+      "traducao": "guardar",
       "conjugaciones": {
         "yo": {
           "forma": "guardaría",
@@ -695,6 +741,8 @@
     {
       "numero": 99,
       "infinitivo": "observar",
+      "tipo": "-ar",
+      "traducao": "observar",
       "conjugaciones": {
         "yo": {
           "forma": "observaría",
@@ -725,6 +773,8 @@
     {
       "numero": 100,
       "infinitivo": "ayudar",
+      "tipo": "-ar",
+      "traducao": "ajudar",
       "conjugaciones": {
         "yo": {
           "forma": "ayudaría",

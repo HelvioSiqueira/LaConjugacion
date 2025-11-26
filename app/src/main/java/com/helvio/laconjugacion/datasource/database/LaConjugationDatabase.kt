@@ -1,7 +1,8 @@
-package com.helvio.laconjugacion.datasource.data.local
+package com.helvio.laconjugacion.datasource.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import com.helvio.laconjugacion.datasource.dao.LaConjugationDao
 import com.helvio.laconjugacion.datasource.model.conjugation.HeSheYouFormalConjugationEntity
 import com.helvio.laconjugacion.datasource.model.conjugation.IConjugationEntity
 import com.helvio.laconjugacion.datasource.model.conjugation.TheyYouPluralConjugationEntity

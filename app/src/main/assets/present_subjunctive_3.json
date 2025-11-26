@@ -5,6 +5,8 @@
     {
       "numero": 51,
       "infinitivo": "permitir",
+      "tipo": "-ir",
+      "traducao": "permitir",
       "conjugaciones": {
         "yo": {
           "forma": "permita"
@@ -29,6 +31,8 @@
     {
       "numero": 52,
       "infinitivo": "aparecer",
+      "tipo": "-er",
+      "traducao": "aparecer",
       "conjugaciones": {
         "yo": {
           "forma": "aparezca"
@@ -53,6 +57,8 @@
     {
       "numero": 53,
       "infinitivo": "conseguir",
+      "tipo": "-ir",
+      "traducao": "conseguir",
       "conjugaciones": {
         "yo": {
           "forma": "consiga"
@@ -77,6 +83,8 @@
     {
       "numero": 54,
       "infinitivo": "explicar",
+      "tipo": "-ar",
+      "traducao": "explicar",
       "conjugaciones": {
         "yo": {
           "forma": "explique"
@@ -101,6 +109,8 @@
     {
       "numero": 55,
       "infinitivo": "tocar",
+      "tipo": "-ar",
+      "traducao": "tocar",
       "conjugaciones": {
         "yo": {
           "forma": "toque"
@@ -125,6 +135,8 @@
     {
       "numero": 56,
       "infinitivo": "reconocer",
+      "tipo": "-er",
+      "traducao": "reconhecer",
       "conjugaciones": {
         "yo": {
           "forma": "reconozca"
@@ -149,6 +161,8 @@
     {
       "numero": 57,
       "infinitivo": "estudiar",
+      "tipo": "-ar",
+      "traducao": "estudar",
       "conjugaciones": {
         "yo": {
           "forma": "estudie"
@@ -173,6 +187,8 @@
     {
       "numero": 58,
       "infinitivo": "alcanzar",
+      "tipo": "-ar",
+      "traducao": "alcançar",
       "conjugaciones": {
         "yo": {
           "forma": "alcance"
@@ -197,6 +213,8 @@
     {
       "numero": 59,
       "infinitivo": "nacer",
+      "tipo": "-er",
+      "traducao": "nascer",
       "conjugaciones": {
         "yo": {
           "forma": "nazca"
@@ -221,6 +239,8 @@
     {
       "numero": 60,
       "infinitivo": "dirigir",
+      "tipo": "-ir",
+      "traducao": "dirigir",
       "conjugaciones": {
         "yo": {
           "forma": "dirija"
@@ -245,6 +265,8 @@
     {
       "numero": 61,
       "infinitivo": "correr",
+      "tipo": "-er",
+      "traducao": "correr",
       "conjugaciones": {
         "yo": {
           "forma": "corra"
@@ -269,6 +291,8 @@
     {
       "numero": 62,
       "infinitivo": "utilizar",
+      "tipo": "-ar",
+      "traducao": "utilizar",
       "conjugaciones": {
         "yo": {
           "forma": "utilice"
@@ -293,6 +317,8 @@
     {
       "numero": 63,
       "infinitivo": "mostrar",
+      "tipo": "-ar",
+      "traducao": "mostrar",
       "conjugaciones": {
         "yo": {
           "forma": "muestre"
@@ -317,6 +343,8 @@
     {
       "numero": 64,
       "infinitivo": "caer",
+      "tipo": "-er",
+      "traducao": "cair",
       "conjugaciones": {
         "yo": {
           "forma": "caiga"
@@ -341,6 +369,8 @@
     {
       "numero": 65,
       "infinitivo": "crear",
+      "tipo": "-ar",
+      "traducao": "criar",
       "conjugaciones": {
         "yo": {
           "forma": "cree"
@@ -365,6 +395,8 @@
     {
       "numero": 66,
       "infinitivo": "abrir",
+      "tipo": "-ir",
+      "traducao": "abrir",
       "conjugaciones": {
         "yo": {
           "forma": "abra"
@@ -389,6 +421,8 @@
     {
       "numero": 67,
       "infinitivo": "comenzar",
+      "tipo": "-ar",
+      "traducao": "começar",
       "conjugaciones": {
         "yo": {
           "forma": "comience"
@@ -413,6 +447,8 @@
     {
       "numero": 68,
       "infinitivo": "perder",
+      "tipo": "-er",
+      "traducao": "perder",
       "conjugaciones": {
         "yo": {
           "forma": "pierda"
@@ -437,6 +473,8 @@
     {
       "numero": 69,
       "infinitivo": "ofrecer",
+      "tipo": "-er",
+      "traducao": "oferecer",
       "conjugaciones": {
         "yo": {
           "forma": "ofrezca"
@@ -461,6 +499,8 @@
     {
       "numero": 70,
       "infinitivo": "aplicar",
+      "tipo": "-ar",
+      "traducao": "aplicar",
       "conjugaciones": {
         "yo": {
           "forma": "aplique"
@@ -485,6 +525,8 @@
     {
       "numero": 71,
       "infinitivo": "realizar",
+      "tipo": "-ar",
+      "traducao": "realizar",
       "conjugaciones": {
         "yo": {
           "forma": "realice"
@@ -509,6 +551,8 @@
     {
       "numero": 72,
       "infinitivo": "suponer",
+      "tipo": "-er",
+      "traducao": "supor",
       "conjugaciones": {
         "yo": {
           "forma": "suponga"
@@ -533,6 +577,8 @@
     {
       "numero": 73,
       "infinitivo": "compartir",
+      "tipo": "-ir",
+      "traducao": "compartilhar",
       "conjugaciones": {
         "yo": {
           "forma": "comparta"
@@ -557,6 +603,8 @@
     {
       "numero": 74,
       "infinitivo": "leer",
+      "tipo": "-er",
+      "traducao": "ler",
       "conjugaciones": {
         "yo": {
           "forma": "lea"
@@ -581,6 +629,8 @@
     {
       "numero": 75,
       "infinitivo": "escuchar",
+      "tipo": "-ar",
+      "traducao": "escutar",
       "conjugaciones": {
         "yo": {
           "forma": "escuche"
