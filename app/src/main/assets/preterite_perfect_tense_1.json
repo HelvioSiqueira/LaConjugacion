@@ -8,12 +8,30 @@
       "infinitivo": "ser",
       "participio": "sido",
       "conjugaciones": {
-        "yo": "he sido",
-        "tú": "has sido",
-        "él/ella/usted": "ha sido",
-        "nosotros/nosotras": "hemos sido",
-        "vosotros/vosotras": "habéis sido",
-        "ellos/ellas/ustedes": "han sido"
+        "yo": {
+          "forma": "he sido",
+          "ejemplo": "Yo he sido recientemente."
+        },
+        "tú": {
+          "forma": "has sido",
+          "ejemplo": "Tú has sido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha sido",
+          "ejemplo": "Él/ella/usted ha sido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos sido",
+          "ejemplo": "Nosotros/nosotras hemos sido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis sido",
+          "ejemplo": "Vosotros/vosotras habéis sido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han sido",
+          "ejemplo": "Ellos/ellas/ustedes han sido recientemente."
+        }
       }
     },
     {
@@ -21,12 +39,30 @@
       "infinitivo": "estar",
       "participio": "estado",
       "conjugaciones": {
-        "yo": "he estado",
-        "tú": "has estado",
-        "él/ella/usted": "ha estado",
-        "nosotros/nosotras": "hemos estado",
-        "vosotros/vosotras": "habéis estado",
-        "ellos/ellas/ustedes": "han estado"
+        "yo": {
+          "forma": "he estado",
+          "ejemplo": "Yo he estado recientemente."
+        },
+        "tú": {
+          "forma": "has estado",
+          "ejemplo": "Tú has estado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha estado",
+          "ejemplo": "Él/ella/usted ha estado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos estado",
+          "ejemplo": "Nosotros/nosotras hemos estado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis estado",
+          "ejemplo": "Vosotros/vosotras habéis estado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han estado",
+          "ejemplo": "Ellos/ellas/ustedes han estado recientemente."
+        }
       }
     },
     {
@@ -34,12 +70,30 @@
       "infinitivo": "haber",
       "participio": "habido",
       "conjugaciones": {
-        "yo": "he habido",
-        "tú": "has habido",
-        "él/ella/usted": "ha habido",
-        "nosotros/nosotras": "hemos habido",
-        "vosotros/vosotras": "habéis habido",
-        "ellos/ellas/ustedes": "han habido"
+        "yo": {
+          "forma": "he habido",
+          "ejemplo": "Yo he habido recientemente."
+        },
+        "tú": {
+          "forma": "has habido",
+          "ejemplo": "Tú has habido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha habido",
+          "ejemplo": "Él/ella/usted ha habido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos habido",
+          "ejemplo": "Nosotros/nosotras hemos habido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis habido",
+          "ejemplo": "Vosotros/vosotras habéis habido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han habido",
+          "ejemplo": "Ellos/ellas/ustedes han habido recientemente."
+        }
       }
     },
     {
@@ -47,12 +101,30 @@
       "infinitivo": "tener",
       "participio": "tenido",
       "conjugaciones": {
-        "yo": "he tenido",
-        "tú": "has tenido",
-        "él/ella/usted": "ha tenido",
-        "nosotros/nosotras": "hemos tenido",
-        "vosotros/vosotras": "habéis tenido",
-        "ellos/ellas/ustedes": "han tenido"
+        "yo": {
+          "forma": "he tenido",
+          "ejemplo": "Yo he tenido recientemente."
+        },
+        "tú": {
+          "forma": "has tenido",
+          "ejemplo": "Tú has tenido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha tenido",
+          "ejemplo": "Él/ella/usted ha tenido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos tenido",
+          "ejemplo": "Nosotros/nosotras hemos tenido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis tenido",
+          "ejemplo": "Vosotros/vosotras habéis tenido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han tenido",
+          "ejemplo": "Ellos/ellas/ustedes han tenido recientemente."
+        }
       }
     },
     {
@@ -60,12 +132,30 @@
       "infinitivo": "hacer",
       "participio": "hecho",
       "conjugaciones": {
-        "yo": "he hecho",
-        "tú": "has hecho",
-        "él/ella/usted": "ha hecho",
-        "nosotros/nosotras": "hemos hecho",
-        "vosotros/vosotras": "habéis hecho",
-        "ellos/ellas/ustedes": "han hecho"
+        "yo": {
+          "forma": "he hecho",
+          "ejemplo": "Yo he hecho recientemente."
+        },
+        "tú": {
+          "forma": "has hecho",
+          "ejemplo": "Tú has hecho recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha hecho",
+          "ejemplo": "Él/ella/usted ha hecho recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos hecho",
+          "ejemplo": "Nosotros/nosotras hemos hecho recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis hecho",
+          "ejemplo": "Vosotros/vosotras habéis hecho recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han hecho",
+          "ejemplo": "Ellos/ellas/ustedes han hecho recientemente."
+        }
       }
     },
     {
@@ -73,12 +163,30 @@
       "infinitivo": "poder",
       "participio": "podido",
       "conjugaciones": {
-        "yo": "he podido",
-        "tú": "has podido",
-        "él/ella/usted": "ha podido",
-        "nosotros/nosotras": "hemos podido",
-        "vosotros/vosotras": "habéis podido",
-        "ellos/ellas/ustedes": "han podido"
+        "yo": {
+          "forma": "he podido",
+          "ejemplo": "Yo he podido recientemente."
+        },
+        "tú": {
+          "forma": "has podido",
+          "ejemplo": "Tú has podido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha podido",
+          "ejemplo": "Él/ella/usted ha podido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos podido",
+          "ejemplo": "Nosotros/nosotras hemos podido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis podido",
+          "ejemplo": "Vosotros/vosotras habéis podido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han podido",
+          "ejemplo": "Ellos/ellas/ustedes han podido recientemente."
+        }
       }
     },
     {
@@ -86,12 +194,30 @@
       "infinitivo": "decir",
       "participio": "dicho",
       "conjugaciones": {
-        "yo": "he dicho",
-        "tú": "has dicho",
-        "él/ella/usted": "ha dicho",
-        "nosotros/nosotras": "hemos dicho",
-        "vosotros/vosotras": "habéis dicho",
-        "ellos/ellas/ustedes": "han dicho"
+        "yo": {
+          "forma": "he dicho",
+          "ejemplo": "Yo he dicho recientemente."
+        },
+        "tú": {
+          "forma": "has dicho",
+          "ejemplo": "Tú has dicho recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha dicho",
+          "ejemplo": "Él/ella/usted ha dicho recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos dicho",
+          "ejemplo": "Nosotros/nosotras hemos dicho recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis dicho",
+          "ejemplo": "Vosotros/vosotras habéis dicho recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han dicho",
+          "ejemplo": "Ellos/ellas/ustedes han dicho recientemente."
+        }
       }
     },
     {
@@ -99,12 +225,30 @@
       "infinitivo": "ir",
       "participio": "ido",
       "conjugaciones": {
-        "yo": "he ido",
-        "tú": "has ido",
-        "él/ella/usted": "ha ido",
-        "nosotros/nosotras": "hemos ido",
-        "vosotros/vosotras": "habéis ido",
-        "ellos/ellas/ustedes": "han ido"
+        "yo": {
+          "forma": "he ido",
+          "ejemplo": "Yo he ido recientemente."
+        },
+        "tú": {
+          "forma": "has ido",
+          "ejemplo": "Tú has ido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha ido",
+          "ejemplo": "Él/ella/usted ha ido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos ido",
+          "ejemplo": "Nosotros/nosotras hemos ido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis ido",
+          "ejemplo": "Vosotros/vosotras habéis ido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han ido",
+          "ejemplo": "Ellos/ellas/ustedes han ido recientemente."
+        }
       }
     },
     {
@@ -112,12 +256,30 @@
       "infinitivo": "ver",
       "participio": "visto",
       "conjugaciones": {
-        "yo": "he visto",
-        "tú": "has visto",
-        "él/ella/usted": "ha visto",
-        "nosotros/nosotras": "hemos visto",
-        "vosotros/vosotras": "habéis visto",
-        "ellos/ellas/ustedes": "han visto"
+        "yo": {
+          "forma": "he visto",
+          "ejemplo": "Yo he visto recientemente."
+        },
+        "tú": {
+          "forma": "has visto",
+          "ejemplo": "Tú has visto recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha visto",
+          "ejemplo": "Él/ella/usted ha visto recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos visto",
+          "ejemplo": "Nosotros/nosotras hemos visto recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis visto",
+          "ejemplo": "Vosotros/vosotras habéis visto recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han visto",
+          "ejemplo": "Ellos/ellas/ustedes han visto recientemente."
+        }
       }
     },
     {
@@ -125,12 +287,30 @@
       "infinitivo": "dar",
       "participio": "dado",
       "conjugaciones": {
-        "yo": "he dado",
-        "tú": "has dado",
-        "él/ella/usted": "ha dado",
-        "nosotros/nosotras": "hemos dado",
-        "vosotros/vosotras": "habéis dado",
-        "ellos/ellas/ustedes": "han dado"
+        "yo": {
+          "forma": "he dado",
+          "ejemplo": "Yo he dado recientemente."
+        },
+        "tú": {
+          "forma": "has dado",
+          "ejemplo": "Tú has dado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha dado",
+          "ejemplo": "Él/ella/usted ha dado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos dado",
+          "ejemplo": "Nosotros/nosotras hemos dado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis dado",
+          "ejemplo": "Vosotros/vosotras habéis dado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han dado",
+          "ejemplo": "Ellos/ellas/ustedes han dado recientemente."
+        }
       }
     },
     {
@@ -138,12 +318,30 @@
       "infinitivo": "saber",
       "participio": "sabido",
       "conjugaciones": {
-        "yo": "he sabido",
-        "tú": "has sabido",
-        "él/ella/usted": "ha sabido",
-        "nosotros/nosotras": "hemos sabido",
-        "vosotros/vosotras": "habéis sabido",
-        "ellos/ellas/ustedes": "han sabido"
+        "yo": {
+          "forma": "he sabido",
+          "ejemplo": "Yo he sabido recientemente."
+        },
+        "tú": {
+          "forma": "has sabido",
+          "ejemplo": "Tú has sabido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha sabido",
+          "ejemplo": "Él/ella/usted ha sabido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos sabido",
+          "ejemplo": "Nosotros/nosotras hemos sabido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis sabido",
+          "ejemplo": "Vosotros/vosotras habéis sabido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han sabido",
+          "ejemplo": "Ellos/ellas/ustedes han sabido recientemente."
+        }
       }
     },
     {
@@ -151,12 +349,30 @@
       "infinitivo": "querer",
       "participio": "querido",
       "conjugaciones": {
-        "yo": "he querido",
-        "tú": "has querido",
-        "él/ella/usted": "ha querido",
-        "nosotros/nosotras": "hemos querido",
-        "vosotros/vosotras": "habéis querido",
-        "ellos/ellas/ustedes": "han querido"
+        "yo": {
+          "forma": "he querido",
+          "ejemplo": "Yo he querido recientemente."
+        },
+        "tú": {
+          "forma": "has querido",
+          "ejemplo": "Tú has querido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha querido",
+          "ejemplo": "Él/ella/usted ha querido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos querido",
+          "ejemplo": "Nosotros/nosotras hemos querido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis querido",
+          "ejemplo": "Vosotros/vosotras habéis querido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han querido",
+          "ejemplo": "Ellos/ellas/ustedes han querido recientemente."
+        }
       }
     },
     {
@@ -164,12 +380,30 @@
       "infinitivo": "llegar",
       "participio": "llegado",
       "conjugaciones": {
-        "yo": "he llegado",
-        "tú": "has llegado",
-        "él/ella/usted": "ha llegado",
-        "nosotros/nosotras": "hemos llegado",
-        "vosotros/vosotras": "habéis llegado",
-        "ellos/ellas/ustedes": "han llegado"
+        "yo": {
+          "forma": "he llegado",
+          "ejemplo": "Yo he llegado recientemente."
+        },
+        "tú": {
+          "forma": "has llegado",
+          "ejemplo": "Tú has llegado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha llegado",
+          "ejemplo": "Él/ella/usted ha llegado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos llegado",
+          "ejemplo": "Nosotros/nosotras hemos llegado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis llegado",
+          "ejemplo": "Vosotros/vosotras habéis llegado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han llegado",
+          "ejemplo": "Ellos/ellas/ustedes han llegado recientemente."
+        }
       }
     },
     {
@@ -177,12 +411,30 @@
       "infinitivo": "pasar",
       "participio": "pasado",
       "conjugaciones": {
-        "yo": "he pasado",
-        "tú": "has pasado",
-        "él/ella/usted": "ha pasado",
-        "nosotros/nosotras": "hemos pasado",
-        "vosotros/vosotras": "habéis pasado",
-        "ellos/ellas/ustedes": "han pasado"
+        "yo": {
+          "forma": "he pasado",
+          "ejemplo": "Yo he pasado recientemente."
+        },
+        "tú": {
+          "forma": "has pasado",
+          "ejemplo": "Tú has pasado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha pasado",
+          "ejemplo": "Él/ella/usted ha pasado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos pasado",
+          "ejemplo": "Nosotros/nosotras hemos pasado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis pasado",
+          "ejemplo": "Vosotros/vosotras habéis pasado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han pasado",
+          "ejemplo": "Ellos/ellas/ustedes han pasado recientemente."
+        }
       }
     },
     {
@@ -190,12 +442,30 @@
       "infinitivo": "deber",
       "participio": "debido",
       "conjugaciones": {
-        "yo": "he debido",
-        "tú": "has debido",
-        "él/ella/usted": "ha debido",
-        "nosotros/nosotras": "hemos debido",
-        "vosotros/vosotras": "habéis debido",
-        "ellos/ellas/ustedes": "han debido"
+        "yo": {
+          "forma": "he debido",
+          "ejemplo": "Yo he debido recientemente."
+        },
+        "tú": {
+          "forma": "has debido",
+          "ejemplo": "Tú has debido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha debido",
+          "ejemplo": "Él/ella/usted ha debido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos debido",
+          "ejemplo": "Nosotros/nosotras hemos debido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis debido",
+          "ejemplo": "Vosotros/vosotras habéis debido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han debido",
+          "ejemplo": "Ellos/ellas/ustedes han debido recientemente."
+        }
       }
     },
     {
@@ -203,12 +473,30 @@
       "infinitivo": "poner",
       "participio": "puesto",
       "conjugaciones": {
-        "yo": "he puesto",
-        "tú": "has puesto",
-        "él/ella/usted": "ha puesto",
-        "nosotros/nosotras": "hemos puesto",
-        "vosotros/vosotras": "habéis puesto",
-        "ellos/ellas/ustedes": "han puesto"
+        "yo": {
+          "forma": "he puesto",
+          "ejemplo": "Yo he puesto recientemente."
+        },
+        "tú": {
+          "forma": "has puesto",
+          "ejemplo": "Tú has puesto recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha puesto",
+          "ejemplo": "Él/ella/usted ha puesto recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos puesto",
+          "ejemplo": "Nosotros/nosotras hemos puesto recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis puesto",
+          "ejemplo": "Vosotros/vosotras habéis puesto recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han puesto",
+          "ejemplo": "Ellos/ellas/ustedes han puesto recientemente."
+        }
       }
     },
     {
@@ -216,12 +504,30 @@
       "infinitivo": "parecer",
       "participio": "parecido",
       "conjugaciones": {
-        "yo": "he parecido",
-        "tú": "has parecido",
-        "él/ella/usted": "ha parecido",
-        "nosotros/nosotras": "hemos parecido",
-        "vosotros/vosotras": "habéis parecido",
-        "ellos/ellas/ustedes": "han parecido"
+        "yo": {
+          "forma": "he parecido",
+          "ejemplo": "Yo he parecido recientemente."
+        },
+        "tú": {
+          "forma": "has parecido",
+          "ejemplo": "Tú has parecido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha parecido",
+          "ejemplo": "Él/ella/usted ha parecido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos parecido",
+          "ejemplo": "Nosotros/nosotras hemos parecido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis parecido",
+          "ejemplo": "Vosotros/vosotras habéis parecido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han parecido",
+          "ejemplo": "Ellos/ellas/ustedes han parecido recientemente."
+        }
       }
     },
     {
@@ -229,12 +535,30 @@
       "infinitivo": "quedar",
       "participio": "quedado",
       "conjugaciones": {
-        "yo": "he quedado",
-        "tú": "has quedado",
-        "él/ella/usted": "ha quedado",
-        "nosotros/nosotras": "hemos quedado",
-        "vosotros/vosotras": "habéis quedado",
-        "ellos/ellas/ustedes": "han quedado"
+        "yo": {
+          "forma": "he quedado",
+          "ejemplo": "Yo he quedado recientemente."
+        },
+        "tú": {
+          "forma": "has quedado",
+          "ejemplo": "Tú has quedado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha quedado",
+          "ejemplo": "Él/ella/usted ha quedado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos quedado",
+          "ejemplo": "Nosotros/nosotras hemos quedado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis quedado",
+          "ejemplo": "Vosotros/vosotras habéis quedado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han quedado",
+          "ejemplo": "Ellos/ellas/ustedes han quedado recientemente."
+        }
       }
     },
     {
@@ -242,12 +566,30 @@
       "infinitivo": "creer",
       "participio": "creído",
       "conjugaciones": {
-        "yo": "he creído",
-        "tú": "has creído",
-        "él/ella/usted": "ha creído",
-        "nosotros/nosotras": "hemos creído",
-        "vosotros/vosotras": "habéis creído",
-        "ellos/ellas/ustedes": "han creído"
+        "yo": {
+          "forma": "he creído",
+          "ejemplo": "Yo he creído recientemente."
+        },
+        "tú": {
+          "forma": "has creído",
+          "ejemplo": "Tú has creído recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha creído",
+          "ejemplo": "Él/ella/usted ha creído recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos creído",
+          "ejemplo": "Nosotros/nosotras hemos creído recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis creído",
+          "ejemplo": "Vosotros/vosotras habéis creído recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han creído",
+          "ejemplo": "Ellos/ellas/ustedes han creído recientemente."
+        }
       }
     },
     {
@@ -255,12 +597,30 @@
       "infinitivo": "hablar",
       "participio": "hablado",
       "conjugaciones": {
-        "yo": "he hablado",
-        "tú": "has hablado",
-        "él/ella/usted": "ha hablado",
-        "nosotros/nosotras": "hemos hablado",
-        "vosotros/vosotras": "habéis hablado",
-        "ellos/ellas/ustedes": "han hablado"
+        "yo": {
+          "forma": "he hablado",
+          "ejemplo": "Yo he hablado recientemente."
+        },
+        "tú": {
+          "forma": "has hablado",
+          "ejemplo": "Tú has hablado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha hablado",
+          "ejemplo": "Él/ella/usted ha hablado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos hablado",
+          "ejemplo": "Nosotros/nosotras hemos hablado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis hablado",
+          "ejemplo": "Vosotros/vosotras habéis hablado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han hablado",
+          "ejemplo": "Ellos/ellas/ustedes han hablado recientemente."
+        }
       }
     },
     {
@@ -268,12 +628,30 @@
       "infinitivo": "llevar",
       "participio": "llevado",
       "conjugaciones": {
-        "yo": "he llevado",
-        "tú": "has llevado",
-        "él/ella/usted": "ha llevado",
-        "nosotros/nosotras": "hemos llevado",
-        "vosotros/vosotras": "habéis llevado",
-        "ellos/ellas/ustedes": "han llevado"
+        "yo": {
+          "forma": "he llevado",
+          "ejemplo": "Yo he llevado recientemente."
+        },
+        "tú": {
+          "forma": "has llevado",
+          "ejemplo": "Tú has llevado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha llevado",
+          "ejemplo": "Él/ella/usted ha llevado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos llevado",
+          "ejemplo": "Nosotros/nosotras hemos llevado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis llevado",
+          "ejemplo": "Vosotros/vosotras habéis llevado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han llevado",
+          "ejemplo": "Ellos/ellas/ustedes han llevado recientemente."
+        }
       }
     },
     {
@@ -281,12 +659,30 @@
       "infinitivo": "dejar",
       "participio": "dejado",
       "conjugaciones": {
-        "yo": "he dejado",
-        "tú": "has dejado",
-        "él/ella/usted": "ha dejado",
-        "nosotros/nosotras": "hemos dejado",
-        "vosotros/vosotras": "habéis dejado",
-        "ellos/ellas/ustedes": "han dejado"
+        "yo": {
+          "forma": "he dejado",
+          "ejemplo": "Yo he dejado recientemente."
+        },
+        "tú": {
+          "forma": "has dejado",
+          "ejemplo": "Tú has dejado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha dejado",
+          "ejemplo": "Él/ella/usted ha dejado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos dejado",
+          "ejemplo": "Nosotros/nosotras hemos dejado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis dejado",
+          "ejemplo": "Vosotros/vosotras habéis dejado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han dejado",
+          "ejemplo": "Ellos/ellas/ustedes han dejado recientemente."
+        }
       }
     },
     {
@@ -294,12 +690,30 @@
       "infinitivo": "seguir",
       "participio": "seguido",
       "conjugaciones": {
-        "yo": "he seguido",
-        "tú": "has seguido",
-        "él/ella/usted": "ha seguido",
-        "nosotros/nosotras": "hemos seguido",
-        "vosotros/vosotras": "habéis seguido",
-        "ellos/ellas/ustedes": "han seguido"
+        "yo": {
+          "forma": "he seguido",
+          "ejemplo": "Yo he seguido recientemente."
+        },
+        "tú": {
+          "forma": "has seguido",
+          "ejemplo": "Tú has seguido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha seguido",
+          "ejemplo": "Él/ella/usted ha seguido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos seguido",
+          "ejemplo": "Nosotros/nosotras hemos seguido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis seguido",
+          "ejemplo": "Vosotros/vosotras habéis seguido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han seguido",
+          "ejemplo": "Ellos/ellas/ustedes han seguido recientemente."
+        }
       }
     },
     {
@@ -307,12 +721,30 @@
       "infinitivo": "encontrar",
       "participio": "encontrado",
       "conjugaciones": {
-        "yo": "he encontrado",
-        "tú": "has encontrado",
-        "él/ella/usted": "ha encontrado",
-        "nosotros/nosotras": "hemos encontrado",
-        "vosotros/vosotras": "habéis encontrado",
-        "ellos/ellas/ustedes": "han encontrado"
+        "yo": {
+          "forma": "he encontrado",
+          "ejemplo": "Yo he encontrado recientemente."
+        },
+        "tú": {
+          "forma": "has encontrado",
+          "ejemplo": "Tú has encontrado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha encontrado",
+          "ejemplo": "Él/ella/usted ha encontrado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos encontrado",
+          "ejemplo": "Nosotros/nosotras hemos encontrado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis encontrado",
+          "ejemplo": "Vosotros/vosotras habéis encontrado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han encontrado",
+          "ejemplo": "Ellos/ellas/ustedes han encontrado recientemente."
+        }
       }
     },
     {
@@ -320,12 +752,30 @@
       "infinitivo": "llamar",
       "participio": "llamado",
       "conjugaciones": {
-        "yo": "he llamado",
-        "tú": "has llamado",
-        "él/ella/usted": "ha llamado",
-        "nosotros/nosotras": "hemos llamado",
-        "vosotros/vosotras": "habéis llamado",
-        "ellos/ellas/ustedes": "han llamado"
+        "yo": {
+          "forma": "he llamado",
+          "ejemplo": "Yo he llamado recientemente."
+        },
+        "tú": {
+          "forma": "has llamado",
+          "ejemplo": "Tú has llamado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha llamado",
+          "ejemplo": "Él/ella/usted ha llamado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos llamado",
+          "ejemplo": "Nosotros/nosotras hemos llamado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis llamado",
+          "ejemplo": "Vosotros/vosotras habéis llamado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han llamado",
+          "ejemplo": "Ellos/ellas/ustedes han llamado recientemente."
+        }
       }
     },
     {
@@ -333,12 +783,30 @@
       "infinitivo": "venir",
       "participio": "venido",
       "conjugaciones": {
-        "yo": "he venido",
-        "tú": "has venido",
-        "él/ella/usted": "ha venido",
-        "nosotros/nosotras": "hemos venido",
-        "vosotros/vosotras": "habéis venido",
-        "ellos/ellas/ustedes": "han venido"
+        "yo": {
+          "forma": "he venido",
+          "ejemplo": "Yo he venido recientemente."
+        },
+        "tú": {
+          "forma": "has venido",
+          "ejemplo": "Tú has venido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha venido",
+          "ejemplo": "Él/ella/usted ha venido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos venido",
+          "ejemplo": "Nosotros/nosotras hemos venido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis venido",
+          "ejemplo": "Vosotros/vosotras habéis venido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han venido",
+          "ejemplo": "Ellos/ellas/ustedes han venido recientemente."
+        }
       }
     },
     {
@@ -346,12 +814,30 @@
       "infinitivo": "pensar",
       "participio": "pensado",
       "conjugaciones": {
-        "yo": "he pensado",
-        "tú": "has pensado",
-        "él/ella/usted": "ha pensado",
-        "nosotros/nosotras": "hemos pensado",
-        "vosotros/vosotras": "habéis pensado",
-        "ellos/ellas/ustedes": "han pensado"
+        "yo": {
+          "forma": "he pensado",
+          "ejemplo": "Yo he pensado recientemente."
+        },
+        "tú": {
+          "forma": "has pensado",
+          "ejemplo": "Tú has pensado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha pensado",
+          "ejemplo": "Él/ella/usted ha pensado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos pensado",
+          "ejemplo": "Nosotros/nosotras hemos pensado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis pensado",
+          "ejemplo": "Vosotros/vosotras habéis pensado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han pensado",
+          "ejemplo": "Ellos/ellas/ustedes han pensado recientemente."
+        }
       }
     },
     {
@@ -359,12 +845,30 @@
       "infinitivo": "salir",
       "participio": "salido",
       "conjugaciones": {
-        "yo": "he salido",
-        "tú": "has salido",
-        "él/ella/usted": "ha salido",
-        "nosotros/nosotras": "hemos salido",
-        "vosotros/vosotras": "habéis salido",
-        "ellos/ellas/ustedes": "han salido"
+        "yo": {
+          "forma": "he salido",
+          "ejemplo": "Yo he salido recientemente."
+        },
+        "tú": {
+          "forma": "has salido",
+          "ejemplo": "Tú has salido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha salido",
+          "ejemplo": "Él/ella/usted ha salido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos salido",
+          "ejemplo": "Nosotros/nosotras hemos salido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis salido",
+          "ejemplo": "Vosotros/vosotras habéis salido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han salido",
+          "ejemplo": "Ellos/ellas/ustedes han salido recientemente."
+        }
       }
     },
     {
@@ -372,12 +876,30 @@
       "infinitivo": "volver",
       "participio": "vuelto",
       "conjugaciones": {
-        "yo": "he vuelto",
-        "tú": "has vuelto",
-        "él/ella/usted": "ha vuelto",
-        "nosotros/nosotras": "hemos vuelto",
-        "vosotros/vosotras": "habéis vuelto",
-        "ellos/ellas/ustedes": "han vuelto"
+        "yo": {
+          "forma": "he vuelto",
+          "ejemplo": "Yo he vuelto recientemente."
+        },
+        "tú": {
+          "forma": "has vuelto",
+          "ejemplo": "Tú has vuelto recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha vuelto",
+          "ejemplo": "Él/ella/usted ha vuelto recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos vuelto",
+          "ejemplo": "Nosotros/nosotras hemos vuelto recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis vuelto",
+          "ejemplo": "Vosotros/vosotras habéis vuelto recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han vuelto",
+          "ejemplo": "Ellos/ellas/ustedes han vuelto recientemente."
+        }
       }
     },
     {
@@ -385,12 +907,30 @@
       "infinitivo": "tomar",
       "participio": "tomado",
       "conjugaciones": {
-        "yo": "he tomado",
-        "tú": "has tomado",
-        "él/ella/usted": "ha tomado",
-        "nosotros/nosotras": "hemos tomado",
-        "vosotros/vosotras": "habéis tomado",
-        "ellos/ellas/ustedes": "han tomado"
+        "yo": {
+          "forma": "he tomado",
+          "ejemplo": "Yo he tomado recientemente."
+        },
+        "tú": {
+          "forma": "has tomado",
+          "ejemplo": "Tú has tomado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha tomado",
+          "ejemplo": "Él/ella/usted ha tomado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos tomado",
+          "ejemplo": "Nosotros/nosotras hemos tomado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis tomado",
+          "ejemplo": "Vosotros/vosotras habéis tomado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han tomado",
+          "ejemplo": "Ellos/ellas/ustedes han tomado recientemente."
+        }
       }
     },
     {
@@ -398,12 +938,30 @@
       "infinitivo": "conocer",
       "participio": "conocido",
       "conjugaciones": {
-        "yo": "he conocido",
-        "tú": "has conocido",
-        "él/ella/usted": "ha conocido",
-        "nosotros/nosotras": "hemos conocido",
-        "vosotros/vosotras": "habéis conocido",
-        "ellos/ellas/ustedes": "han conocido"
+        "yo": {
+          "forma": "he conocido",
+          "ejemplo": "Yo he conocido recientemente."
+        },
+        "tú": {
+          "forma": "has conocido",
+          "ejemplo": "Tú has conocido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha conocido",
+          "ejemplo": "Él/ella/usted ha conocido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos conocido",
+          "ejemplo": "Nosotros/nosotras hemos conocido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis conocido",
+          "ejemplo": "Vosotros/vosotras habéis conocido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han conocido",
+          "ejemplo": "Ellos/ellas/ustedes han conocido recientemente."
+        }
       }
     },
     {
@@ -411,12 +969,30 @@
       "infinitivo": "vivir",
       "participio": "vivido",
       "conjugaciones": {
-        "yo": "he vivido",
-        "tú": "has vivido",
-        "él/ella/usted": "ha vivido",
-        "nosotros/nosotras": "hemos vivido",
-        "vosotros/vosotras": "habéis vivido",
-        "ellos/ellas/ustedes": "han vivido"
+        "yo": {
+          "forma": "he vivido",
+          "ejemplo": "Yo he vivido recientemente."
+        },
+        "tú": {
+          "forma": "has vivido",
+          "ejemplo": "Tú has vivido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha vivido",
+          "ejemplo": "Él/ella/usted ha vivido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos vivido",
+          "ejemplo": "Nosotros/nosotras hemos vivido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis vivido",
+          "ejemplo": "Vosotros/vosotras habéis vivido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han vivido",
+          "ejemplo": "Ellos/ellas/ustedes han vivido recientemente."
+        }
       }
     },
     {
@@ -424,12 +1000,30 @@
       "infinitivo": "sentir",
       "participio": "sentido",
       "conjugaciones": {
-        "yo": "he sentido",
-        "tú": "has sentido",
-        "él/ella/usted": "ha sentido",
-        "nosotros/nosotras": "hemos sentido",
-        "vosotros/vosotras": "habéis sentido",
-        "ellos/ellas/ustedes": "han sentido"
+        "yo": {
+          "forma": "he sentido",
+          "ejemplo": "Yo he sentido recientemente."
+        },
+        "tú": {
+          "forma": "has sentido",
+          "ejemplo": "Tú has sentido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha sentido",
+          "ejemplo": "Él/ella/usted ha sentido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos sentido",
+          "ejemplo": "Nosotros/nosotras hemos sentido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis sentido",
+          "ejemplo": "Vosotros/vosotras habéis sentido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han sentido",
+          "ejemplo": "Ellos/ellas/ustedes han sentido recientemente."
+        }
       }
     },
     {
@@ -437,12 +1031,30 @@
       "infinitivo": "tratar",
       "participio": "tratado",
       "conjugaciones": {
-        "yo": "he tratado",
-        "tú": "has tratado",
-        "él/ella/usted": "ha tratado",
-        "nosotros/nosotras": "hemos tratado",
-        "vosotros/vosotras": "habéis tratado",
-        "ellos/ellas/ustedes": "han tratado"
+        "yo": {
+          "forma": "he tratado",
+          "ejemplo": "Yo he tratado recientemente."
+        },
+        "tú": {
+          "forma": "has tratado",
+          "ejemplo": "Tú has tratado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha tratado",
+          "ejemplo": "Él/ella/usted ha tratado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos tratado",
+          "ejemplo": "Nosotros/nosotras hemos tratado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis tratado",
+          "ejemplo": "Vosotros/vosotras habéis tratado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han tratado",
+          "ejemplo": "Ellos/ellas/ustedes han tratado recientemente."
+        }
       }
     },
     {
@@ -450,12 +1062,30 @@
       "infinitivo": "mirar",
       "participio": "mirado",
       "conjugaciones": {
-        "yo": "he mirado",
-        "tú": "has mirado",
-        "él/ella/usted": "ha mirado",
-        "nosotros/nosotras": "hemos mirado",
-        "vosotros/vosotras": "habéis mirado",
-        "ellos/ellas/ustedes": "han mirado"
+        "yo": {
+          "forma": "he mirado",
+          "ejemplo": "Yo he mirado recientemente."
+        },
+        "tú": {
+          "forma": "has mirado",
+          "ejemplo": "Tú has mirado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha mirado",
+          "ejemplo": "Él/ella/usted ha mirado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos mirado",
+          "ejemplo": "Nosotros/nosotras hemos mirado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis mirado",
+          "ejemplo": "Vosotros/vosotras habéis mirado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han mirado",
+          "ejemplo": "Ellos/ellas/ustedes han mirado recientemente."
+        }
       }
     },
     {
@@ -463,12 +1093,30 @@
       "infinitivo": "contar",
       "participio": "contado",
       "conjugaciones": {
-        "yo": "he contado",
-        "tú": "has contado",
-        "él/ella/usted": "ha contado",
-        "nosotros/nosotras": "hemos contado",
-        "vosotros/vosotras": "habéis contado",
-        "ellos/ellas/ustedes": "han contado"
+        "yo": {
+          "forma": "he contado",
+          "ejemplo": "Yo he contado recientemente."
+        },
+        "tú": {
+          "forma": "has contado",
+          "ejemplo": "Tú has contado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha contado",
+          "ejemplo": "Él/ella/usted ha contado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos contado",
+          "ejemplo": "Nosotros/nosotras hemos contado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis contado",
+          "ejemplo": "Vosotros/vosotras habéis contado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han contado",
+          "ejemplo": "Ellos/ellas/ustedes han contado recientemente."
+        }
       }
     },
     {
@@ -476,12 +1124,30 @@
       "infinitivo": "empezar",
       "participio": "empezado",
       "conjugaciones": {
-        "yo": "he empezado",
-        "tú": "has empezado",
-        "él/ella/usted": "ha empezado",
-        "nosotros/nosotras": "hemos empezado",
-        "vosotros/vosotras": "habéis empezado",
-        "ellos/ellas/ustedes": "han empezado"
+        "yo": {
+          "forma": "he empezado",
+          "ejemplo": "Yo he empezado recientemente."
+        },
+        "tú": {
+          "forma": "has empezado",
+          "ejemplo": "Tú has empezado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha empezado",
+          "ejemplo": "Él/ella/usted ha empezado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos empezado",
+          "ejemplo": "Nosotros/nosotras hemos empezado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis empezado",
+          "ejemplo": "Vosotros/vosotras habéis empezado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han empezado",
+          "ejemplo": "Ellos/ellas/ustedes han empezado recientemente."
+        }
       }
     },
     {
@@ -489,12 +1155,30 @@
       "infinitivo": "esperar",
       "participio": "esperado",
       "conjugaciones": {
-        "yo": "he esperado",
-        "tú": "has esperado",
-        "él/ella/usted": "ha esperado",
-        "nosotros/nosotras": "hemos esperado",
-        "vosotros/vosotras": "habéis esperado",
-        "ellos/ellas/ustedes": "han esperado"
+        "yo": {
+          "forma": "he esperado",
+          "ejemplo": "Yo he esperado recientemente."
+        },
+        "tú": {
+          "forma": "has esperado",
+          "ejemplo": "Tú has esperado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha esperado",
+          "ejemplo": "Él/ella/usted ha esperado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos esperado",
+          "ejemplo": "Nosotros/nosotras hemos esperado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis esperado",
+          "ejemplo": "Vosotros/vosotras habéis esperado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han esperado",
+          "ejemplo": "Ellos/ellas/ustedes han esperado recientemente."
+        }
       }
     },
     {
@@ -502,12 +1186,30 @@
       "infinitivo": "buscar",
       "participio": "buscado",
       "conjugaciones": {
-        "yo": "he buscado",
-        "tú": "has buscado",
-        "él/ella/usted": "ha buscado",
-        "nosotros/nosotras": "hemos buscado",
-        "vosotros/vosotras": "habéis buscado",
-        "ellos/ellas/ustedes": "han buscado"
+        "yo": {
+          "forma": "he buscado",
+          "ejemplo": "Yo he buscado recientemente."
+        },
+        "tú": {
+          "forma": "has buscado",
+          "ejemplo": "Tú has buscado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha buscado",
+          "ejemplo": "Él/ella/usted ha buscado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos buscado",
+          "ejemplo": "Nosotros/nosotras hemos buscado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis buscado",
+          "ejemplo": "Vosotros/vosotras habéis buscado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han buscado",
+          "ejemplo": "Ellos/ellas/ustedes han buscado recientemente."
+        }
       }
     },
     {
@@ -515,12 +1217,30 @@
       "infinitivo": "existir",
       "participio": "existido",
       "conjugaciones": {
-        "yo": "he existido",
-        "tú": "has existido",
-        "él/ella/usted": "ha existido",
-        "nosotros/nosotras": "hemos existido",
-        "vosotros/vosotras": "habéis existido",
-        "ellos/ellas/ustedes": "han existido"
+        "yo": {
+          "forma": "he existido",
+          "ejemplo": "Yo he existido recientemente."
+        },
+        "tú": {
+          "forma": "has existido",
+          "ejemplo": "Tú has existido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha existido",
+          "ejemplo": "Él/ella/usted ha existido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos existido",
+          "ejemplo": "Nosotros/nosotras hemos existido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis existido",
+          "ejemplo": "Vosotros/vosotras habéis existido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han existido",
+          "ejemplo": "Ellos/ellas/ustedes han existido recientemente."
+        }
       }
     },
     {
@@ -528,12 +1248,30 @@
       "infinitivo": "entrar",
       "participio": "entrado",
       "conjugaciones": {
-        "yo": "he entrado",
-        "tú": "has entrado",
-        "él/ella/usted": "ha entrado",
-        "nosotros/nosotras": "hemos entrado",
-        "vosotros/vosotras": "habéis entrado",
-        "ellos/ellas/ustedes": "han entrado"
+        "yo": {
+          "forma": "he entrado",
+          "ejemplo": "Yo he entrado recientemente."
+        },
+        "tú": {
+          "forma": "has entrado",
+          "ejemplo": "Tú has entrado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha entrado",
+          "ejemplo": "Él/ella/usted ha entrado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos entrado",
+          "ejemplo": "Nosotros/nosotras hemos entrado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis entrado",
+          "ejemplo": "Vosotros/vosotras habéis entrado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han entrado",
+          "ejemplo": "Ellos/ellas/ustedes han entrado recientemente."
+        }
       }
     },
     {
@@ -541,12 +1279,30 @@
       "infinitivo": "trabajar",
       "participio": "trabajado",
       "conjugaciones": {
-        "yo": "he trabajado",
-        "tú": "has trabajado",
-        "él/ella/usted": "ha trabajado",
-        "nosotros/nosotras": "hemos trabajado",
-        "vosotros/vosotras": "habéis trabajado",
-        "ellos/ellas/ustedes": "han trabajado"
+        "yo": {
+          "forma": "he trabajado",
+          "ejemplo": "Yo he trabajado recientemente."
+        },
+        "tú": {
+          "forma": "has trabajado",
+          "ejemplo": "Tú has trabajado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha trabajado",
+          "ejemplo": "Él/ella/usted ha trabajado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos trabajado",
+          "ejemplo": "Nosotros/nosotras hemos trabajado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis trabajado",
+          "ejemplo": "Vosotros/vosotras habéis trabajado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han trabajado",
+          "ejemplo": "Ellos/ellas/ustedes han trabajado recientemente."
+        }
       }
     },
     {
@@ -554,12 +1310,30 @@
       "infinitivo": "escribir",
       "participio": "escrito",
       "conjugaciones": {
-        "yo": "he escrito",
-        "tú": "has escrito",
-        "él/ella/usted": "ha escrito",
-        "nosotros/nosotras": "hemos escrito",
-        "vosotros/vosotras": "habéis escrito",
-        "ellos/ellas/ustedes": "han escrito"
+        "yo": {
+          "forma": "he escrito",
+          "ejemplo": "Yo he escrito recientemente."
+        },
+        "tú": {
+          "forma": "has escrito",
+          "ejemplo": "Tú has escrito recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha escrito",
+          "ejemplo": "Él/ella/usted ha escrito recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos escrito",
+          "ejemplo": "Nosotros/nosotras hemos escrito recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis escrito",
+          "ejemplo": "Vosotros/vosotras habéis escrito recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han escrito",
+          "ejemplo": "Ellos/ellas/ustedes han escrito recientemente."
+        }
       }
     },
     {
@@ -567,12 +1341,30 @@
       "infinitivo": "producir",
       "participio": "producido",
       "conjugaciones": {
-        "yo": "he producido",
-        "tú": "has producido",
-        "él/ella/usted": "ha producido",
-        "nosotros/nosotras": "hemos producido",
-        "vosotros/vosotras": "habéis producido",
-        "ellos/ellas/ustedes": "han producido"
+        "yo": {
+          "forma": "he producido",
+          "ejemplo": "Yo he producido recientemente."
+        },
+        "tú": {
+          "forma": "has producido",
+          "ejemplo": "Tú has producido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha producido",
+          "ejemplo": "Él/ella/usted ha producido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos producido",
+          "ejemplo": "Nosotros/nosotras hemos producido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis producido",
+          "ejemplo": "Vosotros/vosotras habéis producido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han producido",
+          "ejemplo": "Ellos/ellas/ustedes han producido recientemente."
+        }
       }
     },
     {
@@ -580,12 +1372,30 @@
       "infinitivo": "ocurrir",
       "participio": "ocurrido",
       "conjugaciones": {
-        "yo": "he ocurrido",
-        "tú": "has ocurrido",
-        "él/ella/usted": "ha ocurrido",
-        "nosotros/nosotras": "hemos ocurrido",
-        "vosotros/vosotras": "habéis ocurrido",
-        "ellos/ellas/ustedes": "han ocurrido"
+        "yo": {
+          "forma": "he ocurrido",
+          "ejemplo": "Yo he ocurrido recientemente."
+        },
+        "tú": {
+          "forma": "has ocurrido",
+          "ejemplo": "Tú has ocurrido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha ocurrido",
+          "ejemplo": "Él/ella/usted ha ocurrido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos ocurrido",
+          "ejemplo": "Nosotros/nosotras hemos ocurrido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis ocurrido",
+          "ejemplo": "Vosotros/vosotras habéis ocurrido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han ocurrido",
+          "ejemplo": "Ellos/ellas/ustedes han ocurrido recientemente."
+        }
       }
     },
     {
@@ -593,12 +1403,30 @@
       "infinitivo": "entender",
       "participio": "entendido",
       "conjugaciones": {
-        "yo": "he entendido",
-        "tú": "has entendido",
-        "él/ella/usted": "ha entendido",
-        "nosotros/nosotras": "hemos entendido",
-        "vosotros/vosotras": "habéis entendido",
-        "ellos/ellas/ustedes": "han entendido"
+        "yo": {
+          "forma": "he entendido",
+          "ejemplo": "Yo he entendido recientemente."
+        },
+        "tú": {
+          "forma": "has entendido",
+          "ejemplo": "Tú has entendido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha entendido",
+          "ejemplo": "Él/ella/usted ha entendido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos entendido",
+          "ejemplo": "Nosotros/nosotras hemos entendido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis entendido",
+          "ejemplo": "Vosotros/vosotras habéis entendido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han entendido",
+          "ejemplo": "Ellos/ellas/ustedes han entendido recientemente."
+        }
       }
     },
     {
@@ -606,12 +1434,30 @@
       "infinitivo": "pedir",
       "participio": "pedido",
       "conjugaciones": {
-        "yo": "he pedido",
-        "tú": "has pedido",
-        "él/ella/usted": "ha pedido",
-        "nosotros/nosotras": "hemos pedido",
-        "vosotros/vosotras": "habéis pedido",
-        "ellos/ellas/ustedes": "han pedido"
+        "yo": {
+          "forma": "he pedido",
+          "ejemplo": "Yo he pedido recientemente."
+        },
+        "tú": {
+          "forma": "has pedido",
+          "ejemplo": "Tú has pedido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha pedido",
+          "ejemplo": "Él/ella/usted ha pedido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos pedido",
+          "ejemplo": "Nosotros/nosotras hemos pedido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis pedido",
+          "ejemplo": "Vosotros/vosotras habéis pedido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han pedido",
+          "ejemplo": "Ellos/ellas/ustedes han pedido recientemente."
+        }
       }
     },
     {
@@ -619,12 +1465,30 @@
       "infinitivo": "recibir",
       "participio": "recibido",
       "conjugaciones": {
-        "yo": "he recibido",
-        "tú": "has recibido",
-        "él/ella/usted": "ha recibido",
-        "nosotros/nosotras": "hemos recibido",
-        "vosotros/vosotras": "habéis recibido",
-        "ellos/ellas/ustedes": "han recibido"
+        "yo": {
+          "forma": "he recibido",
+          "ejemplo": "Yo he recibido recientemente."
+        },
+        "tú": {
+          "forma": "has recibido",
+          "ejemplo": "Tú has recibido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha recibido",
+          "ejemplo": "Él/ella/usted ha recibido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos recibido",
+          "ejemplo": "Nosotros/nosotras hemos recibido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis recibido",
+          "ejemplo": "Vosotros/vosotras habéis recibido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han recibido",
+          "ejemplo": "Ellos/ellas/ustedes han recibido recientemente."
+        }
       }
     },
     {
@@ -632,12 +1496,30 @@
       "infinitivo": "recordar",
       "participio": "recordado",
       "conjugaciones": {
-        "yo": "he recordado",
-        "tú": "has recordado",
-        "él/ella/usted": "ha recordado",
-        "nosotros/nosotras": "hemos recordado",
-        "vosotros/vosotras": "habéis recordado",
-        "ellos/ellas/ustedes": "han recordado"
+        "yo": {
+          "forma": "he recordado",
+          "ejemplo": "Yo he recordado recientemente."
+        },
+        "tú": {
+          "forma": "has recordado",
+          "ejemplo": "Tú has recordado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha recordado",
+          "ejemplo": "Él/ella/usted ha recordado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos recordado",
+          "ejemplo": "Nosotros/nosotras hemos recordado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis recordado",
+          "ejemplo": "Vosotros/vosotras habéis recordado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han recordado",
+          "ejemplo": "Ellos/ellas/ustedes han recordado recientemente."
+        }
       }
     },
     {
@@ -645,12 +1527,30 @@
       "infinitivo": "terminar",
       "participio": "terminado",
       "conjugaciones": {
-        "yo": "he terminado",
-        "tú": "has terminado",
-        "él/ella/usted": "ha terminado",
-        "nosotros/nosotras": "hemos terminado",
-        "vosotros/vosotras": "habéis terminado",
-        "ellos/ellas/ustedes": "han terminado"
+        "yo": {
+          "forma": "he terminado",
+          "ejemplo": "Yo he terminado recientemente."
+        },
+        "tú": {
+          "forma": "has terminado",
+          "ejemplo": "Tú has terminado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha terminado",
+          "ejemplo": "Él/ella/usted ha terminado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos terminado",
+          "ejemplo": "Nosotros/nosotras hemos terminado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis terminado",
+          "ejemplo": "Vosotros/vosotras habéis terminado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han terminado",
+          "ejemplo": "Ellos/ellas/ustedes han terminado recientemente."
+        }
       }
     },
     {
@@ -658,12 +1558,30 @@
       "infinitivo": "permitir",
       "participio": "permitido",
       "conjugaciones": {
-        "yo": "he permitido",
-        "tú": "has permitido",
-        "él/ella/usted": "ha permitido",
-        "nosotros/nosotras": "hemos permitido",
-        "vosotros/vosotras": "habéis permitido",
-        "ellos/ellas/ustedes": "han permitido"
+        "yo": {
+          "forma": "he permitido",
+          "ejemplo": "Yo he permitido recientemente."
+        },
+        "tú": {
+          "forma": "has permitido",
+          "ejemplo": "Tú has permitido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha permitido",
+          "ejemplo": "Él/ella/usted ha permitido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos permitido",
+          "ejemplo": "Nosotros/nosotras hemos permitido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis permitido",
+          "ejemplo": "Vosotros/vosotras habéis permitido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han permitido",
+          "ejemplo": "Ellos/ellas/ustedes han permitido recientemente."
+        }
       }
     },
     {
@@ -671,12 +1589,30 @@
       "infinitivo": "aparecer",
       "participio": "aparecido",
       "conjugaciones": {
-        "yo": "he aparecido",
-        "tú": "has aparecido",
-        "él/ella/usted": "ha aparecido",
-        "nosotros/nosotras": "hemos aparecido",
-        "vosotros/vosotras": "habéis aparecido",
-        "ellos/ellas/ustedes": "han aparecido"
+        "yo": {
+          "forma": "he aparecido",
+          "ejemplo": "Yo he aparecido recientemente."
+        },
+        "tú": {
+          "forma": "has aparecido",
+          "ejemplo": "Tú has aparecido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha aparecido",
+          "ejemplo": "Él/ella/usted ha aparecido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos aparecido",
+          "ejemplo": "Nosotros/nosotras hemos aparecido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis aparecido",
+          "ejemplo": "Vosotros/vosotras habéis aparecido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han aparecido",
+          "ejemplo": "Ellos/ellas/ustedes han aparecido recientemente."
+        }
       }
     },
     {
@@ -684,12 +1620,30 @@
       "infinitivo": "conseguir",
       "participio": "conseguido",
       "conjugaciones": {
-        "yo": "he conseguido",
-        "tú": "has conseguido",
-        "él/ella/usted": "ha conseguido",
-        "nosotros/nosotras": "hemos conseguido",
-        "vosotros/vosotras": "habéis conseguido",
-        "ellos/ellas/ustedes": "han conseguido"
+        "yo": {
+          "forma": "he conseguido",
+          "ejemplo": "Yo he conseguido recientemente."
+        },
+        "tú": {
+          "forma": "has conseguido",
+          "ejemplo": "Tú has conseguido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha conseguido",
+          "ejemplo": "Él/ella/usted ha conseguido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos conseguido",
+          "ejemplo": "Nosotros/nosotras hemos conseguido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis conseguido",
+          "ejemplo": "Vosotros/vosotras habéis conseguido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han conseguido",
+          "ejemplo": "Ellos/ellas/ustedes han conseguido recientemente."
+        }
       }
     },
     {
@@ -697,12 +1651,30 @@
       "infinitivo": "explicar",
       "participio": "explicado",
       "conjugaciones": {
-        "yo": "he explicado",
-        "tú": "has explicado",
-        "él/ella/usted": "ha explicado",
-        "nosotros/nosotras": "hemos explicado",
-        "vosotros/vosotras": "habéis explicado",
-        "ellos/ellas/ustedes": "han explicado"
+        "yo": {
+          "forma": "he explicado",
+          "ejemplo": "Yo he explicado recientemente."
+        },
+        "tú": {
+          "forma": "has explicado",
+          "ejemplo": "Tú has explicado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha explicado",
+          "ejemplo": "Él/ella/usted ha explicado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos explicado",
+          "ejemplo": "Nosotros/nosotras hemos explicado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis explicado",
+          "ejemplo": "Vosotros/vosotras habéis explicado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han explicado",
+          "ejemplo": "Ellos/ellas/ustedes han explicado recientemente."
+        }
       }
     },
     {
@@ -710,12 +1682,30 @@
       "infinitivo": "tocar",
       "participio": "tocado",
       "conjugaciones": {
-        "yo": "he tocado",
-        "tú": "has tocado",
-        "él/ella/usted": "ha tocado",
-        "nosotros/nosotras": "hemos tocado",
-        "vosotros/vosotras": "habéis tocado",
-        "ellos/ellas/ustedes": "han tocado"
+        "yo": {
+          "forma": "he tocado",
+          "ejemplo": "Yo he tocado recientemente."
+        },
+        "tú": {
+          "forma": "has tocado",
+          "ejemplo": "Tú has tocado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha tocado",
+          "ejemplo": "Él/ella/usted ha tocado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos tocado",
+          "ejemplo": "Nosotros/nosotras hemos tocado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis tocado",
+          "ejemplo": "Vosotros/vosotras habéis tocado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han tocado",
+          "ejemplo": "Ellos/ellas/ustedes han tocado recientemente."
+        }
       }
     },
     {
@@ -723,12 +1713,30 @@
       "infinitivo": "reconocer",
       "participio": "reconocido",
       "conjugaciones": {
-        "yo": "he reconocido",
-        "tú": "has reconocido",
-        "él/ella/usted": "ha reconocido",
-        "nosotros/nosotras": "hemos reconocido",
-        "vosotros/vosotras": "habéis reconocido",
-        "ellos/ellas/ustedes": "han reconocido"
+        "yo": {
+          "forma": "he reconocido",
+          "ejemplo": "Yo he reconocido recientemente."
+        },
+        "tú": {
+          "forma": "has reconocido",
+          "ejemplo": "Tú has reconocido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha reconocido",
+          "ejemplo": "Él/ella/usted ha reconocido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos reconocido",
+          "ejemplo": "Nosotros/nosotras hemos reconocido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis reconocido",
+          "ejemplo": "Vosotros/vosotras habéis reconocido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han reconocido",
+          "ejemplo": "Ellos/ellas/ustedes han reconocido recientemente."
+        }
       }
     },
     {
@@ -736,12 +1744,30 @@
       "infinitivo": "estudiar",
       "participio": "estudiado",
       "conjugaciones": {
-        "yo": "he estudiado",
-        "tú": "has estudiado",
-        "él/ella/usted": "ha estudiado",
-        "nosotros/nosotras": "hemos estudiado",
-        "vosotros/vosotras": "habéis estudiado",
-        "ellos/ellas/ustedes": "han estudiado"
+        "yo": {
+          "forma": "he estudiado",
+          "ejemplo": "Yo he estudiado recientemente."
+        },
+        "tú": {
+          "forma": "has estudiado",
+          "ejemplo": "Tú has estudiado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha estudiado",
+          "ejemplo": "Él/ella/usted ha estudiado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos estudiado",
+          "ejemplo": "Nosotros/nosotras hemos estudiado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis estudiado",
+          "ejemplo": "Vosotros/vosotras habéis estudiado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han estudiado",
+          "ejemplo": "Ellos/ellas/ustedes han estudiado recientemente."
+        }
       }
     },
     {
@@ -749,12 +1775,30 @@
       "infinitivo": "alcanzar",
       "participio": "alcanzado",
       "conjugaciones": {
-        "yo": "he alcanzado",
-        "tú": "has alcanzado",
-        "él/ella/usted": "ha alcanzado",
-        "nosotros/nosotras": "hemos alcanzado",
-        "vosotros/vosotras": "habéis alcanzado",
-        "ellos/ellas/ustedes": "han alcanzado"
+        "yo": {
+          "forma": "he alcanzado",
+          "ejemplo": "Yo he alcanzado recientemente."
+        },
+        "tú": {
+          "forma": "has alcanzado",
+          "ejemplo": "Tú has alcanzado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha alcanzado",
+          "ejemplo": "Él/ella/usted ha alcanzado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos alcanzado",
+          "ejemplo": "Nosotros/nosotras hemos alcanzado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis alcanzado",
+          "ejemplo": "Vosotros/vosotras habéis alcanzado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han alcanzado",
+          "ejemplo": "Ellos/ellas/ustedes han alcanzado recientemente."
+        }
       }
     },
     {
@@ -762,12 +1806,30 @@
       "infinitivo": "nacer",
       "participio": "nacido",
       "conjugaciones": {
-        "yo": "he nacido",
-        "tú": "has nacido",
-        "él/ella/usted": "ha nacido",
-        "nosotros/nosotras": "hemos nacido",
-        "vosotros/vosotras": "habéis nacido",
-        "ellos/ellas/ustedes": "han nacido"
+        "yo": {
+          "forma": "he nacido",
+          "ejemplo": "Yo he nacido recientemente."
+        },
+        "tú": {
+          "forma": "has nacido",
+          "ejemplo": "Tú has nacido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha nacido",
+          "ejemplo": "Él/ella/usted ha nacido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos nacido",
+          "ejemplo": "Nosotros/nosotras hemos nacido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis nacido",
+          "ejemplo": "Vosotros/vosotras habéis nacido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han nacido",
+          "ejemplo": "Ellos/ellas/ustedes han nacido recientemente."
+        }
       }
     },
     {
@@ -775,12 +1837,30 @@
       "infinitivo": "dirigir",
       "participio": "dirigido",
       "conjugaciones": {
-        "yo": "he dirigido",
-        "tú": "has dirigido",
-        "él/ella/usted": "ha dirigido",
-        "nosotros/nosotras": "hemos dirigido",
-        "vosotros/vosotras": "habéis dirigido",
-        "ellos/ellas/ustedes": "han dirigido"
+        "yo": {
+          "forma": "he dirigido",
+          "ejemplo": "Yo he dirigido recientemente."
+        },
+        "tú": {
+          "forma": "has dirigido",
+          "ejemplo": "Tú has dirigido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha dirigido",
+          "ejemplo": "Él/ella/usted ha dirigido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos dirigido",
+          "ejemplo": "Nosotros/nosotras hemos dirigido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis dirigido",
+          "ejemplo": "Vosotros/vosotras habéis dirigido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han dirigido",
+          "ejemplo": "Ellos/ellas/ustedes han dirigido recientemente."
+        }
       }
     },
     {
@@ -788,12 +1868,30 @@
       "infinitivo": "correr",
       "participio": "corrido",
       "conjugaciones": {
-        "yo": "he corrido",
-        "tú": "has corrido",
-        "él/ella/usted": "ha corrido",
-        "nosotros/nosotras": "hemos corrido",
-        "vosotros/vosotras": "habéis corrido",
-        "ellos/ellas/ustedes": "han corrido"
+        "yo": {
+          "forma": "he corrido",
+          "ejemplo": "Yo he corrido recientemente."
+        },
+        "tú": {
+          "forma": "has corrido",
+          "ejemplo": "Tú has corrido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha corrido",
+          "ejemplo": "Él/ella/usted ha corrido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos corrido",
+          "ejemplo": "Nosotros/nosotras hemos corrido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis corrido",
+          "ejemplo": "Vosotros/vosotras habéis corrido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han corrido",
+          "ejemplo": "Ellos/ellas/ustedes han corrido recientemente."
+        }
       }
     },
     {
@@ -801,12 +1899,30 @@
       "infinitivo": "utilizar",
       "participio": "utilizado",
       "conjugaciones": {
-        "yo": "he utilizado",
-        "tú": "has utilizado",
-        "él/ella/usted": "ha utilizado",
-        "nosotros/nosotras": "hemos utilizado",
-        "vosotros/vosotras": "habéis utilizado",
-        "ellos/ellas/ustedes": "han utilizado"
+        "yo": {
+          "forma": "he utilizado",
+          "ejemplo": "Yo he utilizado recientemente."
+        },
+        "tú": {
+          "forma": "has utilizado",
+          "ejemplo": "Tú has utilizado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha utilizado",
+          "ejemplo": "Él/ella/usted ha utilizado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos utilizado",
+          "ejemplo": "Nosotros/nosotras hemos utilizado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis utilizado",
+          "ejemplo": "Vosotros/vosotras habéis utilizado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han utilizado",
+          "ejemplo": "Ellos/ellas/ustedes han utilizado recientemente."
+        }
       }
     },
     {
@@ -814,12 +1930,30 @@
       "infinitivo": "mostrar",
       "participio": "mostrado",
       "conjugaciones": {
-        "yo": "he mostrado",
-        "tú": "has mostrado",
-        "él/ella/usted": "ha mostrado",
-        "nosotros/nosotras": "hemos mostrado",
-        "vosotros/vosotras": "habéis mostrado",
-        "ellos/ellas/ustedes": "han mostrado"
+        "yo": {
+          "forma": "he mostrado",
+          "ejemplo": "Yo he mostrado recientemente."
+        },
+        "tú": {
+          "forma": "has mostrado",
+          "ejemplo": "Tú has mostrado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha mostrado",
+          "ejemplo": "Él/ella/usted ha mostrado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos mostrado",
+          "ejemplo": "Nosotros/nosotras hemos mostrado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis mostrado",
+          "ejemplo": "Vosotros/vosotras habéis mostrado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han mostrado",
+          "ejemplo": "Ellos/ellas/ustedes han mostrado recientemente."
+        }
       }
     },
     {
@@ -827,12 +1961,30 @@
       "infinitivo": "caer",
       "participio": "caído",
       "conjugaciones": {
-        "yo": "he caído",
-        "tú": "has caído",
-        "él/ella/usted": "ha caído",
-        "nosotros/nosotras": "hemos caído",
-        "vosotros/vosotras": "habéis caído",
-        "ellos/ellas/ustedes": "han caído"
+        "yo": {
+          "forma": "he caído",
+          "ejemplo": "Yo he caído recientemente."
+        },
+        "tú": {
+          "forma": "has caído",
+          "ejemplo": "Tú has caído recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha caído",
+          "ejemplo": "Él/ella/usted ha caído recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos caído",
+          "ejemplo": "Nosotros/nosotras hemos caído recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis caído",
+          "ejemplo": "Vosotros/vosotras habéis caído recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han caído",
+          "ejemplo": "Ellos/ellas/ustedes han caído recientemente."
+        }
       }
     },
     {
@@ -840,12 +1992,30 @@
       "infinitivo": "crear",
       "participio": "creado",
       "conjugaciones": {
-        "yo": "he creado",
-        "tú": "has creado",
-        "él/ella/usted": "ha creado",
-        "nosotros/nosotras": "hemos creado",
-        "vosotros/vosotras": "habéis creado",
-        "ellos/ellas/ustedes": "han creado"
+        "yo": {
+          "forma": "he creado",
+          "ejemplo": "Yo he creado recientemente."
+        },
+        "tú": {
+          "forma": "has creado",
+          "ejemplo": "Tú has creado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha creado",
+          "ejemplo": "Él/ella/usted ha creado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos creado",
+          "ejemplo": "Nosotros/nosotras hemos creado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis creado",
+          "ejemplo": "Vosotros/vosotras habéis creado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han creado",
+          "ejemplo": "Ellos/ellas/ustedes han creado recientemente."
+        }
       }
     },
     {
@@ -853,12 +2023,30 @@
       "infinitivo": "abrir",
       "participio": "abierto",
       "conjugaciones": {
-        "yo": "he abierto",
-        "tú": "has abierto",
-        "él/ella/usted": "ha abierto",
-        "nosotros/nosotras": "hemos abierto",
-        "vosotros/vosotras": "habéis abierto",
-        "ellos/ellas/ustedes": "han abierto"
+        "yo": {
+          "forma": "he abierto",
+          "ejemplo": "Yo he abierto recientemente."
+        },
+        "tú": {
+          "forma": "has abierto",
+          "ejemplo": "Tú has abierto recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha abierto",
+          "ejemplo": "Él/ella/usted ha abierto recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos abierto",
+          "ejemplo": "Nosotros/nosotras hemos abierto recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis abierto",
+          "ejemplo": "Vosotros/vosotras habéis abierto recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han abierto",
+          "ejemplo": "Ellos/ellas/ustedes han abierto recientemente."
+        }
       }
     },
     {
@@ -866,12 +2054,30 @@
       "infinitivo": "comenzar",
       "participio": "comenzado",
       "conjugaciones": {
-        "yo": "he comenzado",
-        "tú": "has comenzado",
-        "él/ella/usted": "ha comenzado",
-        "nosotros/nosotras": "hemos comenzado",
-        "vosotros/vosotras": "habéis comenzado",
-        "ellos/ellas/ustedes": "han comenzado"
+        "yo": {
+          "forma": "he comenzado",
+          "ejemplo": "Yo he comenzado recientemente."
+        },
+        "tú": {
+          "forma": "has comenzado",
+          "ejemplo": "Tú has comenzado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha comenzado",
+          "ejemplo": "Él/ella/usted ha comenzado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos comenzado",
+          "ejemplo": "Nosotros/nosotras hemos comenzado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis comenzado",
+          "ejemplo": "Vosotros/vosotras habéis comenzado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han comenzado",
+          "ejemplo": "Ellos/ellas/ustedes han comenzado recientemente."
+        }
       }
     },
     {
@@ -879,12 +2085,30 @@
       "infinitivo": "perder",
       "participio": "perdido",
       "conjugaciones": {
-        "yo": "he perdido",
-        "tú": "has perdido",
-        "él/ella/usted": "ha perdido",
-        "nosotros/nosotras": "hemos perdido",
-        "vosotros/vosotras": "habéis perdido",
-        "ellos/ellas/ustedes": "han perdido"
+        "yo": {
+          "forma": "he perdido",
+          "ejemplo": "Yo he perdido recientemente."
+        },
+        "tú": {
+          "forma": "has perdido",
+          "ejemplo": "Tú has perdido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha perdido",
+          "ejemplo": "Él/ella/usted ha perdido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos perdido",
+          "ejemplo": "Nosotros/nosotras hemos perdido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis perdido",
+          "ejemplo": "Vosotros/vosotras habéis perdido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han perdido",
+          "ejemplo": "Ellos/ellas/ustedes han perdido recientemente."
+        }
       }
     },
     {
@@ -892,12 +2116,30 @@
       "infinitivo": "ofrecer",
       "participio": "ofrecido",
       "conjugaciones": {
-        "yo": "he ofrecido",
-        "tú": "has ofrecido",
-        "él/ella/usted": "ha ofrecido",
-        "nosotros/nosotras": "hemos ofrecido",
-        "vosotros/vosotras": "habéis ofrecido",
-        "ellos/ellas/ustedes": "han ofrecido"
+        "yo": {
+          "forma": "he ofrecido",
+          "ejemplo": "Yo he ofrecido recientemente."
+        },
+        "tú": {
+          "forma": "has ofrecido",
+          "ejemplo": "Tú has ofrecido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha ofrecido",
+          "ejemplo": "Él/ella/usted ha ofrecido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos ofrecido",
+          "ejemplo": "Nosotros/nosotras hemos ofrecido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis ofrecido",
+          "ejemplo": "Vosotros/vosotras habéis ofrecido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han ofrecido",
+          "ejemplo": "Ellos/ellas/ustedes han ofrecido recientemente."
+        }
       }
     },
     {
@@ -905,12 +2147,30 @@
       "infinitivo": "aplicar",
       "participio": "aplicado",
       "conjugaciones": {
-        "yo": "he aplicado",
-        "tú": "has aplicado",
-        "él/ella/usted": "ha aplicado",
-        "nosotros/nosotras": "hemos aplicado",
-        "vosotros/vosotras": "habéis aplicado",
-        "ellos/ellas/ustedes": "han aplicado"
+        "yo": {
+          "forma": "he aplicado",
+          "ejemplo": "Yo he aplicado recientemente."
+        },
+        "tú": {
+          "forma": "has aplicado",
+          "ejemplo": "Tú has aplicado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha aplicado",
+          "ejemplo": "Él/ella/usted ha aplicado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos aplicado",
+          "ejemplo": "Nosotros/nosotras hemos aplicado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis aplicado",
+          "ejemplo": "Vosotros/vosotras habéis aplicado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han aplicado",
+          "ejemplo": "Ellos/ellas/ustedes han aplicado recientemente."
+        }
       }
     },
     {
@@ -918,12 +2178,30 @@
       "infinitivo": "realizar",
       "participio": "realizado",
       "conjugaciones": {
-        "yo": "he realizado",
-        "tú": "has realizado",
-        "él/ella/usted": "ha realizado",
-        "nosotros/nosotras": "hemos realizado",
-        "vosotros/vosotras": "habéis realizado",
-        "ellos/ellas/ustedes": "han realizado"
+        "yo": {
+          "forma": "he realizado",
+          "ejemplo": "Yo he realizado recientemente."
+        },
+        "tú": {
+          "forma": "has realizado",
+          "ejemplo": "Tú has realizado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha realizado",
+          "ejemplo": "Él/ella/usted ha realizado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos realizado",
+          "ejemplo": "Nosotros/nosotras hemos realizado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis realizado",
+          "ejemplo": "Vosotros/vosotras habéis realizado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han realizado",
+          "ejemplo": "Ellos/ellas/ustedes han realizado recientemente."
+        }
       }
     },
     {
@@ -931,12 +2209,30 @@
       "infinitivo": "suponer",
       "participio": "supuesto",
       "conjugaciones": {
-        "yo": "he supuesto",
-        "tú": "has supuesto",
-        "él/ella/usted": "ha supuesto",
-        "nosotros/nosotras": "hemos supuesto",
-        "vosotros/vosotras": "habéis supuesto",
-        "ellos/ellas/ustedes": "han supuesto"
+        "yo": {
+          "forma": "he supuesto",
+          "ejemplo": "Yo he supuesto recientemente."
+        },
+        "tú": {
+          "forma": "has supuesto",
+          "ejemplo": "Tú has supuesto recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha supuesto",
+          "ejemplo": "Él/ella/usted ha supuesto recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos supuesto",
+          "ejemplo": "Nosotros/nosotras hemos supuesto recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis supuesto",
+          "ejemplo": "Vosotros/vosotras habéis supuesto recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han supuesto",
+          "ejemplo": "Ellos/ellas/ustedes han supuesto recientemente."
+        }
       }
     },
     {
@@ -944,12 +2240,30 @@
       "infinitivo": "compartir",
       "participio": "compartido",
       "conjugaciones": {
-        "yo": "he compartido",
-        "tú": "has compartido",
-        "él/ella/usted": "ha compartido",
-        "nosotros/nosotras": "hemos compartido",
-        "vosotros/vosotras": "habéis compartido",
-        "ellos/ellas/ustedes": "han compartido"
+        "yo": {
+          "forma": "he compartido",
+          "ejemplo": "Yo he compartido recientemente."
+        },
+        "tú": {
+          "forma": "has compartido",
+          "ejemplo": "Tú has compartido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha compartido",
+          "ejemplo": "Él/ella/usted ha compartido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos compartido",
+          "ejemplo": "Nosotros/nosotras hemos compartido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis compartido",
+          "ejemplo": "Vosotros/vosotras habéis compartido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han compartido",
+          "ejemplo": "Ellos/ellas/ustedes han compartido recientemente."
+        }
       }
     },
     {
@@ -957,12 +2271,30 @@
       "infinitivo": "leer",
       "participio": "leído",
       "conjugaciones": {
-        "yo": "he leído",
-        "tú": "has leído",
-        "él/ella/usted": "ha leído",
-        "nosotros/nosotras": "hemos leído",
-        "vosotros/vosotras": "habéis leído",
-        "ellos/ellas/ustedes": "han leído"
+        "yo": {
+          "forma": "he leído",
+          "ejemplo": "Yo he leído recientemente."
+        },
+        "tú": {
+          "forma": "has leído",
+          "ejemplo": "Tú has leído recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha leído",
+          "ejemplo": "Él/ella/usted ha leído recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos leído",
+          "ejemplo": "Nosotros/nosotras hemos leído recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis leído",
+          "ejemplo": "Vosotros/vosotras habéis leído recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han leído",
+          "ejemplo": "Ellos/ellas/ustedes han leído recientemente."
+        }
       }
     },
     {
@@ -970,12 +2302,30 @@
       "infinitivo": "escuchar",
       "participio": "escuchado",
       "conjugaciones": {
-        "yo": "he escuchado",
-        "tú": "has escuchado",
-        "él/ella/usted": "ha escuchado",
-        "nosotros/nosotras": "hemos escuchado",
-        "vosotros/vosotras": "habéis escuchado",
-        "ellos/ellas/ustedes": "han escuchado"
+        "yo": {
+          "forma": "he escuchado",
+          "ejemplo": "Yo he escuchado recientemente."
+        },
+        "tú": {
+          "forma": "has escuchado",
+          "ejemplo": "Tú has escuchado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha escuchado",
+          "ejemplo": "Él/ella/usted ha escuchado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos escuchado",
+          "ejemplo": "Nosotros/nosotras hemos escuchado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis escuchado",
+          "ejemplo": "Vosotros/vosotras habéis escuchado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han escuchado",
+          "ejemplo": "Ellos/ellas/ustedes han escuchado recientemente."
+        }
       }
     },
     {
@@ -983,12 +2333,30 @@
       "infinitivo": "cambiar",
       "participio": "cambiado",
       "conjugaciones": {
-        "yo": "he cambiado",
-        "tú": "has cambiado",
-        "él/ella/usted": "ha cambiado",
-        "nosotros/nosotras": "hemos cambiado",
-        "vosotros/vosotras": "habéis cambiado",
-        "ellos/ellas/ustedes": "han cambiado"
+        "yo": {
+          "forma": "he cambiado",
+          "ejemplo": "Yo he cambiado recientemente."
+        },
+        "tú": {
+          "forma": "has cambiado",
+          "ejemplo": "Tú has cambiado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha cambiado",
+          "ejemplo": "Él/ella/usted ha cambiado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos cambiado",
+          "ejemplo": "Nosotros/nosotras hemos cambiado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis cambiado",
+          "ejemplo": "Vosotros/vosotras habéis cambiado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han cambiado",
+          "ejemplo": "Ellos/ellas/ustedes han cambiado recientemente."
+        }
       }
     },
     {
@@ -996,12 +2364,30 @@
       "infinitivo": "presentar",
       "participio": "presentado",
       "conjugaciones": {
-        "yo": "he presentado",
-        "tú": "has presentado",
-        "él/ella/usted": "ha presentado",
-        "nosotros/nosotras": "hemos presentado",
-        "vosotros/vosotras": "habéis presentado",
-        "ellos/ellas/ustedes": "han presentado"
+        "yo": {
+          "forma": "he presentado",
+          "ejemplo": "Yo he presentado recientemente."
+        },
+        "tú": {
+          "forma": "has presentado",
+          "ejemplo": "Tú has presentado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha presentado",
+          "ejemplo": "Él/ella/usted ha presentado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos presentado",
+          "ejemplo": "Nosotros/nosotras hemos presentado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis presentado",
+          "ejemplo": "Vosotros/vosotras habéis presentado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han presentado",
+          "ejemplo": "Ellos/ellas/ustedes han presentado recientemente."
+        }
       }
     },
     {
@@ -1009,12 +2395,30 @@
       "infinitivo": "considerar",
       "participio": "considerado",
       "conjugaciones": {
-        "yo": "he considerado",
-        "tú": "has considerado",
-        "él/ella/usted": "ha considerado",
-        "nosotros/nosotras": "hemos considerado",
-        "vosotros/vosotras": "habéis considerado",
-        "ellos/ellas/ustedes": "han considerado"
+        "yo": {
+          "forma": "he considerado",
+          "ejemplo": "Yo he considerado recientemente."
+        },
+        "tú": {
+          "forma": "has considerado",
+          "ejemplo": "Tú has considerado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha considerado",
+          "ejemplo": "Él/ella/usted ha considerado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos considerado",
+          "ejemplo": "Nosotros/nosotras hemos considerado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis considerado",
+          "ejemplo": "Vosotros/vosotras habéis considerado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han considerado",
+          "ejemplo": "Ellos/ellas/ustedes han considerado recientemente."
+        }
       }
     },
     {
@@ -1022,12 +2426,30 @@
       "infinitivo": "resultar",
       "participio": "resultado",
       "conjugaciones": {
-        "yo": "he resultedo",
-        "tú": "has resultado",
-        "él/ella/usted": "ha resultado",
-        "nosotros/nosotras": "hemos resultado",
-        "vosotros/vosotras": "habéis resultado",
-        "ellos/ellas/ustedes": "han resultado"
+        "yo": {
+          "forma": "he resultedo",
+          "ejemplo": "Yo he resultedo recientemente."
+        },
+        "tú": {
+          "forma": "has resultado",
+          "ejemplo": "Tú has resultado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha resultado",
+          "ejemplo": "Él/ella/usted ha resultado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos resultado",
+          "ejemplo": "Nosotros/nosotras hemos resultado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis resultado",
+          "ejemplo": "Vosotros/vosotras habéis resultado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han resultado",
+          "ejemplo": "Ellos/ellas/ustedes han resultado recientemente."
+        }
       }
     },
     {
@@ -1035,12 +2457,30 @@
       "infinitivo": "aumentar",
       "participio": "aumentado",
       "conjugaciones": {
-        "yo": "he aumentado",
-        "tú": "has aumentado",
-        "él/ella/usted": "ha aumentado",
-        "nosotros/nosotras": "hemos aumentado",
-        "vosotros/vosotras": "habéis aumentado",
-        "ellos/ellas/ustedes": "han aumentado"
+        "yo": {
+          "forma": "he aumentado",
+          "ejemplo": "Yo he aumentado recientemente."
+        },
+        "tú": {
+          "forma": "has aumentado",
+          "ejemplo": "Tú has aumentado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha aumentado",
+          "ejemplo": "Él/ella/usted ha aumentado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos aumentado",
+          "ejemplo": "Nosotros/nosotras hemos aumentado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis aumentado",
+          "ejemplo": "Vosotros/vosotras habéis aumentado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han aumentado",
+          "ejemplo": "Ellos/ellas/ustedes han aumentado recientemente."
+        }
       }
     },
     {
@@ -1048,12 +2488,30 @@
       "infinitivo": "ganar",
       "participio": "ganado",
       "conjugaciones": {
-        "yo": "he ganado",
-        "tú": "has ganado",
-        "él/ella/usted": "ha ganado",
-        "nosotros/nosotras": "hemos ganado",
-        "vosotros/vosotras": "habéis ganado",
-        "ellos/ellas/ustedes": "han ganado"
+        "yo": {
+          "forma": "he ganado",
+          "ejemplo": "Yo he ganado recientemente."
+        },
+        "tú": {
+          "forma": "has ganado",
+          "ejemplo": "Tú has ganado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha ganado",
+          "ejemplo": "Él/ella/usted ha ganado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos ganado",
+          "ejemplo": "Nosotros/nosotras hemos ganado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis ganado",
+          "ejemplo": "Vosotros/vosotras habéis ganado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han ganado",
+          "ejemplo": "Ellos/ellas/ustedes han ganado recientemente."
+        }
       }
     },
     {
@@ -1061,12 +2519,30 @@
       "infinitivo": "mantener",
       "participio": "mantenido",
       "conjugaciones": {
-        "yo": "he mantenido",
-        "tú": "has mantenido",
-        "él/ella/usted": "ha mantenido",
-        "nosotros/nosotras": "hemos mantenido",
-        "vosotros/vosotras": "habéis mantenido",
-        "ellos/ellas/ustedes": "han mantenido"
+        "yo": {
+          "forma": "he mantenido",
+          "ejemplo": "Yo he mantenido recientemente."
+        },
+        "tú": {
+          "forma": "has mantenido",
+          "ejemplo": "Tú has mantenido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha mantenido",
+          "ejemplo": "Él/ella/usted ha mantenido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos mantenido",
+          "ejemplo": "Nosotros/nosotras hemos mantenido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis mantenido",
+          "ejemplo": "Vosotros/vosotras habéis mantenido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han mantenido",
+          "ejemplo": "Ellos/ellas/ustedes han mantenido recientemente."
+        }
       }
     },
     {
@@ -1074,12 +2550,30 @@
       "infinitivo": "bastar",
       "participio": "bastado",
       "conjugaciones": {
-        "yo": "he bastado",
-        "tú": "has bastado",
-        "él/ella/usted": "ha bastado",
-        "nosotros/nosotras": "hemos bastado",
-        "vosotros/vosotras": "habéis bastado",
-        "ellos/ellas/ustedes": "han bastado"
+        "yo": {
+          "forma": "he bastado",
+          "ejemplo": "Yo he bastado recientemente."
+        },
+        "tú": {
+          "forma": "has bastado",
+          "ejemplo": "Tú has bastado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha bastado",
+          "ejemplo": "Él/ella/usted ha bastado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos bastado",
+          "ejemplo": "Nosotros/nosotras hemos bastado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis bastado",
+          "ejemplo": "Vosotros/vosotras habéis bastado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han bastado",
+          "ejemplo": "Ellos/ellas/ustedes han bastado recientemente."
+        }
       }
     },
     {
@@ -1087,12 +2581,30 @@
       "infinitivo": "formar",
       "participio": "formado",
       "conjugaciones": {
-        "yo": "he formado",
-        "tú": "has formado",
-        "él/ella/usted": "ha formado",
-        "nosotros/nosotras": "hemos formado",
-        "vosotros/vosotras": "habéis formado",
-        "ellos/ellas/ustedes": "han formado"
+        "yo": {
+          "forma": "he formado",
+          "ejemplo": "Yo he formado recientemente."
+        },
+        "tú": {
+          "forma": "has formado",
+          "ejemplo": "Tú has formado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha formado",
+          "ejemplo": "Él/ella/usted ha formado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos formado",
+          "ejemplo": "Nosotros/nosotras hemos formado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis formado",
+          "ejemplo": "Vosotros/vosotras habéis formado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han formado",
+          "ejemplo": "Ellos/ellas/ustedes han formado recientemente."
+        }
       }
     },
     {
@@ -1100,12 +2612,30 @@
       "infinitivo": "continuar",
       "participio": "continuado",
       "conjugaciones": {
-        "yo": "he continuado",
-        "tú": "has continuado",
-        "él/ella/usted": "ha continuado",
-        "nosotros/nosotras": "hemos continuado",
-        "vosotros/vosotras": "habéis continuado",
-        "ellos/ellas/ustedes": "han continuado"
+        "yo": {
+          "forma": "he continuado",
+          "ejemplo": "Yo he continuado recientemente."
+        },
+        "tú": {
+          "forma": "has continuado",
+          "ejemplo": "Tú has continuado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha continuado",
+          "ejemplo": "Él/ella/usted ha continuado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos continuado",
+          "ejemplo": "Nosotros/nosotras hemos continuado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis continuado",
+          "ejemplo": "Vosotros/vosotras habéis continuado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han continuado",
+          "ejemplo": "Ellos/ellas/ustedes han continuado recientemente."
+        }
       }
     },
     {
@@ -1113,12 +2643,30 @@
       "infinitivo": "comprar",
       "participio": "comprado",
       "conjugaciones": {
-        "yo": "he comprado",
-        "tú": "has comprado",
-        "él/ella/usted": "ha comprado",
-        "nosotros/nosotras": "hemos comprado",
-        "vosotros/vosotras": "habéis comprado",
-        "ellos/ellas/ustedes": "han comprado"
+        "yo": {
+          "forma": "he comprado",
+          "ejemplo": "Yo he comprado recientemente."
+        },
+        "tú": {
+          "forma": "has comprado",
+          "ejemplo": "Tú has comprado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha comprado",
+          "ejemplo": "Él/ella/usted ha comprado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos comprado",
+          "ejemplo": "Nosotros/nosotras hemos comprado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis comprado",
+          "ejemplo": "Vosotros/vosotras habéis comprado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han comprado",
+          "ejemplo": "Ellos/ellas/ustedes han comprado recientemente."
+        }
       }
     },
     {
@@ -1126,12 +2674,30 @@
       "infinitivo": "sufrir",
       "participio": "sufrido",
       "conjugaciones": {
-        "yo": "he sufrido",
-        "tú": "has sufrido",
-        "él/ella/usted": "ha sufrido",
-        "nosotros/nosotras": "hemos sufrido",
-        "vosotros/vosotras": "habéis sufrido",
-        "ellos/ellas/ustedes": "han sufrido"
+        "yo": {
+          "forma": "he sufrido",
+          "ejemplo": "Yo he sufrido recientemente."
+        },
+        "tú": {
+          "forma": "has sufrido",
+          "ejemplo": "Tú has sufrido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha sufrido",
+          "ejemplo": "Él/ella/usted ha sufrido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos sufrido",
+          "ejemplo": "Nosotros/nosotras hemos sufrido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis sufrido",
+          "ejemplo": "Vosotros/vosotras habéis sufrido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han sufrido",
+          "ejemplo": "Ellos/ellas/ustedes han sufrido recientemente."
+        }
       }
     },
     {
@@ -1139,12 +2705,30 @@
       "infinitivo": "cumplir",
       "participio": "cumplido",
       "conjugaciones": {
-        "yo": "he cumplido",
-        "tú": "has cumplido",
-        "él/ella/usted": "ha cumplido",
-        "nosotros/nosotras": "hemos cumplido",
-        "vosotros/vosotras": "habéis cumplido",
-        "ellos/ellas/ustedes": "han cumplido"
+        "yo": {
+          "forma": "he cumplido",
+          "ejemplo": "Yo he cumplido recientemente."
+        },
+        "tú": {
+          "forma": "has cumplido",
+          "ejemplo": "Tú has cumplido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha cumplido",
+          "ejemplo": "Él/ella/usted ha cumplido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos cumplido",
+          "ejemplo": "Nosotros/nosotras hemos cumplido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis cumplido",
+          "ejemplo": "Vosotros/vosotras habéis cumplido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han cumplido",
+          "ejemplo": "Ellos/ellas/ustedes han cumplido recientemente."
+        }
       }
     },
     {
@@ -1152,12 +2736,30 @@
       "infinitivo": "aprender",
       "participio": "aprendido",
       "conjugaciones": {
-        "yo": "he aprendido",
-        "tú": "has aprendido",
-        "él/ella/usted": "ha aprendido",
-        "nosotros/nosotras": "hemos aprendido",
-        "vosotros/vosotras": "habéis aprendido",
-        "ellos/ellas/ustedes": "han aprendido"
+        "yo": {
+          "forma": "he aprendido",
+          "ejemplo": "Yo he aprendido recientemente."
+        },
+        "tú": {
+          "forma": "has aprendido",
+          "ejemplo": "Tú has aprendido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha aprendido",
+          "ejemplo": "Él/ella/usted ha aprendido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos aprendido",
+          "ejemplo": "Nosotros/nosotras hemos aprendido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis aprendido",
+          "ejemplo": "Vosotros/vosotras habéis aprendido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han aprendido",
+          "ejemplo": "Ellos/ellas/ustedes han aprendido recientemente."
+        }
       }
     },
     {
@@ -1165,12 +2767,30 @@
       "infinitivo": "servir",
       "participio": "servido",
       "conjugaciones": {
-        "yo": "he servido",
-        "tú": "has servido",
-        "él/ella/usted": "ha servido",
-        "nosotros/nosotras": "hemos servido",
-        "vosotros/vosotras": "habéis servido",
-        "ellos/ellas/ustedes": "han servido"
+        "yo": {
+          "forma": "he servido",
+          "ejemplo": "Yo he servido recientemente."
+        },
+        "tú": {
+          "forma": "has servido",
+          "ejemplo": "Tú has servido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha servido",
+          "ejemplo": "Él/ella/usted ha servido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos servido",
+          "ejemplo": "Nosotros/nosotras hemos servido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis servido",
+          "ejemplo": "Vosotros/vosotras habéis servido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han servido",
+          "ejemplo": "Ellos/ellas/ustedes han servido recientemente."
+        }
       }
     },
     {
@@ -1178,12 +2798,30 @@
       "infinitivo": "intentar",
       "participio": "intentado",
       "conjugaciones": {
-        "yo": "he intentado",
-        "tú": "has intentado",
-        "él/ella/usted": "ha intentado",
-        "nosotros/nosotras": "hemos intentado",
-        "vosotros/vosotras": "habéis intentado",
-        "ellos/ellas/ustedes": "han intentado"
+        "yo": {
+          "forma": "he intentado",
+          "ejemplo": "Yo he intentado recientemente."
+        },
+        "tú": {
+          "forma": "has intentado",
+          "ejemplo": "Tú has intentado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha intentado",
+          "ejemplo": "Él/ella/usted ha intentado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos intentado",
+          "ejemplo": "Nosotros/nosotras hemos intentado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis intentado",
+          "ejemplo": "Vosotros/vosotras habéis intentado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han intentado",
+          "ejemplo": "Ellos/ellas/ustedes han intentado recientemente."
+        }
       }
     },
     {
@@ -1191,12 +2829,30 @@
       "infinitivo": "echar",
       "participio": "echado",
       "conjugaciones": {
-        "yo": "he echado",
-        "tú": "has echado",
-        "él/ella/usted": "ha echado",
-        "nosotros/nosotras": "hemos echado",
-        "vosotros/vosotras": "habéis echado",
-        "ellos/ellas/ustedes": "han echado"
+        "yo": {
+          "forma": "he echado",
+          "ejemplo": "Yo he echado recientemente."
+        },
+        "tú": {
+          "forma": "has echado",
+          "ejemplo": "Tú has echado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha echado",
+          "ejemplo": "Él/ella/usted ha echado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos echado",
+          "ejemplo": "Nosotros/nosotras hemos echado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis echado",
+          "ejemplo": "Vosotros/vosotras habéis echado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han echado",
+          "ejemplo": "Ellos/ellas/ustedes han echado recientemente."
+        }
       }
     },
     {
@@ -1204,12 +2860,30 @@
       "infinitivo": "elegir",
       "participio": "elegido",
       "conjugaciones": {
-        "yo": "he elegido",
-        "tú": "has elegido",
-        "él/ella/usted": "ha elegido",
-        "nosotros/nosotras": "hemos elegido",
-        "vosotros/vosotras": "habéis elegido",
-        "ellos/ellas/ustedes": "han elegido"
+        "yo": {
+          "forma": "he elegido",
+          "ejemplo": "Yo he elegido recientemente."
+        },
+        "tú": {
+          "forma": "has elegido",
+          "ejemplo": "Tú has elegido recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha elegido",
+          "ejemplo": "Él/ella/usted ha elegido recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos elegido",
+          "ejemplo": "Nosotros/nosotras hemos elegido recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis elegido",
+          "ejemplo": "Vosotros/vosotras habéis elegido recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han elegido",
+          "ejemplo": "Ellos/ellas/ustedes han elegido recientemente."
+        }
       }
     },
     {
@@ -1217,12 +2891,30 @@
       "infinitivo": "aceptar",
       "participio": "aceptado",
       "conjugaciones": {
-        "yo": "he aceptado",
-        "tú": "has aceptado",
-        "él/ella/usted": "ha aceptado",
-        "nosotros/nosotras": "hemos aceptado",
-        "vosotros/vosotras": "habéis aceptado",
-        "ellos/ellas/ustedes": "han aceptado"
+        "yo": {
+          "forma": "he aceptado",
+          "ejemplo": "Yo he aceptado recientemente."
+        },
+        "tú": {
+          "forma": "has aceptado",
+          "ejemplo": "Tú has aceptado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha aceptado",
+          "ejemplo": "Él/ella/usted ha aceptado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos aceptado",
+          "ejemplo": "Nosotros/nosotras hemos aceptado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis aceptado",
+          "ejemplo": "Vosotros/vosotras habéis aceptado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han aceptado",
+          "ejemplo": "Ellos/ellas/ustedes han aceptado recientemente."
+        }
       }
     },
     {
@@ -1230,12 +2922,30 @@
       "infinitivo": "desear",
       "participio": "deseado",
       "conjugaciones": {
-        "yo": "he deseado",
-        "tú": "has deseado",
-        "él/ella/usted": "ha deseado",
-        "nosotros/nosotras": "hemos deseado",
-        "vosotros/vosotras": "habéis deseado",
-        "ellos/ellas/ustedes": "han deseado"
+        "yo": {
+          "forma": "he deseado",
+          "ejemplo": "Yo he deseado recientemente."
+        },
+        "tú": {
+          "forma": "has deseado",
+          "ejemplo": "Tú has deseado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha deseado",
+          "ejemplo": "Él/ella/usted ha deseado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos deseado",
+          "ejemplo": "Nosotros/nosotras hemos deseado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis deseado",
+          "ejemplo": "Vosotros/vosotras habéis deseado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han deseado",
+          "ejemplo": "Ellos/ellas/ustedes han deseado recientemente."
+        }
       }
     },
     {
@@ -1243,12 +2953,30 @@
       "infinitivo": "abandonar",
       "participio": "abandonado",
       "conjugaciones": {
-        "yo": "he abandonado",
-        "tú": "has abandonado",
-        "él/ella/usted": "ha abandonado",
-        "nosotros/nosotras": "hemos abandonado",
-        "vosotros/vosotras": "habéis abandonado",
-        "ellos/ellas/ustedes": "han abandonado"
+        "yo": {
+          "forma": "he abandonado",
+          "ejemplo": "Yo he abandonado recientemente."
+        },
+        "tú": {
+          "forma": "has abandonado",
+          "ejemplo": "Tú has abandonado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha abandonado",
+          "ejemplo": "Él/ella/usted ha abandonado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos abandonado",
+          "ejemplo": "Nosotros/nosotras hemos abandonado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis abandonado",
+          "ejemplo": "Vosotros/vosotras habéis abandonado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han abandonado",
+          "ejemplo": "Ellos/ellas/ustedes han abandonado recientemente."
+        }
       }
     },
     {
@@ -1256,12 +2984,30 @@
       "infinitivo": "necesitar",
       "participio": "necesitado",
       "conjugaciones": {
-        "yo": "he necesitado",
-        "tú": "has necesitado",
-        "él/ella/usted": "ha necesitado",
-        "nosotros/nosotras": "hemos necesitado",
-        "vosotros/vosotras": "habéis necesitado",
-        "ellos/ellas/ustedes": "han necesitado"
+        "yo": {
+          "forma": "he necesitado",
+          "ejemplo": "Yo he necesitado recientemente."
+        },
+        "tú": {
+          "forma": "has necesitado",
+          "ejemplo": "Tú has necesitado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha necesitado",
+          "ejemplo": "Él/ella/usted ha necesitado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos necesitado",
+          "ejemplo": "Nosotros/nosotras hemos necesitado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis necesitado",
+          "ejemplo": "Vosotros/vosotras habéis necesitado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han necesitado",
+          "ejemplo": "Ellos/ellas/ustedes han necesitado recientemente."
+        }
       }
     },
     {
@@ -1269,12 +3015,30 @@
       "infinitivo": "guardar",
       "participio": "guardado",
       "conjugaciones": {
-        "yo": "he guardado",
-        "tú": "has guardado",
-        "él/ella/usted": "ha guardado",
-        "nosotros/nosotras": "hemos guardado",
-        "vosotros/vosotras": "habéis guardado",
-        "ellos/ellas/ustedes": "han guardado"
+        "yo": {
+          "forma": "he guardado",
+          "ejemplo": "Yo he guardado recientemente."
+        },
+        "tú": {
+          "forma": "has guardado",
+          "ejemplo": "Tú has guardado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha guardado",
+          "ejemplo": "Él/ella/usted ha guardado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos guardado",
+          "ejemplo": "Nosotros/nosotras hemos guardado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis guardado",
+          "ejemplo": "Vosotros/vosotras habéis guardado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han guardado",
+          "ejemplo": "Ellos/ellas/ustedes han guardado recientemente."
+        }
       }
     },
     {
@@ -1282,12 +3046,30 @@
       "infinitivo": "observar",
       "participio": "observado",
       "conjugaciones": {
-        "yo": "he observado",
-        "tú": "has observado",
-        "él/ella/usted": "ha observado",
-        "nosotros/nosotras": "hemos observado",
-        "vosotros/vosotras": "habéis observado",
-        "ellos/ellas/ustedes": "han observado"
+        "yo": {
+          "forma": "he observado",
+          "ejemplo": "Yo he observado recientemente."
+        },
+        "tú": {
+          "forma": "has observado",
+          "ejemplo": "Tú has observado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha observado",
+          "ejemplo": "Él/ella/usted ha observado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos observado",
+          "ejemplo": "Nosotros/nosotras hemos observado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis observado",
+          "ejemplo": "Vosotros/vosotras habéis observado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han observado",
+          "ejemplo": "Ellos/ellas/ustedes han observado recientemente."
+        }
       }
     },
     {
@@ -1295,14 +3077,31 @@
       "infinitivo": "ayudar",
       "participio": "ayudado",
       "conjugaciones": {
-        "yo": "he ayudado",
-        "tú": "has ayudado",
-        "él/ella/usted": "ha ayudado",
-        "nosotros/nosotras": "hemos ayudado",
-        "vosotros/vosotras": "habéis ayudado",
-        "ellos/ellas/ustedes": "han ayudado"
+        "yo": {
+          "forma": "he ayudado",
+          "ejemplo": "Yo he ayudado recientemente."
+        },
+        "tú": {
+          "forma": "has ayudado",
+          "ejemplo": "Tú has ayudado recientemente."
+        },
+        "él/ella/usted": {
+          "forma": "ha ayudado",
+          "ejemplo": "Él/ella/usted ha ayudado recientemente."
+        },
+        "nosotros/nosotras": {
+          "forma": "hemos ayudado",
+          "ejemplo": "Nosotros/nosotras hemos ayudado recientemente."
+        },
+        "vosotros/vosotras": {
+          "forma": "habéis ayudado",
+          "ejemplo": "Vosotros/vosotras habéis ayudado recientemente."
+        },
+        "ellos/ellas/ustedes": {
+          "forma": "han ayudado",
+          "ejemplo": "Ellos/ellas/ustedes han ayudado recientemente."
+        }
       }
     }
   ]
 }
-
