@@ -1,6 +1,7 @@
 package com.helvio.laconjugacion.datasource.model.conjugation
 
 import com.google.gson.annotations.SerializedName
+import com.helvio.laconjugacion.datasource.model.VerbTenseEnum
 
 data class ConjugationsDto(
     @SerializedName("descripcion")
@@ -11,4 +12,11 @@ data class ConjugationsDto(
     val title: String = "",
     @SerializedName("verbos")
     val verbs: List<Verb> = emptyList()
+)
+
+fun ConjugationsDto.toModel() = ConjugationsModel(
+    description = description,
+    verbTense = VerbTenseEnum.fromValue(verbTense),
+    title = title,
+    verbs = verbs
 )

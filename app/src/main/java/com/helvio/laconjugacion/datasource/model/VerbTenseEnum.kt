@@ -11,8 +11,9 @@ enum class VerbTenseEnum(val value: String) {
     PRESENT_SUBJUNCTIVE("presente_subjutivo");
 
     companion object {
-        fun fromValue(value: String?): VerbTenseEnum? =
+        fun fromValue(value: String?): VerbTenseEnum =
             VerbTenseEnum.entries.find { it.value.equals(value, ignoreCase = true) }
+                ?: PRESENT_INDICATIVE
     }
 }
 
