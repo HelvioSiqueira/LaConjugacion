@@ -1,8 +1,8 @@
-package com.helvio.laconjugacion.datasource.model
+package com.helvio.laconjugacion.datasource.model.conjugation
 
 import com.google.gson.annotations.SerializedName
 
-data class IConjugation(
+data class YouPluralInformalConjugation(
     @SerializedName("ejemplo")
     val example: String?,
     @SerializedName("forma")

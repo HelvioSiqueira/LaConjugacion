@@ -3,27 +3,27 @@ package com.helvio.laconjugacion.datasource.data
 import android.content.Context
 import android.util.Log
 import com.google.gson.Gson
-import com.helvio.laconjugacion.datasource.model.ConjugationsModel
-import com.helvio.laconjugacion.datasource.model.Verb
+import com.helvio.laconjugacion.datasource.model.conjugation.ConjugationsDto
+import com.helvio.laconjugacion.datasource.model.conjugation.Verb
 
 class ConjugationsClient : IConjugationsClient {
-    override fun getConjugations(context: Context, files: List<String>): ConjugationsModel {
+    override fun getConjugations(context: Context, files: List<String>): ConjugationsDto {
 
         val verbs = mutableListOf<Verb>()
-        var conjugationsModel = ConjugationsModel()
+        var conjugationsDto = ConjugationsDto()
 
         files.forEach { file ->
-            conjugationsModel = Gson().fromJson(
+            conjugationsDto = Gson().fromJson(
                 readJsonFromAsset(context, file),
-                ConjugationsModel::class.java
+                ConjugationsDto::class.java
             )
 
-            verbs.addAll(conjugationsModel.verbs)
+            verbs.addAll(conjugationsDto.verbs)
         }
 
-        Log.d("HSV", conjugationsModel.toString())
+        Log.d("HSV", conjugationsDto.toString())
 
-        return conjugationsModel.copy(verbs = verbs)
+        return conjugationsDto.copy(verbs = verbs)
     }
 
     private fun readJsonFromAsset(context: Context, fileName: String): String? {

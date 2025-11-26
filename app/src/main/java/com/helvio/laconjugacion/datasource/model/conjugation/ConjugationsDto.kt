@@ -1,8 +1,8 @@
-package com.helvio.laconjugacion.datasource.model
+package com.helvio.laconjugacion.datasource.model.conjugation
 
 import com.google.gson.annotations.SerializedName
 
-data class ConjugationsModel(
+data class ConjugationsDto(
     @SerializedName("descripcion")
     val description: String = "",
     @SerializedName("tiempo_verbal")
