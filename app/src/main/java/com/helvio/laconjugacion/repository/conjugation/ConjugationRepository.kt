@@ -1,7 +1,7 @@
 package com.helvio.laconjugacion.repository.conjugation
 
 import android.content.Context
-import com.helvio.laconjugacion.datasource.data.IConjugationsClient
+import com.helvio.laconjugacion.datasource.data.json.IConjugationsClient
 import com.helvio.laconjugacion.datasource.model.VerbTenseEnum
 import com.helvio.laconjugacion.datasource.model.conjugation.toModel
 import com.helvio.laconjugacion.datasource.model.getJsonFiles

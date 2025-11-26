@@ -1,4 +1,4 @@
-package com.helvio.laconjugacion.datasource.data
+package com.helvio.laconjugacion.datasource.data.json
 
 import android.content.Context
 import com.helvio.laconjugacion.datasource.model.conjugation.ConjugationsDto

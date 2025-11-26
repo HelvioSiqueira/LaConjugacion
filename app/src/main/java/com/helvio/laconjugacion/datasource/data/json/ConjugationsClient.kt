@@ -1,15 +1,15 @@
-package com.helvio.laconjugacion.datasource.data
+package com.helvio.laconjugacion.datasource.data.json
 
 import android.content.Context
 import android.util.Log
 import com.google.gson.Gson
 import com.helvio.laconjugacion.datasource.model.conjugation.ConjugationsDto
-import com.helvio.laconjugacion.datasource.model.conjugation.Verb
+import com.helvio.laconjugacion.datasource.model.conjugation.VerbDto
 
 class ConjugationsClient : IConjugationsClient {
     override fun getConjugations(context: Context, files: List<String>): ConjugationsDto {
 
-        val verbs = mutableListOf<Verb>()
+        val verbs = mutableListOf<VerbDto>()
         var conjugationsDto = ConjugationsDto()
 
         files.forEach { file ->

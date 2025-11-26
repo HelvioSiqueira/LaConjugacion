@@ -10,8 +10,15 @@ activityCompose = "1.12.0"
 composeBom = "2025.11.01"
 koinCompose = "4.1.1"
 gson = "2.13.2"
+ksp = "2.2.0-2.0.2"
+roomCompiler = "2.8.4"
+roomKtx = "2.8.4"
+roomRuntime = "2.8.4"
 
 [libraries]
+androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
+androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomKtx" }
+androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomRuntime" }
 gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
 koin-android = { module = "io.insert-koin:koin-android", version.ref = "koinCompose" }
 koin-compose = { module = "io.insert-koin:koin-compose", version.ref = "koinCompose" }
@@ -33,6 +40,7 @@ androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit
 androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
 
 [plugins]
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }

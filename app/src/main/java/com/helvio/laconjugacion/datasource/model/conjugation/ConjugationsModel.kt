@@ -6,5 +6,5 @@ data class ConjugationsModel(
     val description: String = "",
     val verbTense: VerbTenseEnum = VerbTenseEnum.PRESENT_INDICATIVE,
     val title: String = "",
-    val verbs: List<Verb> = emptyList()
+    val verbs: List<VerbDto> = emptyList()
 )
