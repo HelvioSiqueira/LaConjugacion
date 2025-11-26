@@ -6,6 +6,8 @@
     {
       "numero": 1,
       "infinitivo": "ser",
+      "traducao": "ser",
+      "tipo": "irregular",
       "participio": "sido",
       "conjugaciones": {
         "yo": {
@@ -37,6 +39,8 @@
     {
       "numero": 2,
       "infinitivo": "estar",
+      "traducao": "estar",
+      "tipo": "irregular",
       "participio": "estado",
       "conjugaciones": {
         "yo": {
@@ -68,6 +72,8 @@
     {
       "numero": 3,
       "infinitivo": "haber",
+      "traducao": "haver",
+      "tipo": "irregular",
       "participio": "habido",
       "conjugaciones": {
         "yo": {
@@ -99,6 +105,8 @@
     {
       "numero": 4,
       "infinitivo": "tener",
+      "traducao": "ter",
+      "tipo": "irregular",
       "participio": "tenido",
       "conjugaciones": {
         "yo": {
@@ -130,6 +138,8 @@
     {
       "numero": 5,
       "infinitivo": "hacer",
+      "traducao": "fazer",
+      "tipo": "irregular",
       "participio": "hecho",
       "conjugaciones": {
         "yo": {
@@ -161,6 +171,8 @@
     {
       "numero": 6,
       "infinitivo": "poder",
+      "traducao": "poder",
+      "tipo": "irregular",
       "participio": "podido",
       "conjugaciones": {
         "yo": {
@@ -192,6 +204,8 @@
     {
       "numero": 7,
       "infinitivo": "decir",
+      "traducao": "dizer",
+      "tipo": "irregular",
       "participio": "dicho",
       "conjugaciones": {
         "yo": {
@@ -223,6 +237,8 @@
     {
       "numero": 8,
       "infinitivo": "ir",
+      "traducao": "ir",
+      "tipo": "irregular",
       "participio": "ido",
       "conjugaciones": {
         "yo": {
@@ -254,6 +270,8 @@
     {
       "numero": 9,
       "infinitivo": "ver",
+      "traducao": "ver",
+      "tipo": "irregular",
       "participio": "visto",
       "conjugaciones": {
         "yo": {
@@ -285,6 +303,8 @@
     {
       "numero": 10,
       "infinitivo": "dar",
+      "traducao": "dar",
+      "tipo": "irregular",
       "participio": "dado",
       "conjugaciones": {
         "yo": {
@@ -316,6 +336,8 @@
     {
       "numero": 11,
       "infinitivo": "saber",
+      "traducao": "saber",
+      "tipo": "irregular",
       "participio": "sabido",
       "conjugaciones": {
         "yo": {
@@ -347,6 +369,8 @@
     {
       "numero": 12,
       "infinitivo": "querer",
+      "traducao": "querer",
+      "tipo": "irregular",
       "participio": "querido",
       "conjugaciones": {
         "yo": {
@@ -378,6 +402,8 @@
     {
       "numero": 13,
       "infinitivo": "llegar",
+      "traducao": "chegar",
+      "tipo": "regular -ar",
       "participio": "llegado",
       "conjugaciones": {
         "yo": {
@@ -409,6 +435,8 @@
     {
       "numero": 14,
       "infinitivo": "pasar",
+      "traducao": "passar",
+      "tipo": "regular -ar",
       "participio": "pasado",
       "conjugaciones": {
         "yo": {
@@ -440,6 +468,8 @@
     {
       "numero": 15,
       "infinitivo": "deber",
+      "traducao": "dever",
+      "tipo": "regular -er",
       "participio": "debido",
       "conjugaciones": {
         "yo": {
@@ -471,6 +501,8 @@
     {
       "numero": 16,
       "infinitivo": "poner",
+      "traducao": "pôr/colocar",
+      "tipo": "irregular",
       "participio": "puesto",
       "conjugaciones": {
         "yo": {
@@ -502,6 +534,8 @@
     {
       "numero": 17,
       "infinitivo": "parecer",
+      "traducao": "parecer",
+      "tipo": "regular -er",
       "participio": "parecido",
       "conjugaciones": {
         "yo": {
@@ -533,6 +567,8 @@
     {
       "numero": 18,
       "infinitivo": "quedar",
+      "traducao": "ficar/restar",
+      "tipo": "regular -ar",
       "participio": "quedado",
       "conjugaciones": {
         "yo": {
@@ -564,6 +600,8 @@
     {
       "numero": 19,
       "infinitivo": "creer",
+      "traducao": "crer/acreditar",
+      "tipo": "regular -er",
       "participio": "creído",
       "conjugaciones": {
         "yo": {
@@ -595,6 +633,8 @@
     {
       "numero": 20,
       "infinitivo": "hablar",
+      "traducao": "falar",
+      "tipo": "regular -ar",
       "participio": "hablado",
       "conjugaciones": {
         "yo": {
@@ -626,6 +666,8 @@
     {
       "numero": 21,
       "infinitivo": "llevar",
+      "traducao": "levar/carregar",
+      "tipo": "regular -ar",
       "participio": "llevado",
       "conjugaciones": {
         "yo": {
@@ -657,6 +699,8 @@
     {
       "numero": 22,
       "infinitivo": "dejar",
+      "traducao": "deixar",
+      "tipo": "regular -ar",
       "participio": "dejado",
       "conjugaciones": {
         "yo": {
@@ -688,6 +732,8 @@
     {
       "numero": 23,
       "infinitivo": "seguir",
+      "traducao": "seguir/continuar",
+      "tipo": "irregular",
       "participio": "seguido",
       "conjugaciones": {
         "yo": {
@@ -719,6 +765,8 @@
     {
       "numero": 24,
       "infinitivo": "encontrar",
+      "traducao": "encontrar",
+      "tipo": "irregular",
       "participio": "encontrado",
       "conjugaciones": {
         "yo": {
@@ -750,6 +798,8 @@
     {
       "numero": 25,
       "infinitivo": "llamar",
+      "traducao": "chamar",
+      "tipo": "regular -ar",
       "participio": "llamado",
       "conjugaciones": {
         "yo": {
@@ -781,6 +831,8 @@
     {
       "numero": 26,
       "infinitivo": "venir",
+      "traducao": "vir",
+      "tipo": "irregular",
       "participio": "venido",
       "conjugaciones": {
         "yo": {
@@ -812,6 +864,8 @@
     {
       "numero": 27,
       "infinitivo": "pensar",
+      "traducao": "pensar",
+      "tipo": "irregular",
       "participio": "pensado",
       "conjugaciones": {
         "yo": {
@@ -843,6 +897,8 @@
     {
       "numero": 28,
       "infinitivo": "salir",
+      "traducao": "sair",
+      "tipo": "irregular",
       "participio": "salido",
       "conjugaciones": {
         "yo": {
@@ -874,6 +930,8 @@
     {
       "numero": 29,
       "infinitivo": "volver",
+      "traducao": "voltar",
+      "tipo": "irregular",
       "participio": "vuelto",
       "conjugaciones": {
         "yo": {
@@ -905,6 +963,8 @@
     {
       "numero": 30,
       "infinitivo": "tomar",
+      "traducao": "tomar",
+      "tipo": "regular -ar",
       "participio": "tomado",
       "conjugaciones": {
         "yo": {
@@ -936,6 +996,8 @@
     {
       "numero": 31,
       "infinitivo": "conocer",
+      "traducao": "conhecer",
+      "tipo": "irregular",
       "participio": "conocido",
       "conjugaciones": {
         "yo": {
@@ -967,6 +1029,8 @@
     {
       "numero": 32,
       "infinitivo": "vivir",
+      "traducao": "viver",
+      "tipo": "regular -ir",
       "participio": "vivido",
       "conjugaciones": {
         "yo": {
@@ -998,6 +1062,8 @@
     {
       "numero": 33,
       "infinitivo": "sentir",
+      "traducao": "sentir",
+      "tipo": "irregular",
       "participio": "sentido",
       "conjugaciones": {
         "yo": {
@@ -1029,6 +1095,8 @@
     {
       "numero": 34,
       "infinitivo": "tratar",
+      "traducao": "tratar",
+      "tipo": "regular -ar",
       "participio": "tratado",
       "conjugaciones": {
         "yo": {
@@ -1060,6 +1128,8 @@
     {
       "numero": 35,
       "infinitivo": "mirar",
+      "traducao": "olhar",
+      "tipo": "regular -ar",
       "participio": "mirado",
       "conjugaciones": {
         "yo": {
@@ -1091,6 +1161,8 @@
     {
       "numero": 36,
       "infinitivo": "contar",
+      "traducao": "contar",
+      "tipo": "irregular",
       "participio": "contado",
       "conjugaciones": {
         "yo": {
@@ -1122,6 +1194,8 @@
     {
       "numero": 37,
       "infinitivo": "empezar",
+      "traducao": "começar",
+      "tipo": "irregular",
       "participio": "empezado",
       "conjugaciones": {
         "yo": {
@@ -1153,6 +1227,8 @@
     {
       "numero": 38,
       "infinitivo": "esperar",
+      "traducao": "esperar",
+      "tipo": "regular -ar",
       "participio": "esperado",
       "conjugaciones": {
         "yo": {
@@ -1184,6 +1260,8 @@
     {
       "numero": 39,
       "infinitivo": "buscar",
+      "traducao": "buscar/procurar",
+      "tipo": "regular -ar",
       "participio": "buscado",
       "conjugaciones": {
         "yo": {
@@ -1215,6 +1293,8 @@
     {
       "numero": 40,
       "infinitivo": "existir",
+      "traducao": "existir",
+      "tipo": "regular -ir",
       "participio": "existido",
       "conjugaciones": {
         "yo": {
@@ -1246,6 +1326,8 @@
     {
       "numero": 41,
       "infinitivo": "entrar",
+      "traducao": "entrar",
+      "tipo": "regular -ar",
       "participio": "entrado",
       "conjugaciones": {
         "yo": {
@@ -1277,6 +1359,8 @@
     {
       "numero": 42,
       "infinitivo": "trabajar",
+      "traducao": "trabalhar",
+      "tipo": "regular -ar",
       "participio": "trabajado",
       "conjugaciones": {
         "yo": {
@@ -1308,6 +1392,8 @@
     {
       "numero": 43,
       "infinitivo": "escribir",
+      "traducao": "escrever",
+      "tipo": "irregular",
       "participio": "escrito",
       "conjugaciones": {
         "yo": {
@@ -1339,6 +1425,8 @@
     {
       "numero": 44,
       "infinitivo": "producir",
+      "traducao": "produzir",
+      "tipo": "irregular",
       "participio": "producido",
       "conjugaciones": {
         "yo": {
@@ -1370,6 +1458,8 @@
     {
       "numero": 45,
       "infinitivo": "ocurrir",
+      "traducao": "ocorrer",
+      "tipo": "regular -ir",
       "participio": "ocurrido",
       "conjugaciones": {
         "yo": {
@@ -1401,6 +1491,8 @@
     {
       "numero": 46,
       "infinitivo": "entender",
+      "traducao": "entender",
+      "tipo": "irregular",
       "participio": "entendido",
       "conjugaciones": {
         "yo": {
@@ -1432,6 +1524,8 @@
     {
       "numero": 47,
       "infinitivo": "pedir",
+      "traducao": "pedir",
+      "tipo": "irregular",
       "participio": "pedido",
       "conjugaciones": {
         "yo": {
@@ -1463,6 +1557,8 @@
     {
       "numero": 48,
       "infinitivo": "recibir",
+      "traducao": "receber",
+      "tipo": "regular -ir",
       "participio": "recibido",
       "conjugaciones": {
         "yo": {
@@ -1494,6 +1590,8 @@
     {
       "numero": 49,
       "infinitivo": "recordar",
+      "traducao": "lembrar",
+      "tipo": "irregular",
       "participio": "recordado",
       "conjugaciones": {
         "yo": {
@@ -1525,6 +1623,8 @@
     {
       "numero": 50,
       "infinitivo": "terminar",
+      "traducao": "terminar",
+      "tipo": "regular -ar",
       "participio": "terminado",
       "conjugaciones": {
         "yo": {
@@ -1556,6 +1656,8 @@
     {
       "numero": 51,
       "infinitivo": "permitir",
+      "traducao": "permitir",
+      "tipo": "regular -ir",
       "participio": "permitido",
       "conjugaciones": {
         "yo": {
@@ -1587,6 +1689,8 @@
     {
       "numero": 52,
       "infinitivo": "aparecer",
+      "traducao": "aparecer",
+      "tipo": "irregular",
       "participio": "aparecido",
       "conjugaciones": {
         "yo": {
@@ -1618,6 +1722,8 @@
     {
       "numero": 53,
       "infinitivo": "conseguir",
+      "traducao": "conseguir",
+      "tipo": "irregular",
       "participio": "conseguido",
       "conjugaciones": {
         "yo": {
@@ -1649,6 +1755,8 @@
     {
       "numero": 54,
       "infinitivo": "explicar",
+      "traducao": "explicar",
+      "tipo": "regular -ar",
       "participio": "explicado",
       "conjugaciones": {
         "yo": {
@@ -1680,6 +1788,8 @@
     {
       "numero": 55,
       "infinitivo": "tocar",
+      "traducao": "tocar",
+      "tipo": "regular -ar",
       "participio": "tocado",
       "conjugaciones": {
         "yo": {
@@ -1711,6 +1821,8 @@
     {
       "numero": 56,
       "infinitivo": "reconocer",
+      "traducao": "reconhecer",
+      "tipo": "irregular",
       "participio": "reconocido",
       "conjugaciones": {
         "yo": {
@@ -1742,6 +1854,8 @@
     {
       "numero": 57,
       "infinitivo": "estudiar",
+      "traducao": "estudar",
+      "tipo": "regular -ar",
       "participio": "estudiado",
       "conjugaciones": {
         "yo": {
@@ -1773,6 +1887,8 @@
     {
       "numero": 58,
       "infinitivo": "alcanzar",
+      "traducao": "alcançar",
+      "tipo": "regular -ar",
       "participio": "alcanzado",
       "conjugaciones": {
         "yo": {
@@ -1804,6 +1920,8 @@
     {
       "numero": 59,
       "infinitivo": "nacer",
+      "traducao": "nascer",
+      "tipo": "irregular",
       "participio": "nacido",
       "conjugaciones": {
         "yo": {
@@ -1835,6 +1953,8 @@
     {
       "numero": 60,
       "infinitivo": "dirigir",
+      "traducao": "dirigir",
+      "tipo": "irregular",
       "participio": "dirigido",
       "conjugaciones": {
         "yo": {
@@ -1866,6 +1986,8 @@
     {
       "numero": 61,
       "infinitivo": "correr",
+      "traducao": "correr",
+      "tipo": "regular -er",
       "participio": "corrido",
       "conjugaciones": {
         "yo": {
@@ -1897,6 +2019,8 @@
     {
       "numero": 62,
       "infinitivo": "utilizar",
+      "traducao": "utilizar",
+      "tipo": "regular -ar",
       "participio": "utilizado",
       "conjugaciones": {
         "yo": {
@@ -1928,6 +2052,8 @@
     {
       "numero": 63,
       "infinitivo": "mostrar",
+      "traducao": "mostrar",
+      "tipo": "irregular",
       "participio": "mostrado",
       "conjugaciones": {
         "yo": {
@@ -1959,6 +2085,8 @@
     {
       "numero": 64,
       "infinitivo": "caer",
+      "traducao": "cair",
+      "tipo": "irregular",
       "participio": "caído",
       "conjugaciones": {
         "yo": {
@@ -1990,6 +2118,8 @@
     {
       "numero": 65,
       "infinitivo": "crear",
+      "traducao": "criar",
+      "tipo": "regular -ar",
       "participio": "creado",
       "conjugaciones": {
         "yo": {
@@ -2021,6 +2151,8 @@
     {
       "numero": 66,
       "infinitivo": "abrir",
+      "traducao": "abrir",
+      "tipo": "irregular",
       "participio": "abierto",
       "conjugaciones": {
         "yo": {
@@ -2052,6 +2184,8 @@
     {
       "numero": 67,
       "infinitivo": "comenzar",
+      "traducao": "começar",
+      "tipo": "irregular",
       "participio": "comenzado",
       "conjugaciones": {
         "yo": {
@@ -2083,6 +2217,8 @@
     {
       "numero": 68,
       "infinitivo": "perder",
+      "traducao": "perder",
+      "tipo": "irregular",
       "participio": "perdido",
       "conjugaciones": {
         "yo": {
@@ -2114,6 +2250,8 @@
     {
       "numero": 69,
       "infinitivo": "ofrecer",
+      "traducao": "oferecer",
+      "tipo": "irregular",
       "participio": "ofrecido",
       "conjugaciones": {
         "yo": {
@@ -2145,6 +2283,8 @@
     {
       "numero": 70,
       "infinitivo": "aplicar",
+      "traducao": "aplicar",
+      "tipo": "regular -ar",
       "participio": "aplicado",
       "conjugaciones": {
         "yo": {
@@ -2176,6 +2316,8 @@
     {
       "numero": 71,
       "infinitivo": "realizar",
+      "traducao": "realizar",
+      "tipo": "regular -ar",
       "participio": "realizado",
       "conjugaciones": {
         "yo": {
@@ -2207,6 +2349,8 @@
     {
       "numero": 72,
       "infinitivo": "suponer",
+      "traducao": "supor",
+      "tipo": "irregular",
       "participio": "supuesto",
       "conjugaciones": {
         "yo": {
@@ -2238,6 +2382,8 @@
     {
       "numero": 73,
       "infinitivo": "compartir",
+      "traducao": "compartilhar",
+      "tipo": "regular -ir",
       "participio": "compartido",
       "conjugaciones": {
         "yo": {
@@ -2269,6 +2415,8 @@
     {
       "numero": 74,
       "infinitivo": "leer",
+      "traducao": "ler",
+      "tipo": "irregular",
       "participio": "leído",
       "conjugaciones": {
         "yo": {
@@ -2300,6 +2448,8 @@
     {
       "numero": 75,
       "infinitivo": "escuchar",
+      "traducao": "escutar/ouvir",
+      "tipo": "regular -ar",
       "participio": "escuchado",
       "conjugaciones": {
         "yo": {
@@ -2331,6 +2481,8 @@
     {
       "numero": 76,
       "infinitivo": "cambiar",
+      "traducao": "mudar",
+      "tipo": "regular -ar",
       "participio": "cambiado",
       "conjugaciones": {
         "yo": {
@@ -2362,6 +2514,8 @@
     {
       "numero": 77,
       "infinitivo": "presentar",
+      "traducao": "apresentar",
+      "tipo": "regular -ar",
       "participio": "presentado",
       "conjugaciones": {
         "yo": {
@@ -2393,6 +2547,8 @@
     {
       "numero": 78,
       "infinitivo": "considerar",
+      "traducao": "considerar",
+      "tipo": "regular -ar",
       "participio": "considerado",
       "conjugaciones": {
         "yo": {
@@ -2424,6 +2580,8 @@
     {
       "numero": 79,
       "infinitivo": "resultar",
+      "traducao": "resultar",
+      "tipo": "regular -ar",
       "participio": "resultado",
       "conjugaciones": {
         "yo": {
@@ -2455,6 +2613,8 @@
     {
       "numero": 80,
       "infinitivo": "aumentar",
+      "traducao": "aumentar",
+      "tipo": "regular -ar",
       "participio": "aumentado",
       "conjugaciones": {
         "yo": {
@@ -2486,6 +2646,8 @@
     {
       "numero": 81,
       "infinitivo": "ganar",
+      "traducao": "ganhar",
+      "tipo": "regular -ar",
       "participio": "ganado",
       "conjugaciones": {
         "yo": {
@@ -2517,6 +2679,8 @@
     {
       "numero": 82,
       "infinitivo": "mantener",
+      "traducao": "manter",
+      "tipo": "irregular",
       "participio": "mantenido",
       "conjugaciones": {
         "yo": {
@@ -2548,6 +2712,8 @@
     {
       "numero": 83,
       "infinitivo": "bastar",
+      "traducao": "bastar",
+      "tipo": "regular -ar",
       "participio": "bastado",
       "conjugaciones": {
         "yo": {
@@ -2579,6 +2745,8 @@
     {
       "numero": 84,
       "infinitivo": "formar",
+      "traducao": "formar",
+      "tipo": "regular -ar",
       "participio": "formado",
       "conjugaciones": {
         "yo": {
@@ -2610,6 +2778,8 @@
     {
       "numero": 85,
       "infinitivo": "continuar",
+      "traducao": "continuar",
+      "tipo": "regular -ar",
       "participio": "continuado",
       "conjugaciones": {
         "yo": {
@@ -2641,6 +2811,8 @@
     {
       "numero": 86,
       "infinitivo": "comprar",
+      "traducao": "comprar",
+      "tipo": "regular -ar",
       "participio": "comprado",
       "conjugaciones": {
         "yo": {
@@ -2672,6 +2844,8 @@
     {
       "numero": 87,
       "infinitivo": "sufrir",
+      "traducao": "sofrer",
+      "tipo": "regular -ir",
       "participio": "sufrido",
       "conjugaciones": {
         "yo": {
@@ -2703,6 +2877,8 @@
     {
       "numero": 88,
       "infinitivo": "cumplir",
+      "traducao": "cumprir",
+      "tipo": "regular -ir",
       "participio": "cumplido",
       "conjugaciones": {
         "yo": {
@@ -2734,6 +2910,8 @@
     {
       "numero": 89,
       "infinitivo": "aprender",
+      "traducao": "aprender",
+      "tipo": "regular -er",
       "participio": "aprendido",
       "conjugaciones": {
         "yo": {
@@ -2765,6 +2943,8 @@
     {
       "numero": 90,
       "infinitivo": "servir",
+      "traducao": "servir",
+      "tipo": "irregular",
       "participio": "servido",
       "conjugaciones": {
         "yo": {
@@ -2796,6 +2976,8 @@
     {
       "numero": 91,
       "infinitivo": "intentar",
+      "traducao": "tentar",
+      "tipo": "regular -ar",
       "participio": "intentado",
       "conjugaciones": {
         "yo": {
@@ -2827,6 +3009,8 @@
     {
       "numero": 92,
       "infinitivo": "echar",
+      "traducao": "jogar/lançar",
+      "tipo": "regular -ar",
       "participio": "echado",
       "conjugaciones": {
         "yo": {
@@ -2858,6 +3042,8 @@
     {
       "numero": 93,
       "infinitivo": "elegir",
+      "traducao": "eleger/escolher",
+      "tipo": "irregular",
       "participio": "elegido",
       "conjugaciones": {
         "yo": {
@@ -2889,6 +3075,8 @@
     {
       "numero": 94,
       "infinitivo": "aceptar",
+      "traducao": "aceitar",
+      "tipo": "regular -ar",
       "participio": "aceptado",
       "conjugaciones": {
         "yo": {
@@ -2920,6 +3108,8 @@
     {
       "numero": 95,
       "infinitivo": "desear",
+      "traducao": "desejar",
+      "tipo": "regular -ar",
       "participio": "deseado",
       "conjugaciones": {
         "yo": {
@@ -2951,6 +3141,8 @@
     {
       "numero": 96,
       "infinitivo": "abandonar",
+      "traducao": "abandonar",
+      "tipo": "regular -ar",
       "participio": "abandonado",
       "conjugaciones": {
         "yo": {
@@ -2982,6 +3174,8 @@
     {
       "numero": 97,
       "infinitivo": "necesitar",
+      "traducao": "necessitar",
+      "tipo": "regular -ar",
       "participio": "necesitado",
       "conjugaciones": {
         "yo": {
@@ -3013,6 +3207,8 @@
     {
       "numero": 98,
       "infinitivo": "guardar",
+      "traducao": "guardar",
+      "tipo": "regular -ar",
       "participio": "guardado",
       "conjugaciones": {
         "yo": {
@@ -3044,6 +3240,8 @@
     {
       "numero": 99,
       "infinitivo": "observar",
+      "traducao": "observar",
+      "tipo": "regular -ar",
       "participio": "observado",
       "conjugaciones": {
         "yo": {
@@ -3075,6 +3273,8 @@
     {
       "numero": 100,
       "infinitivo": "ayudar",
+      "traducao": "ajudar",
+      "tipo": "regular -ar",
       "participio": "ayudado",
       "conjugaciones": {
         "yo": {
