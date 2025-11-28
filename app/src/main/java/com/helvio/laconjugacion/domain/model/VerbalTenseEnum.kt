@@ -1,6 +1,5 @@
 package com.helvio.laconjugacion.domain.model
 
-import android.content.Context
 import com.helvio.laconjugacion.R
 
 enum class VerbalTenseEnum(val value: String) {

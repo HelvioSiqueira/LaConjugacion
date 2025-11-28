@@ -8,9 +8,10 @@ import com.helvio.laconjugacion.data.source.json.JsonDataSource
 import com.helvio.laconjugacion.data.source.local.ILocalDataSource
 import com.helvio.laconjugacion.data.source.local.LocalDataSource
 import com.helvio.laconjugacion.domain.repository.IConjugationRepository
-import com.helvio.laconjugacion.domain.usecase.GetAllConjugationsUseCase
+import com.helvio.laconjugacion.domain.usecase.GetConjugationsFromJsonUseCase
 import com.helvio.laconjugacion.domain.usecase.GetConjugationsUseCase
 import com.helvio.laconjugacion.presentation.conjugations.ConjugationsViewModel
+import com.helvio.laconjugacion.presentation.selectVerbalTense.model.SelectVerbalTenseViewModel
 import org.koin.android.ext.koin.androidContext
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
@@ -38,8 +39,10 @@ object AppModule {
 
         factory { GetConjugationsUseCase(repository = get()) }
 
-        factory { GetAllConjugationsUseCase(repository = get()) }
+        factory { GetConjugationsFromJsonUseCase(repository = get()) }
 
         viewModel { ConjugationsViewModel(getConjugationsUseCase = get()) }
+
+        viewModel { SelectVerbalTenseViewModel(getConjugationsFromJsonUseCase = get()) }
     }
 }

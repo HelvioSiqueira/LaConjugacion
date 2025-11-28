@@ -28,7 +28,9 @@ class ConjugationRepository(
         }
     }
 
-    override fun getConjugationsByVerbTense(verbTense: VerbalTenseEnum): Flow<GetConjugationResult> {
+    override fun getConjugationsByVerbTense(
+        verbTense: VerbalTenseEnum
+    ): Flow<GetConjugationResult> {
         return localDataSource
             .getConjugationsByVerbTense(verbTense)
             .map { verbWithConjugations ->
