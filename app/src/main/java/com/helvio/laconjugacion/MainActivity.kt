@@ -4,16 +4,16 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.tooling.preview.Preview
+import androidx.navigation.compose.rememberNavController
 import com.helvio.laconjugacion.repository.conjugation.IConjugationRepository
+import com.helvio.laconjugacion.ui.routes.MyNavHost
 import com.helvio.laconjugacion.ui.theme.LaConjugacionTheme
 import org.koin.android.ext.android.inject
 
@@ -25,6 +25,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         enableEdgeToEdge()
+
+        actionBar?.hide()
+
         setContent {
             val context = LocalContext.current
 
@@ -32,20 +35,13 @@ class MainActivity : ComponentActivity() {
 
             LaConjugacionTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(name = "Android", modifier = Modifier.padding(innerPadding))
+                    Box(modifier = Modifier.padding(top = innerPadding.calculateTopPadding())) {
+                        val navHostController = rememberNavController()
+
+                        MyNavHost(navHostController)
+                    }
                 }
             }
         }
     }
-}
-
-@Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(text = "Hello $name!", modifier = modifier)
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    LaConjugacionTheme { Greeting("Android") }
 }

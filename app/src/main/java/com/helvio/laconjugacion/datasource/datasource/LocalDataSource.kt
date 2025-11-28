@@ -4,8 +4,10 @@ import android.util.Log
 import com.helvio.laconjugacion.datasource.dao.LaConjugationDao
 import com.helvio.laconjugacion.datasource.model.VerbTenseEnum
 import com.helvio.laconjugacion.datasource.model.conjugation.VerbDto
+import com.helvio.laconjugacion.datasource.model.conjugation.VerbWithConjugations
 import com.helvio.laconjugacion.datasource.model.conjugation.toConjugationEntities
 import com.helvio.laconjugacion.datasource.model.conjugation.toEntity
+import kotlinx.coroutines.flow.Flow
 
 class LocalDataSource(private val dao: LaConjugationDao) : ILocalDataSource {
     override suspend fun saveConjugations(verbDtoList: List<VerbDto>, verbTense: VerbTenseEnum) {
@@ -25,5 +27,18 @@ class LocalDataSource(private val dao: LaConjugationDao) : ILocalDataSource {
             )
             dao.insertTheyYouPluralConjugations(conjugationEntities.theyYouPluralConjugation)
         }
+    }
+
+    override fun getConjugationsByVerbTense(
+        verbTense: VerbTenseEnum
+    ): Flow<List<VerbWithConjugations>> {
+        return dao.getConjugationsByVerbTense(verbTense.value)
+    }
+
+    override suspend fun getConjugationByVerbAndTense(
+        verbTense: VerbTenseEnum,
+        infinitive: String,
+    ): VerbWithConjugations? {
+        return dao.getConjugationByVerbAndTense(verbTense.value, infinitive)
     }
 }

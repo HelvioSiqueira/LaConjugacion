@@ -8,8 +8,6 @@ import androidx.room.Index
 import androidx.room.PrimaryKey
 import androidx.room.Relation
 
-// ==================== TABELA PRINCIPAL: VERBOS ====================
-
 @Entity(
     tableName = "verbs",
     indices =
@@ -27,8 +25,6 @@ data class VerbEntity(
     @ColumnInfo(name = "translation") val translation: String,
     @ColumnInfo(name = "verb_tense") val verbTense: String,
 )
-
-// ==================== TABELAS DE CONJUGAÇÕES POR PRONOME ====================
 
 @Entity(
     tableName = "i_conjugations",
@@ -217,7 +213,6 @@ fun VerbDto.toConjugationEntities(verbId: Long): ConjugationEntities {
     )
 }
 
-/** Classe auxiliar para agrupar todas as conjugações de um verbo */
 data class ConjugationEntities(
     val iConjugation: IConjugationEntity,
     val youInformalConjugation: YouInformalConjugationEntity,
@@ -227,7 +222,6 @@ data class ConjugationEntities(
     val theyYouPluralConjugation: TheyYouPluralConjugationEntity,
 )
 
-/** Converte VerbWithConjugations de volta para VerbDto */
 fun VerbWithConjugations.toDto(): VerbDto {
     return VerbDto(
         number = verb.number,
@@ -267,5 +261,16 @@ fun VerbWithConjugations.toDto(): VerbDto {
                         form = theyYouPluralConjugation.firstOrNull()?.form ?: "",
                     ),
             ),
+    )
+}
+
+fun List<VerbWithConjugations>.toModel(
+    verbTense: com.helvio.laconjugacion.datasource.model.VerbTenseEnum
+): ConjugationsModel {
+    return ConjugationsModel(
+        description = "",
+        verbTense = verbTense,
+        title = "",
+        verbs = this.map { it.toDto() },
     )
 }
