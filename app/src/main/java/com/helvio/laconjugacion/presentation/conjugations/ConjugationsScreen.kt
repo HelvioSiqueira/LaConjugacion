@@ -13,6 +13,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -28,16 +29,22 @@ import com.helvio.laconjugacion.presentation.theme.LaConjugacionTheme
 @Composable
 fun ConjugationsScreen(state: ConjugationsScreenState) {
 
-    Box(modifier = Modifier.fillMaxSize()) {
-        when (val state = state.getConjugationResult) {
-            is GetConjugationResult.Loading -> {
-                LoadingState()
-            }
-            is GetConjugationResult.Success -> {
-                SuccessState(conjugationsModel = state.data)
-            }
-            is GetConjugationResult.Failure -> {
-                ErrorState(errorMessage = state.errorMessage)
+    Scaffold { innerPadding ->
+        Column(
+            verticalArrangement = Arrangement.Center,
+            horizontalAlignment = Alignment.CenterHorizontally,
+            modifier = Modifier.padding(top = innerPadding.calculateTopPadding()),
+        ) {
+            when (val state = state.getConjugationResult) {
+                is GetConjugationResult.Loading -> {
+                    LoadingState()
+                }
+                is GetConjugationResult.Success -> {
+                    SuccessState(conjugationsModel = state.data)
+                }
+                is GetConjugationResult.Failure -> {
+                    ErrorState(errorMessage = state.errorMessage)
+                }
             }
         }
     }
@@ -52,13 +59,7 @@ private fun LoadingState() {
 
 @Composable
 private fun SuccessState(conjugationsModel: ConjugationsModel) {
-    Column(modifier = Modifier.fillMaxSize().padding(16.dp)) {
-        Text(
-            text = "Conjugações: ${conjugationsModel.verbTense.name}",
-            style = MaterialTheme.typography.headlineMedium,
-            modifier = Modifier.padding(bottom = 16.dp),
-        )
-
+    Column(modifier = Modifier.fillMaxSize().padding(horizontal = 16.dp)) {
         LazyColumn(
             verticalArrangement = Arrangement.spacedBy(8.dp),
             contentPadding = PaddingValues(vertical = 8.dp),
