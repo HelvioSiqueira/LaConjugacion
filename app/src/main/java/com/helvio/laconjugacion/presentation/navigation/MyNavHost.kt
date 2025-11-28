@@ -1,5 +1,7 @@
 package com.helvio.laconjugacion.presentation.navigation
 
+import androidx.compose.animation.AnimatedContentTransitionScope
+import androidx.compose.animation.core.tween
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
@@ -20,7 +22,21 @@ import org.koin.compose.viewmodel.koinViewModel
 fun MyNavHost(navHostController: NavHostController) {
 
     NavHost(navHostController, startDestination = NavPages.SelectVerbalTense) {
-        composable<NavPages.SelectVerbalTense> {
+        composable<NavPages.SelectVerbalTense>(
+            enterTransition = {
+
+                return@composable slideIntoContainer(
+                    AnimatedContentTransitionScope.SlideDirection.Right,
+                    tween(1000)
+                )
+            },
+            exitTransition = {
+                return@composable slideOutOfContainer(
+                    AnimatedContentTransitionScope.SlideDirection.Left,
+                    tween(1000)
+                )
+            }
+        ) {
             val viewModel = koinViewModel<SelectVerbalTenseViewModel>()
 
             viewModel.getConjugationsFromJsonIfNeeded(LocalContext.current)
@@ -35,7 +51,21 @@ fun MyNavHost(navHostController: NavHostController) {
             SelectVerbalTenseScreen(state)
         }
 
-        composable<NavPages.ConjugationsPage> {
+        composable<NavPages.ConjugationsPage>(
+            enterTransition = {
+
+                return@composable slideIntoContainer(
+                    AnimatedContentTransitionScope.SlideDirection.Left,
+                    tween(1000)
+                )
+            },
+            exitTransition = {
+                return@composable slideOutOfContainer(
+                    AnimatedContentTransitionScope.SlideDirection.Right,
+                    tween(1000)
+                )
+            }
+        ) {
             val viewModel = koinViewModel<ConjugationsViewModel>()
 
             val args = it.toRoute<NavPages.ConjugationsPage>()
