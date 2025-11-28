@@ -29,7 +29,7 @@ import com.helvio.laconjugacion.presentation.theme.LaConjugacionTheme
 fun ConjugationsScreen(state: ConjugationsScreenState) {
 
     Box(modifier = Modifier.fillMaxSize()) {
-        when (val state = state) {
+        when (val state = state.getConjugationResult) {
             is GetConjugationResult.Loading -> {
                 LoadingState()
             }

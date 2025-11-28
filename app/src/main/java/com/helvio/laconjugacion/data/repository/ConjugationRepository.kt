@@ -5,7 +5,7 @@ import com.helvio.laconjugacion.data.local.entity.toModel
 import com.helvio.laconjugacion.data.source.json.IJsonDataSource
 import com.helvio.laconjugacion.data.source.local.ILocalDataSource
 import com.helvio.laconjugacion.domain.model.GetConjugationResult
-import com.helvio.laconjugacion.domain.model.VerbTenseEnum
+import com.helvio.laconjugacion.domain.model.VerbalTenseEnum
 import com.helvio.laconjugacion.domain.model.dto.VerbDto
 import com.helvio.laconjugacion.domain.model.getJsonFiles
 import com.helvio.laconjugacion.domain.repository.IConjugationRepository
@@ -20,7 +20,7 @@ class ConjugationRepository(
 ) : IConjugationRepository {
 
     override suspend fun getAllConjugations(context: Context) {
-        VerbTenseEnum.entries.forEach { verbTense ->
+        VerbalTenseEnum.entries.forEach { verbTense ->
             val conjugationsDto =
                 jsonDataSource.loadConjugations(context = context, files = verbTense.getJsonFiles())
 
@@ -28,7 +28,7 @@ class ConjugationRepository(
         }
     }
 
-    override fun getConjugationsByVerbTense(verbTense: VerbTenseEnum): Flow<GetConjugationResult> {
+    override fun getConjugationsByVerbTense(verbTense: VerbalTenseEnum): Flow<GetConjugationResult> {
         return localDataSource
             .getConjugationsByVerbTense(verbTense)
             .map { verbWithConjugations ->
@@ -41,7 +41,7 @@ class ConjugationRepository(
             }
     }
 
-    private suspend fun saveConjugations(verbDto: List<VerbDto>, verbTense: VerbTenseEnum) {
+    private suspend fun saveConjugations(verbDto: List<VerbDto>, verbTense: VerbalTenseEnum) {
         localDataSource.saveConjugations(verbDto, verbTense)
     }
 }

@@ -2,7 +2,7 @@ package com.helvio.laconjugacion.domain.model.dto
 
 import com.google.gson.annotations.SerializedName
 import com.helvio.laconjugacion.domain.model.ConjugationsModel
-import com.helvio.laconjugacion.domain.model.VerbTenseEnum
+import com.helvio.laconjugacion.domain.model.VerbalTenseEnum
 
 data class IConjugationDto(
     @SerializedName("ejemplo") val example: String?,
@@ -61,7 +61,7 @@ data class ConjugationsDto(
 fun ConjugationsDto.toModel() =
     ConjugationsModel(
         description = description,
-        verbTense = VerbTenseEnum.fromValue(verbTense),
+        verbTense = VerbalTenseEnum.fromValue(verbTense),
         title = title,
         verbs = verbs,
     )

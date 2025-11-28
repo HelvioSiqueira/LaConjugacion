@@ -8,7 +8,7 @@ import androidx.room.Index
 import androidx.room.PrimaryKey
 import androidx.room.Relation
 import com.helvio.laconjugacion.domain.model.ConjugationsModel
-import com.helvio.laconjugacion.domain.model.VerbTenseEnum
+import com.helvio.laconjugacion.domain.model.VerbalTenseEnum
 import com.helvio.laconjugacion.domain.model.dto.HeSheYouFormalConjugationDto
 import com.helvio.laconjugacion.domain.model.dto.IConjugationDto
 import com.helvio.laconjugacion.domain.model.dto.PersonConjugationsDto
@@ -274,7 +274,7 @@ fun VerbWithConjugations.toDto(): VerbDto {
     )
 }
 
-fun List<VerbWithConjugations>.toModel(verbTense: VerbTenseEnum): ConjugationsModel {
+fun List<VerbWithConjugations>.toModel(verbTense: VerbalTenseEnum): ConjugationsModel {
     return ConjugationsModel(
         description = "",
         verbTense = verbTense,

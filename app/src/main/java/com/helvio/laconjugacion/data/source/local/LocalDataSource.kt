@@ -5,12 +5,12 @@ import com.helvio.laconjugacion.data.local.dao.LaConjugationDao
 import com.helvio.laconjugacion.data.local.entity.VerbWithConjugations
 import com.helvio.laconjugacion.data.local.entity.toConjugationEntities
 import com.helvio.laconjugacion.data.local.entity.toEntity
-import com.helvio.laconjugacion.domain.model.VerbTenseEnum
+import com.helvio.laconjugacion.domain.model.VerbalTenseEnum
 import com.helvio.laconjugacion.domain.model.dto.VerbDto
 import kotlinx.coroutines.flow.Flow
 
 class LocalDataSource(private val dao: LaConjugationDao) : ILocalDataSource {
-    override suspend fun saveConjugations(verbDtoList: List<VerbDto>, verbTense: VerbTenseEnum) {
+    override suspend fun saveConjugations(verbDtoList: List<VerbDto>, verbTense: VerbalTenseEnum) {
 
         verbDtoList.forEach { verbDto ->
             Log.d("HSV", verbDto.toString())
@@ -30,13 +30,13 @@ class LocalDataSource(private val dao: LaConjugationDao) : ILocalDataSource {
     }
 
     override fun getConjugationsByVerbTense(
-        verbTense: VerbTenseEnum
+        verbTense: VerbalTenseEnum
     ): Flow<List<VerbWithConjugations>> {
         return dao.getConjugationsByVerbTense(verbTense.value)
     }
 
     override suspend fun getConjugationByVerbAndTense(
-        verbTense: VerbTenseEnum,
+        verbTense: VerbalTenseEnum,
         infinitive: String,
     ): VerbWithConjugations? {
         return dao.getConjugationByVerbAndTense(verbTense.value, infinitive)

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LaConjugacion</string>
+    <string name="title_present_indicative">Presente do Indicativo</string>
+    <string name="title_conditional_simple">Condicional Simples</string>
+    <string name="title_future_simple">Futuro Simples</string>
+    <string name="title_imperfect_tense">Pretérito Imperfeito</string>
+    <string name="title_preterite_perfect_tense">Pretérito Perfeito Composto</string>
+    <string name="title_preterite_indefinite">Pretérito Indefinido</string>
+    <string name="title_present_subjunctive">Presente Subjuntivo</string>
 </resources>
